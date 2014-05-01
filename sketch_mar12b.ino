@@ -3,3 +3,4 @@
 #define _LATCH  PB4 //12
 #define _CLCK   PB5 //13
 
+byte leds[] = {
