@@ -2,3 +2,4 @@
 //http://www.instructables.com/id/Arduino-Timer-Interrupts/?ALLSTEPS
 void setup()
 {
+  pinMode(ledPin, OUTPUT);
