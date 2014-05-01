@@ -3,3 +3,4 @@
 #define blue    11
 
 #define _DATA   4
+#define _LATCH  7
