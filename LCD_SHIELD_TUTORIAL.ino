@@ -3,3 +3,4 @@
 
 /*******************************************************
 
+This program will test the LCD panel and the buttons
