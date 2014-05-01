@@ -3,3 +3,4 @@
 #define SPRINT            Serial.print
 #define SPRINTLN          Serial.println
 
+//Communication Protocol Definitions
