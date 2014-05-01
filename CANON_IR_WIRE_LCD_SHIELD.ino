@@ -6,3 +6,5 @@
                   start = millis();
 ---------------------------------------
                   shutter = false;
+PINS AVAILABLE FROM THE LCD SHIELD
+                  digitalWrite(SHUTTER_PIN, LOW);
