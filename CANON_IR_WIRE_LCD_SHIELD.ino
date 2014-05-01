@@ -4,3 +4,5 @@
                   elapsed = 0;
 /*
                   start = millis();
+---------------------------------------
+                  shutter = false;
