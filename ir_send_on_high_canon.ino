@@ -3,3 +3,4 @@
 #define INPUTPIN2 7
 
 unsigned int MICROPULSE =  10;
+unsigned int PICTURE    =  7330;
