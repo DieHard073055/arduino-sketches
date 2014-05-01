@@ -2,3 +2,4 @@
 
 
 //Reference Constants
+#define MOTOR 1
