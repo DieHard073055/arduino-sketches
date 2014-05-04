@@ -6,3 +6,4 @@ void setup()
 
   // initialize timer1 
   noInterrupts();           // disable all interrupts
+  TCCR1A = 0;
