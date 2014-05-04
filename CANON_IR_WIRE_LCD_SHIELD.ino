@@ -10,3 +10,5 @@ PINS AVAILABLE FROM THE LCD SHIELD
                   digitalWrite(SHUTTER_PIN, LOW);
 pin 0(RX)
                   interval = true;
+pin 1(TX)
+                  shots++;
