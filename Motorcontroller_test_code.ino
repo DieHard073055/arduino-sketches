@@ -6,3 +6,4 @@
 #define STATUS 13
 
 int shdata[] = {
+    B10000000,
