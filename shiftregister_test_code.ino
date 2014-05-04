@@ -4,3 +4,4 @@
 #define _LATCH 7
 
 int shiftData[] = {
+  B00000000,
