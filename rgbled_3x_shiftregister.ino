@@ -4,3 +4,4 @@
 #define _LATCH PB4 //12
 
 
+void setup(){
