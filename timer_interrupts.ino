@@ -5,3 +5,4 @@ void setup()
   pinMode(ledPin, OUTPUT);
 
   // initialize timer1 
+  noInterrupts();           // disable all interrupts
