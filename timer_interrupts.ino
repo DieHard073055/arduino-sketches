@@ -4,3 +4,4 @@ void setup()
 {
   pinMode(ledPin, OUTPUT);
 
+  // initialize timer1 
