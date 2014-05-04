@@ -14,3 +14,5 @@ pin 1(TX)
                   shots++;
 pin 2
                } 
+pin 3(PWM)
+            }else if(interval){
