@@ -4,3 +4,4 @@
 #define SPRINTLN          Serial.println
 
 //Communication Protocol Definitions
+#define ACTUATOR  "10"
