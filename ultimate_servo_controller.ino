@@ -6,3 +6,4 @@
 // Copyright (c) 2013 Arvid Mortensen.  All right reserved. 
 // http://www.lamja.com
 // 
+// This software is free software; you can redistribute it and/or
