@@ -5,3 +5,4 @@
 
 //Communication Protocol Definitions
 #define ACTUATOR  "10"
+#define SENSOR    "20"
