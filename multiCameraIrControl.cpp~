@@ -6,3 +6,4 @@
  * Version....:  1.9
  * Date.......:  2013-02-12
  * Project....:  http://sebastian.setz.name/arduino/my-libraries/multiCameraIrControl
+ * Contact....:  http://Sebastian.Setz.name
