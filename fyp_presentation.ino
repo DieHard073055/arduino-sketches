@@ -6,3 +6,4 @@
 #define LIGHT 2
 #define AIRCOND 3
 
+#define CURTAIN_1 10
