@@ -6,3 +6,4 @@
 
 void setup(){
     
+    DDRB |= (1<<_ENABLE) | (1<<_DATA) | (1<<_LATCH) | (1<<_CLCK);
