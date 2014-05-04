@@ -5,3 +5,4 @@
  * Author.....:  Sebastian Setz
  * Version....:  1.3
  * Date.......:  2013-02-11
+ * Project....:  http://sebastian.setz.name/arduino/my-libraries/multi-Camera-IR-Control
