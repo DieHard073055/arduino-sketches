@@ -4,3 +4,4 @@
 #define _LATCH 7
 
 #define RESET         0
+#define CURTAIN_UP    1
