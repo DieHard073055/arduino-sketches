@@ -12,3 +12,5 @@ pin 0(RX)
                   interval = true;
 pin 1(TX)
                   shots++;
+pin 2
+               } 
