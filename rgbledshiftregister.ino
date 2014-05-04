@@ -5,3 +5,4 @@
 
 
 int shiftData[] = {
+  B01111111,
