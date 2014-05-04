@@ -5,3 +5,4 @@
 
 #define STATUS 13
 
+int shdata[] = {
