@@ -6,3 +6,4 @@
 #define _CLCK   PB5 //13
 
 byte leds[] = {
+  B10000000,
