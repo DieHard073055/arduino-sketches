@@ -4,3 +4,4 @@
 // Jitter is typical 200-400 ns. 32000 steps resolution for 0-180 degrees. In 18 servos mode it can receive serial servo-move commands.
 //
 // Copyright (c) 2013 Arvid Mortensen.  All right reserved. 
+// http://www.lamja.com
