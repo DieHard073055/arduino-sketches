@@ -6,3 +6,4 @@
 #define seg5 5
 #define seg6 6
 #define seg7 7
+#define seg8 8
