@@ -10,3 +10,4 @@ void setup()
   TCCR1B = 0;
 
   TCNT1 = 34268;            // preload timer 65536-16MHz/256/2Hz
+  TCCR1B |= (1 << CS01) | (1 << CS00); //| (1 << CS11);    // 256 prescaler 
