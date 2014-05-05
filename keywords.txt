@@ -9,3 +9,4 @@ zoomin	KEYWORD2
 zoomout	KEYWORD2
 shutterNow	KEYWORD2
 shutterDelayed	KEYWORD2
+toogleFocus KEYWORD2
