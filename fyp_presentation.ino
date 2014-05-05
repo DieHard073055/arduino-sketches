@@ -7,3 +7,4 @@
 #define AIRCOND 3
 
 #define CURTAIN_1 10
+#define CURTAIN_2 11
