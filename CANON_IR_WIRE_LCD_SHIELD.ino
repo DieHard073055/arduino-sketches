@@ -24,3 +24,5 @@ pin 13
                   start = millis();
 
                   shutter = true;
+pin A1
+                  digitalWrite(SHUTTER_PIN, HIGH);
