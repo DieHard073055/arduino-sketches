@@ -8,3 +8,4 @@ Mark Bramwell, July 2010
 
 ********************************************************/
 
+// select the pins used on the LCD panel
