@@ -7,3 +7,4 @@
 #define seg7 7
 #define seg8 8
 #define DIGIT1 9
+#define DIGIT2 10 
