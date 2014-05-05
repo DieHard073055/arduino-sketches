@@ -11,3 +11,4 @@ void setup()
 
   TCNT1 = 34268;            // preload timer 65536-16MHz/256/2Hz
   TCCR1B |= (1 << CS01) | (1 << CS00); //| (1 << CS11);    // 256 prescaler 
+  TIMSK1 |= (1 << TOIE1);   // enable timer overflow interrupt
