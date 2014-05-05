@@ -9,3 +9,4 @@
 #define LIGHT         3
 
 int shiftData[] = {
+  B00000000,
