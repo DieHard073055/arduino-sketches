@@ -12,3 +12,4 @@
 //Pin out definition
 #define LDR A0
 
+//Communication Protocol Variables
