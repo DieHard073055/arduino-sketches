@@ -11,3 +11,4 @@
  *               To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to
  *               Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
  * Keywords...:  arduino, library, camera, ir, control, canon, nikon, olympus, minolta, sony, pentax, interval, timelapse
+ * History....:  2010-12-08 V1.0 - release
