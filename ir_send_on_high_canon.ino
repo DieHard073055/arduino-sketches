@@ -9,3 +9,4 @@ unsigned int INTERvAL   =  16;
 
 
 void setup(){
+  pinMode(IRPIN, OUTPUT);
