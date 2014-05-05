@@ -8,3 +8,4 @@
 
 
 int brightnessLevel[] = {
+    B10000000,
