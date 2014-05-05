@@ -11,3 +11,4 @@
 #define DIGIT3 11
 #define IRSIGNALPIN A4
 #define IRSIGNALPIN2 A5
+#define INPUTPIN 0
