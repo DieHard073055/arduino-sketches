@@ -7,3 +7,4 @@
 #define _CLCK   8
 
 
+int brightnessLevel[] = {
