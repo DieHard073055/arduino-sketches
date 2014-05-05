@@ -8,3 +8,4 @@
 #define CURTAIN_DOWN  2
 #define LIGHT         3
 
+int shiftData[] = {
