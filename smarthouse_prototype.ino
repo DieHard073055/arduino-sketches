@@ -7,3 +7,4 @@
 #define led3    6
 #define led4    9
 
+Servo s1, s2;
