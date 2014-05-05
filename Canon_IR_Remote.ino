@@ -10,3 +10,4 @@
 #define DIGIT1 9
 #define DIGIT2 10 
 #define DIGIT3 11
+#define INPUTPIN 0
