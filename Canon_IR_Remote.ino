@@ -9,3 +9,4 @@
 #define seg8 8
 #define DIGIT1 9
 #define DIGIT2 10 
+#define DIGIT3 11
