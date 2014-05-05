@@ -11,3 +11,4 @@ Servo s1, s2;
 int houseStats[6] = {0, 0, 0, 0, 0, 0};
 
 void setup(){
+    
