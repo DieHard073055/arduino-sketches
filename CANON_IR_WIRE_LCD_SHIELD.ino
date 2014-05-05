@@ -26,3 +26,5 @@ pin 13
                   shutter = true;
 pin A1
                   digitalWrite(SHUTTER_PIN, HIGH);
+pin A2
+                  interval = false;
