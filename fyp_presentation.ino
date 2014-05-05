@@ -9,3 +9,4 @@
 #define CURTAIN_1 10
 #define CURTAIN_2 11
 
+#define DELAY 1000
