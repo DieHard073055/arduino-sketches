@@ -11,3 +11,4 @@
 #define DIGIT3 11
 #define INPUTPIN 0
 #define SHOOTPIN A0
+#define INCREMENT A1
