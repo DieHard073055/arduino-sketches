@@ -9,3 +9,4 @@
 
 #define _BLINK_LED 13
 
+int brightnessLevel[] = {
