@@ -10,3 +10,4 @@
 #define DIGIT2 10 
 #define DIGIT3 11
 #define IRSIGNALPIN A4
+#define IRSIGNALPIN2 A5
