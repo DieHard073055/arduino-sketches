@@ -8,3 +8,4 @@ unsigned int VIDEO      =  5360;
 unsigned int INTERvAL   =  16;
 
 
+void setup(){
