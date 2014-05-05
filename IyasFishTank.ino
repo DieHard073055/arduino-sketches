@@ -7,3 +7,4 @@
 #define _LATCH  5
 #define _CLCK   6
 
+#define _BLINK_LED 13
