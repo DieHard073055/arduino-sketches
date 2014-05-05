@@ -11,3 +11,4 @@
 
 #define DELAY 1000
 
+#define LDR A5
