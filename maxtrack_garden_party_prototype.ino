@@ -7,3 +7,4 @@
 #define CURTAIN_UP    1
 #define CURTAIN_DOWN  2
 #define LIGHT         3
+
