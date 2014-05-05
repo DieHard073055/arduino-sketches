@@ -16,3 +16,5 @@ pin 2
                } 
 pin 3(PWM)
             }else if(interval){
+pin 11(PWM)
+              if(elapsed >= settings_value[1]){
