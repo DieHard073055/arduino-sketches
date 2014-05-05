@@ -22,3 +22,5 @@ pin 12
                   elapsed = 0;
 pin 13
                   start = millis();
+
+                  shutter = true;
