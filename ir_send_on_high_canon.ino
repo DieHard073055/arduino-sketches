@@ -11,3 +11,4 @@ unsigned int INTERvAL   =  16;
 void setup(){
   pinMode(IRPIN, OUTPUT);
   Serial.begin(9600);
+  Serial.println("System started");
