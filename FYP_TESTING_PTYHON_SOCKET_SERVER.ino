@@ -11,3 +11,4 @@
 
 //Pin out definition
 #define LDR A0
+
