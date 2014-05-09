@@ -13,3 +13,4 @@
 #define INPUTPIN 0
 #define SHOOTPIN A0
 #define INCREMENT A1
+#define DECREMENT A2
