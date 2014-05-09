@@ -15,3 +15,4 @@
 #define INCREMENT A1
 #define DECREMENT A2
 #define TIMELAPSE A3
+#define IRPIN A4
