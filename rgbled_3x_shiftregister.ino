@@ -15,3 +15,4 @@ void setup(){
 void loop(){
     
     
+    for(int delayTime = 100; delayTime > 5; delayTime= delayTime-(delayTime/5)){
