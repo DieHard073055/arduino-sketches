@@ -13,3 +13,4 @@
 #define SHOOTPIN A0
 #define INCREMENT A1
 #define DECREMENT A2
+#define TIMELAPSE A3
