@@ -14,3 +14,4 @@
 #define LDR A5
 #define LED 9
 
+Servo curtain_2;
