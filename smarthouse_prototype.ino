@@ -13,3 +13,4 @@ int houseStats[6] = {0, 0, 0, 0, 0, 0};
 void setup(){
     
     Serial.begin(115200);
+
