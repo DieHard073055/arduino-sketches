@@ -14,3 +14,4 @@
 
 //Communication Protocol Variables
 String command_header[COMMAND_VARIABLES]; // Job_id, Actuator_id, Actuator_value, Task_start
+String command = "";
