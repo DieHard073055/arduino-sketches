@@ -14,3 +14,4 @@
  * History....:  2010-12-08 V1.0 - release
  *               2011-01-04 V1.1
  *               2011-01-25 V1.2 - changing pin number, because the wiring at the homepage was different
+ *               2011-01-28 V1.3 - adding zoom to the example
