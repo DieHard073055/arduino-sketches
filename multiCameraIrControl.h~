@@ -15,3 +15,4 @@
  *               2010-12-09 V1.1 
  *               2010-12-16 V1.2
  *               2011-01-01 V1.3
+ *               2011-01-04 V1.4 - making Sony function work, thank you Walter.
