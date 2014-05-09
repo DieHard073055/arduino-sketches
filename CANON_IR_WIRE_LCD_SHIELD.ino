@@ -28,3 +28,5 @@ pin A1
                   digitalWrite(SHUTTER_PIN, HIGH);
 pin A2
                   interval = false;
+pin A3
+               }
