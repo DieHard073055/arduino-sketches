@@ -30,3 +30,5 @@ pin A2
                   interval = false;
 pin A3
                }
+pin A4
+            }
