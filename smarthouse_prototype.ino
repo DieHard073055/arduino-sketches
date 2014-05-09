@@ -15,3 +15,4 @@ void setup(){
     Serial.begin(115200);
 
     pinMode(led1, OUTPUT);
+    pinMode(led2, OUTPUT);
