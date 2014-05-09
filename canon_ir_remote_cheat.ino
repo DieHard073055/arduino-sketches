@@ -13,3 +13,4 @@
 #define IRSIGNALPIN2 A5
 #define INPUTPIN 0
 #define SHOOTPIN A0
+#define INCREMENT A1
