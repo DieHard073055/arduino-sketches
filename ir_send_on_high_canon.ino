@@ -14,3 +14,4 @@ void setup(){
   Serial.println("System started");
 }
 void loop(){
+  if(digitalRead(INPUTPIN) == HIGH){
