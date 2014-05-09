@@ -13,3 +13,4 @@
  * Keywords...:  arduino, library, camera, ir, control, canon, nikon, olympus, minolta, sony, pentax, interval, timelapse
  * History....:  2013-02-12 V1.0 - release
  *
+ ********************************************/
