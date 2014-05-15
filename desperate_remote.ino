@@ -21,3 +21,4 @@
 #define INPUT_1       A4
 #define INPUT_2       A3
 #define INPUT_3       A2
+#define INPUT_4       A1
