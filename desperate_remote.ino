@@ -19,3 +19,4 @@
 
 #define TIMELAPSE_PIN A5
 #define INPUT_1       A4
+#define INPUT_2       A3
