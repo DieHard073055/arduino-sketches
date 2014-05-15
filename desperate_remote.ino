@@ -17,3 +17,4 @@
 1111
 */
 
+#define TIMELAPSE_PIN A5
