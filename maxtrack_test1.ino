@@ -18,3 +18,4 @@ byte leds[] = {
 };
 
 
+byte output = B00000000;
