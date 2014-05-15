@@ -16,3 +16,4 @@ LCD DISPLAY MODULE FILE
 #
 
 */
+#include <LiquidCrystal.h>
