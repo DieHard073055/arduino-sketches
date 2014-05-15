@@ -18,3 +18,4 @@ LCD DISPLAY MODULE FILE
 */
 #include <LiquidCrystal.h>
 
+#define LCD_BACKLIGHT_BRIGHTNESS 50
