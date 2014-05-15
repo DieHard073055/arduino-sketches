@@ -42,3 +42,5 @@ pin 10 backlight control
           /*
 
                 SLEEP CONTROLLER
+pin 11 connected to the relay
+                SET SLEEP TIME TO 5 SECONDS
