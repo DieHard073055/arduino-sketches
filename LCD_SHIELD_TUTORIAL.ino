@@ -17,3 +17,4 @@ int adc_key_in  = 0;
 #define btnRIGHT  0
 #define btnUP     1
 #define btnDOWN   2
+#define btnLEFT   3
