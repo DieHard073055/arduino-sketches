@@ -38,3 +38,5 @@ pin A5
           }
 
           
+pin 10 backlight control
+          /*
