@@ -17,3 +17,4 @@ void loop(){
   if(digitalRead(INPUTPIN) == HIGH){
      Serial.println("Shoot!");
      camera(PICTURE);
+     delay(100); 
