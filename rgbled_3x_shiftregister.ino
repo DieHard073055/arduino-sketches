@@ -22,3 +22,4 @@ void loop(){
         PORTB &= 0<<_LATCH;
         shift(empty);
         shift(empty);
+        shift(empty);
