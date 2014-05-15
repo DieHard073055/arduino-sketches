@@ -22,3 +22,4 @@ void setup(){
   pinMode(_ENABLE, OUTPUT);
   pinMode(_LATCH, OUTPUT);
   pinMode(STATUS, OUTPUT);
+  digitalWrite(_ENABLE, LOW);
