@@ -17,3 +17,4 @@
 
 #include <multiCameraIrControl.h>
 
+CanonWLDC100 D3(9);
