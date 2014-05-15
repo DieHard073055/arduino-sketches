@@ -19,3 +19,4 @@ int shiftData[] = {
   B00000010,
   B00000001
 };
+int d = shiftData[RESET];
