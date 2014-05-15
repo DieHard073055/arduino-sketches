@@ -17,3 +17,4 @@ String command_header[COMMAND_VARIABLES]; // Job_id, Actuator_id, Actuator_value
 String command = "";
 int current_variable =0;
 
+
