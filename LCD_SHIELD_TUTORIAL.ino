@@ -22,3 +22,4 @@ int adc_key_in  = 0;
 #define btnNONE   5
 
 // read the buttons
+int read_LCD_buttons()
