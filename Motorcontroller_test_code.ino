@@ -16,3 +16,4 @@ int shdata[] = {
     B00000001
 };
 
+void setup(){
