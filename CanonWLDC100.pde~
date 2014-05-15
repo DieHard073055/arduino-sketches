@@ -19,3 +19,4 @@
 
 CanonWLDC100 D3(9);
 
+void setup(){
