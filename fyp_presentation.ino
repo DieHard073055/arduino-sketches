@@ -17,3 +17,4 @@
 Servo curtain_2;
 
 
+//Input values
