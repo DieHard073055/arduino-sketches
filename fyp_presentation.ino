@@ -18,3 +18,4 @@ Servo curtain_2;
 
 
 //Input values
+int actuator = 0;
