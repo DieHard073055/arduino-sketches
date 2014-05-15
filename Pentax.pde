@@ -22,3 +22,4 @@
 
 Pentax K7(9);
 
+void setup(){
