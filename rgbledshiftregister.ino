@@ -17,3 +17,4 @@ int shiftData[] = {
 
 
 void setup(){
+  pinMode(_DATA, OUTPUT);
