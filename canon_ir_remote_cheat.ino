@@ -17,3 +17,4 @@
 #define DECREMENT A2
 #define TIMELAPSE A3
 
+unsigned int seconds = 1;
