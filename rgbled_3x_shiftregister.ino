@@ -17,3 +17,4 @@ void loop(){
     
     for(int delayTime = 100; delayTime > 5; delayTime= delayTime-(delayTime/5)){
         byte animation = B01111111;
+        byte empty = B11111111;
