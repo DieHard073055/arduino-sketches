@@ -19,3 +19,4 @@ int brightnessLevel[] = {
 };
 int count = 0;
 void setup(){
+    //PWM LED PINS
