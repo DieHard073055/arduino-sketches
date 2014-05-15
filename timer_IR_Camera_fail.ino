@@ -18,3 +18,4 @@
 
 unsigned int seconds = 1;
 unsigned int MICROPULSE =  10;
+unsigned int PICTURE    =  7330;
