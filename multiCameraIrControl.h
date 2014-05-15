@@ -17,3 +17,4 @@
  *               2011-01-01 V1.3
  *               2011-01-04 V1.4 - making Sony function work, thank you Walter.
  *               2011-01-25 V1.5 - making Olympus work, thank you Steve Stav.
+ *               2011-12-05 V1.6 - adding Olympus zoom, thank you again Steve! Refresh keywords.txt; Arduino 1.0 compatible
