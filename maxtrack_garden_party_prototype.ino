@@ -21,3 +21,4 @@ int shiftData[] = {
 };
 int d = shiftData[RESET];
 unsigned long lastCurtainChange = 0;
+void out(char* message){
