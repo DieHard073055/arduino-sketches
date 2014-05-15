@@ -19,3 +19,4 @@ int brightnessLevel[] = {
     B11111110,
     B11111111
 };
+
