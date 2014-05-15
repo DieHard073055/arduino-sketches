@@ -18,3 +18,4 @@ void loop(){
      Serial.println("Shoot!");
      camera(PICTURE);
      delay(100); 
+  }
