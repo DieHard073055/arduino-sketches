@@ -21,3 +21,4 @@ unsigned int MICROPULSE =  10;
 unsigned int PICTURE    =  7330;
 unsigned int VIDEO      =  5360;
 unsigned int INTERvAL   =  16;
+unsigned int d1 = 0, d2 = 0, d3 = 0;
