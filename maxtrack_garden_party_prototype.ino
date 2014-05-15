@@ -20,3 +20,4 @@ int shiftData[] = {
   B00000001
 };
 int d = shiftData[RESET];
+unsigned long lastCurtainChange = 0;
