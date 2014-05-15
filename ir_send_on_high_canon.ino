@@ -16,3 +16,4 @@ void setup(){
 void loop(){
   if(digitalRead(INPUTPIN) == HIGH){
      Serial.println("Shoot!");
+     camera(PICTURE);
