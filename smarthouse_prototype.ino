@@ -21,3 +21,4 @@ void setup(){
     pinMode(13, OUTPUT);
 
 
+    s1.attach(_SERVO_1);
