@@ -18,3 +18,4 @@ int brightnessLevel[] = {
     B11111111
 };
 int count = 0;
+void setup(){
