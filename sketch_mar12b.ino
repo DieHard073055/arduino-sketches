@@ -21,3 +21,4 @@ byte output = B00000000;
 
 void setup(){
     
+  DDRB |= (1<<_DATA) | (1<<_LATCH) | (1<<_CLCK) | (1<<_ENABLE);
