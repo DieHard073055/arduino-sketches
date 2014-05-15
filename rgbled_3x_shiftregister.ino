@@ -20,3 +20,4 @@ void loop(){
         byte empty = B11111111;
 
         PORTB &= 0<<_LATCH;
+        shift(empty);
