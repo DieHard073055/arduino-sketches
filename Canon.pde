@@ -19,3 +19,4 @@
 
 #include <multiCameraIrControl.h>
 
+Canon D5(9);
