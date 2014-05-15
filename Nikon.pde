@@ -19,3 +19,4 @@
 
 #include <multiCameraIrControl.h>
 
+Nikon D5000(9);
