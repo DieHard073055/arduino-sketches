@@ -19,3 +19,4 @@ int adc_key_in  = 0;
 #define btnDOWN   2
 #define btnLEFT   3
 #define btnSELECT 4
+#define btnNONE   5
