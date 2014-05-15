@@ -18,3 +18,4 @@
 #define TIMELAPSE A3
 
 unsigned int seconds = 1;
+unsigned int d1 = 0, d2 = 0, d3 = 0;
