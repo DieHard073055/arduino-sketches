@@ -17,3 +17,4 @@ int shdata[] = {
 };
 
 void setup(){
+  pinMode(_DATA, OUTPUT);
