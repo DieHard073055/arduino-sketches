@@ -21,3 +21,4 @@ int adc_key_in  = 0;
 #define btnSELECT 4
 #define btnNONE   5
 
+// read the buttons
