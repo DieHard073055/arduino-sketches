@@ -17,3 +17,4 @@ void setup()
 
 ISR(TIMER1_OVF_vect)        // interrupt service routine that wraps a user defined function supplied by attachInterrupt
 {
+  TCNT1 = 34286;            // preload timer
