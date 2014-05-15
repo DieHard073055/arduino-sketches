@@ -20,3 +20,4 @@
  *               2011-12-05 V1.6 - adding Olympus zoom, thank you again Steve! Refresh keywords.txt; Arduino 1.0 compatible
  *               2011-12-07 V1.7 - repairing Canon function - thanks to Viktor
  *               2013-02-11 V1.8 - adding toggleFocus for Pentax - thanks to Marcel Normann
+ * 								   adding toggleVideo for Sony - thanks to InfinitR
