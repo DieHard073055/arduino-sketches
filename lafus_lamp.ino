@@ -22,3 +22,4 @@ void setup(){
     //PWM LED PINS
     pinMode(red, OUTPUT);
     pinMode(green, OUTPUT);
+    pinMode(blue, OUTPUT);
