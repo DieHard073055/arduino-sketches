@@ -17,3 +17,4 @@
 #define IRPIN A4
 
 unsigned int seconds = 1;
+unsigned int MICROPULSE =  10;
