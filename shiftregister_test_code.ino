@@ -20,3 +20,4 @@ void out(char* message){
    Serial.println(message); 
 }
 
+void setup(){
