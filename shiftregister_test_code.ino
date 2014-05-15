@@ -18,3 +18,4 @@ int d = 0;
 
 void out(char* message){
    Serial.println(message); 
+}
