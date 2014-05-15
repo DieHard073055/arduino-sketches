@@ -17,3 +17,4 @@
 #define TIMELAPSE A3
 #define IRPIN A4
 
+unsigned int MICROPULSE =  10;
