@@ -21,3 +21,4 @@ Servo curtain_2;
 int actuator = 0;
 int act_num = 0;
 int value = 0;
+
