@@ -19,3 +19,4 @@ void loop(){
         byte animation = B01111111;
         byte empty = B11111111;
 
+        PORTB &= 0<<_LATCH;
