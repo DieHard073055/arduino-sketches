@@ -21,3 +21,4 @@
 
 Nikon D5000(9);
 
+void setup(){
