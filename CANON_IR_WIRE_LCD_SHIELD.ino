@@ -48,3 +48,5 @@ pin 3 connected to ir led
           */
 
           
+*/
+          if(!sleeping){
