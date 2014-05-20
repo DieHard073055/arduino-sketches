@@ -24,3 +24,4 @@
 //                              !!!!!!!!!!!!!!!!!!!
 // This software will only work with ATMEGA328P (Arduino UNO and compatible. Or that is what I have tested it with anyways....  !!!!
 //                              !!!!!!!!!!!!!!!!!!!
+// How it works:
