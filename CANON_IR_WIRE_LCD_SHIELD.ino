@@ -54,3 +54,5 @@ pin 3 connected to ir led
             sleep_elapsed = millis() - sleep_start;
 LiquidCrystal Display(8, 9, 4, 5, 6, 7);
             if(sleep_elapsed >= 5000){
+/*************************
+                  digitalWrite(BACKLIGHT_PIN, LOW);
