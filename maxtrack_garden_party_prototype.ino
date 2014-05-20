@@ -24,3 +24,4 @@ unsigned long lastCurtainChange = 0;
 void out(char* message){
    Serial.println(message); 
 }
+void iout(byte m){
