@@ -25,3 +25,4 @@ void setup(){
     s2.attach(_SERVO_2);
 
     s1.write(0);
+    s2.write(0);
