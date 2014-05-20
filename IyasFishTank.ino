@@ -23,3 +23,4 @@ int brightnessLevel[] = {
 int led[] = {
     B10000000,
     B01000000,
+    B00100000,
