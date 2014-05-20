@@ -24,3 +24,4 @@ byte output = B00000000;
 void setup(){
   
   noInterrupts(); //Interrupt Killer!
+  
