@@ -24,3 +24,4 @@ void setup(){
   DDRB |= (1<<_DATA) | (1<<_LATCH) | (1<<_CLCK) | (1<<_ENABLE);
   PORTB |= (1<<_ENABLE);
   PORTB &= (0<<_DATA) | (0<<_LATCH) | (0<<_CLCK);
+  
