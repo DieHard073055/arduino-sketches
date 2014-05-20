@@ -24,3 +24,4 @@ void setup(){
 
 void loop(){
   D3.shutterNow();
+  delay(5000);
