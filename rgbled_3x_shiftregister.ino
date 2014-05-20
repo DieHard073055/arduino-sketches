@@ -26,3 +26,4 @@ void loop(){
         shift(animation);
         //set enable high
         PORTB |= 1<<_ENABLE;
+        //latch everything out
