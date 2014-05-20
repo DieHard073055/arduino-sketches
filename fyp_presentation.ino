@@ -25,3 +25,4 @@ int value = 0;
 //Variable Selector
 int currentVariable = 0;
 
+//Variable to add values
