@@ -23,3 +23,4 @@
  * 								   adding toggleVideo for Sony - thanks to InfinitR
  *               	    V1.9 - adding CanonWLDC100 support - thanks to ImaRH
  *
+ ********************************************/
