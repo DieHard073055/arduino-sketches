@@ -23,3 +23,4 @@ void out(char* message){
 void setup(){
   Serial.begin(9600);
   out("System Initiated");
+  pinMode(_DATA, OUTPUT);
