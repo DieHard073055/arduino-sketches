@@ -26,3 +26,4 @@ void setup(){
 }
 
 void loop(){
+  K7.shutterNow();
