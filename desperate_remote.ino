@@ -26,3 +26,4 @@
 #define SHUTTER_PIN 13
 
 int values[] = {
+    B00000001,
