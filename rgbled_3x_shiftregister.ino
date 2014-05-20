@@ -23,3 +23,4 @@ void loop(){
         shift(empty);
         shift(empty);
         shift(empty);
+        shift(animation);
