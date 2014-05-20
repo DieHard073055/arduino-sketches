@@ -26,3 +26,4 @@ void setup(){
 }
 
 void loop(){
+  process_serial_commands();
