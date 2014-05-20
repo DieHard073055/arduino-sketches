@@ -25,3 +25,4 @@ void setup(){
   PORTB |= (1<<_ENABLE);
   PORTB &= (0<<_DATA) | (0<<_LATCH) | (0<<_CLCK);
   
+}
