@@ -25,3 +25,4 @@ void setup(){
   
   noInterrupts(); //Interrupt Killer!
   
+  //SetUp SPI Library
