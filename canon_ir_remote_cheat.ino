@@ -25,3 +25,4 @@ volatile boolean updating = false;
 /*********************************************
          INIT FUNCTION 
          -------------
+     -setup all the output pins
