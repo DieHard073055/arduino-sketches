@@ -25,3 +25,4 @@ void out(char* message){
    Serial.println(message); 
 }
 void iout(byte m){
+  Serial.println(m); 
