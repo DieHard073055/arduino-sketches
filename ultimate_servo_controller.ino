@@ -25,3 +25,4 @@
 // This software will only work with ATMEGA328P (Arduino UNO and compatible. Or that is what I have tested it with anyways....  !!!!
 //                              !!!!!!!!!!!!!!!!!!!
 // How it works:
+// 18 or 20 pins are used for the servos. These pins are all pre configured.
