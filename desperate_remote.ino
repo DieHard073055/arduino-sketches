@@ -25,3 +25,4 @@
 
 #define SHUTTER_PIN 13
 
+int values[] = {
