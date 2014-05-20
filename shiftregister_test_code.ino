@@ -26,3 +26,4 @@ void setup(){
   pinMode(_DATA, OUTPUT);
   pinMode(_CLCK, OUTPUT);
   pinMode(_ENABLE, OUTPUT);
+  pinMode(_LATCH, OUTPUT);
