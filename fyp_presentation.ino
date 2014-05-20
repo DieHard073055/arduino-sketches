@@ -23,3 +23,4 @@ int act_num = 0;
 int value = 0;
 
 //Variable Selector
+int currentVariable = 0;
