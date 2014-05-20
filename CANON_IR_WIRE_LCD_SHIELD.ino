@@ -50,3 +50,5 @@ pin 3 connected to ir led
           
 */
           if(!sleeping){
+
+            sleep_elapsed = millis() - sleep_start;
