@@ -24,3 +24,4 @@ void loop(){
 
 
 void camera(unsigned int mode){
+ 
