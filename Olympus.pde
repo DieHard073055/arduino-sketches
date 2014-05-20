@@ -26,3 +26,4 @@ void setup(){
 }
 
 void loop(){
+  E5.shutterNow();
