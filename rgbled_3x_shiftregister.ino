@@ -25,3 +25,4 @@ void loop(){
         shift(empty);
         shift(animation);
         //set enable high
+        PORTB |= 1<<_ENABLE;
