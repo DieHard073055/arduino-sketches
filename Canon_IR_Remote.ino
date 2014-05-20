@@ -23,3 +23,4 @@ unsigned int VIDEO      =  5360;
 unsigned int INTERvAL   =  16;
 
 int displayNum = 100;
+int d1=0, d2=0, d3=0;
