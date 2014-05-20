@@ -24,3 +24,4 @@ void loop(){
         shift(empty);
         shift(empty);
         shift(animation);
+        //set enable high
