@@ -24,3 +24,4 @@ LCD DISPLAY MODULE FILE
 #define CHARLIGHT_PIN 10
 #define LIGHT_PIN A0
 #define STATUS 6
+#define printf Display.print
