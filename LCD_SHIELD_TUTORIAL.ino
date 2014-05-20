@@ -24,3 +24,4 @@ int adc_key_in  = 0;
 // read the buttons
 int read_LCD_buttons()
 {
+ adc_key_in = analogRead(0);      // read the value from the sensor 
