@@ -26,3 +26,4 @@
  ********************************************/
 
 #ifndef multiCameraIrControl_h
+#define multiCameraIrControl_h
