@@ -26,3 +26,4 @@ volatile boolean updating = false;
          INIT FUNCTION 
          -------------
      -setup all the output pins
+     -Initialise the seven segment display
