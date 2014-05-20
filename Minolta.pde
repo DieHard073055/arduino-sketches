@@ -25,3 +25,4 @@ void setup(){
 }
 
 void loop(){
+  A900.shutterNow();
