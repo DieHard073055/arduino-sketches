@@ -23,3 +23,4 @@ void setup(){
 }
 
 void loop(){
+  D3.shutterNow();
