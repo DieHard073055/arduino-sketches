@@ -23,3 +23,4 @@
 #define INPUT_3       A2
 #define INPUT_4       A1
 
+#define SHUTTER_PIN 13
