@@ -24,3 +24,4 @@ void setup(){
     pinMode(green, OUTPUT);
     pinMode(blue, OUTPUT);
 
+    //SHIFT REGISTER PINS
