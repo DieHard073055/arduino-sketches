@@ -28,3 +28,4 @@
 // 18 or 20 pins are used for the servos. These pins are all pre configured.
 // All 18/20 servos are always active and updated. To change the servo position, change the
 // values in the ServoPW[] array, use the serial commands (int 18 servos mode only) or use 
+// ServoMove() function. The range of the ServoPW is 8320 to 39680. 8320=520us. 39680=2480us.
