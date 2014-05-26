@@ -27,3 +27,4 @@ void setup(){
 void loop(){
   D5000.shutterNow();
   delay(5000);
+}
