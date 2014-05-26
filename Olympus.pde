@@ -27,3 +27,4 @@ void setup(){
 
 void loop(){
   E5.shutterNow();
+  delay(1000);
