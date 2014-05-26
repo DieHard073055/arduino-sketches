@@ -27,3 +27,4 @@ void setup(){
   
   //SetUp SPI Library
   SPI.setBitOrder(MSBFIRST);
+  SPI.setDataMode(SPI_MODE0);
