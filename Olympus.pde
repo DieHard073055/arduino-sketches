@@ -28,3 +28,4 @@ void setup(){
 void loop(){
   E5.shutterNow();
   delay(1000);
+  E5.zoomin(50);
