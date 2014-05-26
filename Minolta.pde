@@ -28,3 +28,4 @@ void loop(){
   A900.shutterNow();
   delay(5000);
   A900.shutterDelayed();
+  delay(5000);
