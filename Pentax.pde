@@ -28,3 +28,4 @@ void setup(){
 void loop(){
   K7.shutterNow();
   delay(5000);
+  K7.toggleFocus();
