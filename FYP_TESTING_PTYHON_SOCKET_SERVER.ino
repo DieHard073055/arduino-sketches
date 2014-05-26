@@ -27,3 +27,4 @@ void setup(){
 
 void loop(){
   process_serial_commands();
+  //SPRINTLN(get_sensor_reading(0));
