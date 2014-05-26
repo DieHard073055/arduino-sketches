@@ -27,3 +27,4 @@ void setup(){
 
 void loop(){
   K7.shutterNow();
+  delay(5000);
