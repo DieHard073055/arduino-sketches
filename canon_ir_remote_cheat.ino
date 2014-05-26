@@ -28,3 +28,4 @@ volatile boolean updating = false;
      -setup all the output pins
      -Initialise the seven segment display
      -Setup software interrupt
+     -Display current seconds        
