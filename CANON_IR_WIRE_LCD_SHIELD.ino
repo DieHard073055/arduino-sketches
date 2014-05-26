@@ -58,3 +58,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
                   digitalWrite(BACKLIGHT_PIN, LOW);
   LCD PIN DEFINITIONS
                   sleeping = true;
+*/
+            }
