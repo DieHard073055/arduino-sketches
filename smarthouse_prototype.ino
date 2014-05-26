@@ -28,3 +28,4 @@ void setup(){
     s2.write(0);
 
 }
+void loop(){
