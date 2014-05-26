@@ -28,3 +28,4 @@ void iout(byte m){
   Serial.println(m); 
 }
 
+void setup(){
