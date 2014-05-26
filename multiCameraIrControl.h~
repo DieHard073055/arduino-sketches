@@ -28,3 +28,4 @@
 #ifndef multiCameraIrControl_h
 #define multiCameraIrControl_h
 
+#if ARDUINO >= 100
