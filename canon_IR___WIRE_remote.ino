@@ -28,3 +28,4 @@ LCD DISPLAY MODULE FILE
 #define SHOOT_PIN 8
 #define IRPIN 7
 
+unsigned int MICROPULSE =  10;
