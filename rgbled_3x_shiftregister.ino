@@ -27,3 +27,4 @@ void loop(){
         //set enable high
         PORTB |= 1<<_ENABLE;
         //latch everything out
+        PORTB |= 1<<_LATCH;
