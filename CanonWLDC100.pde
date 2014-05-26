@@ -27,3 +27,4 @@ void loop(){
   delay(5000);
   D3.shutterDelayed();
   delay(5000);
+}
