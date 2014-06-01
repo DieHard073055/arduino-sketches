@@ -31,3 +31,4 @@ void setup(){
   initialise7Segment();
   setupSoftwareInterrupt();
   segementDisplay(seconds);
+}
