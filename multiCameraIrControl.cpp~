@@ -31,3 +31,4 @@
   #include "WProgram.h"
 #endif
 
+#include "multiCameraIrControl.h"
