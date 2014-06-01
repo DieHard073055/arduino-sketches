@@ -29,3 +29,4 @@ void setup(){
     pinMode(_LATCH, OUTPUT);
     pinMode(_CLCK, OUTPUT);
 
+    setBrightness(7);
