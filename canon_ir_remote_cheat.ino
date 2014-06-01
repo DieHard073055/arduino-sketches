@@ -31,3 +31,4 @@ volatile boolean updating = false;
      -Display current seconds        
 **********************************************/
 
+void setup(){
