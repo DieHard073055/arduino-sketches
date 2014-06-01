@@ -29,3 +29,4 @@ void setup(){
 void loop(){
   
   for(int i=0;i<8;i++){
+     digitalWrite(_LATCH, LOW);
