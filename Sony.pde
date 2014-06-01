@@ -30,3 +30,4 @@ void loop(){
   delay(5000);
   A900.shutterDelayed();
   delay(5000);
+  A900.toggleVideo();
