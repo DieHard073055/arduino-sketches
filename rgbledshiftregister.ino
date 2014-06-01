@@ -30,3 +30,4 @@ void loop(){
   int length = 30;
   for (int i = 0; i < 255; ++i)
   {
+    for (int j = 0; j < length; ++j)
