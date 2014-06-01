@@ -31,3 +31,4 @@ void setup(){
   SPI.setClockDivider(SPI_CLOCK_DIV2);
   
   //Setup All Output pins
+  DDRB |= (1<<_ENABLE) | (1<<_DATA) | (1<<_LATCH) | (1<<_CLCK);
