@@ -29,3 +29,4 @@ void loop(){
   delay(5000);
   D5.shutterDelayed();
   delay(5000);
+}
