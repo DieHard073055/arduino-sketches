@@ -29,3 +29,4 @@ void loop(){
         //latch everything out
         PORTB |= 1<<_LATCH;
         //enable all the pins
+        PORTB &= 0<<_ENABLE;
