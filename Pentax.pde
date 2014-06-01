@@ -30,3 +30,4 @@ void loop(){
   delay(5000);
   K7.toggleFocus();
   delay(5000);
+  K7.toggleFocus();
