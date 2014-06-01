@@ -29,3 +29,4 @@ volatile bool hardware_interrupt = false;
 volatile bool software_interrupt = false;
 
 
+void setup(){
