@@ -30,3 +30,4 @@ void setup(){
     pinMode(_CLCK, OUTPUT);
 
     setBrightness(7);
+    ledRed(0);
