@@ -31,3 +31,4 @@
 // ServoMove() function. The range of the ServoPW is 8320 to 39680. 8320=520us. 39680=2480us.
 //
 // Some formulas:
+// micro second = ServoPW value / 16
