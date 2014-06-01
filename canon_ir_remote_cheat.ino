@@ -29,3 +29,4 @@ volatile boolean updating = false;
      -Initialise the seven segment display
      -Setup software interrupt
      -Display current seconds        
+**********************************************/
