@@ -29,3 +29,4 @@ void setup(){
 
 void loop(){
     for(int i=0;i<9;i++){
+       shiftOut(_DATA, _CLCK, MSBFIRST, output);
