@@ -64,3 +64,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
           }
 #define ENABLE_PIN 9
           
+#define D4_PIN 4
+          /*
