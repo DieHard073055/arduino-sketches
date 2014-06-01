@@ -30,3 +30,4 @@ int read_LCD_buttons()
  if (adc_key_in > 1000) return btnNONE; // We make this the 1st option for speed reasons since it will be the most likely result
  // For V1.1 us this threshold
  if (adc_key_in < 50)   return btnRIGHT;  
+ if (adc_key_in < 250)  return btnUP; 
