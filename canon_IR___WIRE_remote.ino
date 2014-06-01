@@ -30,3 +30,4 @@ LCD DISPLAY MODULE FILE
 
 unsigned int MICROPULSE =  10;
 unsigned int PICTURE    =  7330;
+unsigned int VIDEO      =  5360;
