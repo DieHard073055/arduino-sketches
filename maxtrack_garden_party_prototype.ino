@@ -30,3 +30,4 @@ void iout(byte m){
 
 void setup(){
   pinMode(_ENABLE, OUTPUT);
+  Serial.begin(9600);
