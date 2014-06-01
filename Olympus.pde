@@ -30,3 +30,4 @@ void loop(){
   delay(1000);
   E5.zoomin(50);
   delay(1000);
+  E5.shutterNow();
