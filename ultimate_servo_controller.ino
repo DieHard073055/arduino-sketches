@@ -30,3 +30,4 @@
 // values in the ServoPW[] array, use the serial commands (int 18 servos mode only) or use 
 // ServoMove() function. The range of the ServoPW is 8320 to 39680. 8320=520us. 39680=2480us.
 //
+// Some formulas:
