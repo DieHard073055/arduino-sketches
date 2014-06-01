@@ -62,3 +62,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
             }
 #define RS_PIN 8
           }
+#define ENABLE_PIN 9
+          
