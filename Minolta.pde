@@ -30,3 +30,4 @@ void loop(){
   A900.shutterDelayed();
   delay(5000);
 }
+
