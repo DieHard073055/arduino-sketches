@@ -29,3 +29,4 @@ int currentVariable = 0;
 String inputString = "";
 
 void setup(){
+    Serial.begin(9600);
