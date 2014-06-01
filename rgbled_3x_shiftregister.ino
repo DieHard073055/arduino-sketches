@@ -31,3 +31,4 @@ void loop(){
         //enable all the pins
         PORTB &= 0<<_ENABLE;
         for (int i = 0; i < 24; ++i)
+        {
