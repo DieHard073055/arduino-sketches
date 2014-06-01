@@ -30,3 +30,4 @@ void setup(){
   SPI.setDataMode(SPI_MODE0);
   SPI.setClockDivider(SPI_CLOCK_DIV2);
   
+  //Setup All Output pins
