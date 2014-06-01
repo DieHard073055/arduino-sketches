@@ -29,3 +29,4 @@ void iout(byte m){
 }
 
 void setup(){
+  pinMode(_ENABLE, OUTPUT);
