@@ -29,3 +29,4 @@ void setup(){
   
   setupOutputPins();
   initialise7Segment();
+  setupSoftwareInterrupt();
