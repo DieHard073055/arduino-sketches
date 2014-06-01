@@ -31,3 +31,4 @@ volatile bool software_interrupt = false;
 
 void setup(){
   Serial.begin(9600);
+  //Interrupts settings
