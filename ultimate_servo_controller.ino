@@ -32,3 +32,4 @@
 //
 // Some formulas:
 // micro second = ServoPW value / 16
+// angle = (ServoPW value - 8000) / 177.77  (or there about)
