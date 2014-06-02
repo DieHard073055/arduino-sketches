@@ -35,3 +35,4 @@ void setup(){
   pinMode(STATUS, OUTPUT);
   analogWrite(BACKLIGHT_PIN, LCD_BACKLIGHT_BRIGHTNESS);
   analogWrite(CHARLIGHT_PIN, LCD_CHARACTER_BRIGHTNESS);
+  
