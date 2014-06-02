@@ -66,3 +66,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
           
 #define D4_PIN 4
           /*
+#define D5_PIN 5
+                SHOT COUNT DONE
