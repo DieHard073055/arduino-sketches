@@ -33,3 +33,4 @@ void setup(){
   Serial.begin(9600);
   //Interrupts settings
 //  noInterrupts();//Stop interrupts for the setup
+//  TCCR1A = B00000000;
