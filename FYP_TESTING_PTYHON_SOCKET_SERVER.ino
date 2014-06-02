@@ -32,3 +32,4 @@ void loop(){
 }
 
 void process_serial_commands(){
+ int input;
