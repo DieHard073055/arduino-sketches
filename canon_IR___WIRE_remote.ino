@@ -35,3 +35,4 @@ unsigned int INTERvAL   =  16;
 
 LiquidCrystal Display (12, 11, 5, 4, 3, 2);
 
+void setup(){
