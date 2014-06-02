@@ -35,3 +35,4 @@ void loop(){
             
             delay(delayTime);
             //set data high
+            PORTB |= 1<<_DATA; 
