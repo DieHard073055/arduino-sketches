@@ -36,3 +36,4 @@ void setup(){
     pinMode(CURTAIN_1, OUTPUT);
     //Serial.println("Motor 1 attached ...");
     
+    curtain_2.attach(CURTAIN_2);
