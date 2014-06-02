@@ -34,3 +34,4 @@ void loop(){
      digitalWrite(_LATCH, HIGH);
      delay(1000);
      status_indicate();
+  }
