@@ -36,3 +36,4 @@ void loop(){
   if(Serial.available() > 0){
      switch(char(Serial.read())){
         case 'd':
+          d =!d;
