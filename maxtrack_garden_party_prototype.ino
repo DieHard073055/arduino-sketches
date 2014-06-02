@@ -33,3 +33,4 @@ void setup(){
   Serial.begin(9600);
   pinMode(_DATA, OUTPUT);
   pinMode(_CLCK, OUTPUT);
+  pinMode(_LATCH, OUTPUT);
