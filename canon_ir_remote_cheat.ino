@@ -33,3 +33,4 @@ volatile boolean updating = false;
 
 void setup(){
   setupOutputPins();
+  initialise7Segment();
