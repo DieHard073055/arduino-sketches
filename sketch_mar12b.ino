@@ -32,3 +32,4 @@ void loop(){
        shiftOut(_DATA, _CLCK, MSBFIRST, output);
        latch();
        delay(1000);
+    }
