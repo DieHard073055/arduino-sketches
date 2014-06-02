@@ -33,3 +33,4 @@ void loop(){
        latch();
        delay(1000);
     }
+}
