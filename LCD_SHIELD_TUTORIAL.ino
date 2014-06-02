@@ -36,3 +36,4 @@ int read_LCD_buttons()
  if (adc_key_in < 850)  return btnSELECT;  
 
  // For V1.0 comment the other threshold and use the one below:
+/*
