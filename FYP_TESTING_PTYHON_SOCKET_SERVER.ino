@@ -36,3 +36,4 @@ void process_serial_commands(){
   
   if(Serial.available() > 0){
      input = Serial.read(); 
+  }
