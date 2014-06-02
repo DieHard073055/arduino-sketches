@@ -33,3 +33,4 @@ void setup(){
     
     //Serial.println("Initiating System ...");
     
+    pinMode(CURTAIN_1, OUTPUT);
