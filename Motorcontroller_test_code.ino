@@ -32,3 +32,4 @@ void loop(){
      digitalWrite(_LATCH, LOW);
      shiftOut(_DATA, _CLCK, MSBFIRST, shdata[i]);
      digitalWrite(_LATCH, HIGH);
+     delay(1000);
