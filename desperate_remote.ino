@@ -36,3 +36,4 @@ boolean state = false;
 int choice = 0;
 
 
+void setup(){
