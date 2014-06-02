@@ -33,3 +33,4 @@ void setup(){
   pinMode(BACKLIGHT_PIN, OUTPUT);
   pinMode(CHARLIGHT_PIN, OUTPUT);
   pinMode(STATUS, OUTPUT);
+  analogWrite(BACKLIGHT_PIN, LCD_BACKLIGHT_BRIGHTNESS);
