@@ -33,3 +33,4 @@
 
 #include "multiCameraIrControl.h"
 
+void wait(unsigned int time){
