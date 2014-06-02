@@ -34,3 +34,4 @@ void setup(){
     //Serial.println("Initiating System ...");
     
     pinMode(CURTAIN_1, OUTPUT);
+    //Serial.println("Motor 1 attached ...");
