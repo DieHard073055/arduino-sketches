@@ -32,3 +32,4 @@ void loop(){
 
     /*
         house stats
+        Door 1 {Open : 1, Closed : 0},
