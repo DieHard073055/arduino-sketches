@@ -70,3 +70,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
                 SHOT COUNT DONE
 #define D6_PIN 6
           */
+#define D7_PIN 7
+          if(shots == settings_value[2]){
