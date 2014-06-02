@@ -34,3 +34,4 @@
   #include "WProgram.h"
 #endif
 
+class Nikon{
