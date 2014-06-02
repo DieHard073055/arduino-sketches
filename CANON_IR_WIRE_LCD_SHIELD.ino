@@ -74,3 +74,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
           if(shots == settings_value[2]){
 
               SBB();
+/**********************
+              return;              
