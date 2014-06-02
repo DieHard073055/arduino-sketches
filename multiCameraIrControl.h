@@ -35,3 +35,4 @@
 #endif
 
 class Nikon{
+public:
