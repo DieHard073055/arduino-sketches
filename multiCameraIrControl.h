@@ -36,3 +36,4 @@
 
 class Nikon{
 public:
+  Nikon(int pin);
