@@ -32,3 +32,4 @@ int values[] = {
     B00001000
 };
 
+boolean state = false;
