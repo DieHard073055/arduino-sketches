@@ -32,3 +32,4 @@ void setup(){
   
   //Setup All Output pins
   DDRB |= (1<<_ENABLE) | (1<<_DATA) | (1<<_LATCH) | (1<<_CLCK);
+  PORTB &= (0<<_ENABLE) | (0<<_DATA) | (0<<_LATCH) | (0<<_CLCK);
