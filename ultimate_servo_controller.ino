@@ -36,3 +36,4 @@
 // ServoPW value = angle * 177.77 + 8000
 // ServoPW value = micro second * 16
 //
+// Channels are locked to these pins:
