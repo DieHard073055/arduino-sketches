@@ -35,3 +35,4 @@ void loop(){
         Door 1 {Open : 1, Closed : 0},
         Door 2 {Open : 1, Closed : 0},
         Led 1 {Full Power: 2, Half Power : 1, Off : 0}
+        Led 2 {Full Power: 2, Half Power : 1, Off : 0}
