@@ -37,3 +37,4 @@ void loop(){
             //set data high
             PORTB |= 1<<_DATA; 
             clock();
+            latch();
