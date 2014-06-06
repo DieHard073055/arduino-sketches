@@ -38,3 +38,4 @@ void loop(){
             PORTB |= 1<<_DATA; 
             clock();
             latch();
+        }
