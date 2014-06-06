@@ -37,3 +37,4 @@ int choice = 0;
 
 
 void setup(){
+  //Setup input output pins
