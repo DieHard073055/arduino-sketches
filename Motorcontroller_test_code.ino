@@ -38,3 +38,4 @@ void loop(){
   
 }
 
+void status_indicate(){
