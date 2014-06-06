@@ -38,3 +38,4 @@ void setup(){
   
   latchDataOut();
   
+  out("System Initiated");
