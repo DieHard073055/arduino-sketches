@@ -37,3 +37,4 @@ void setup(){
   PORTB |= (1<<_ENABLE);
   
   //Setup Timer 1 to Refresh Leds
+  TCCR1A = B00000000;
