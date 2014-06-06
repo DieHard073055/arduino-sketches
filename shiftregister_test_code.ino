@@ -37,3 +37,4 @@ void loop(){
      switch(char(Serial.read())){
         case 'd':
           d =!d;
+          digitalWrite(_DATA, d);
