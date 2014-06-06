@@ -38,3 +38,4 @@ void process_serial_commands(){
      input = Serial.read(); 
   }
   if(isDigit(input)){
+    command += (char) input;
