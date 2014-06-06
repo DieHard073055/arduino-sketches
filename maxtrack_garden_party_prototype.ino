@@ -37,3 +37,4 @@ void setup(){
   digitalWrite(_ENABLE, LOW);
   
   latchDataOut();
+  
