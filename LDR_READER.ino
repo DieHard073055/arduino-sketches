@@ -37,3 +37,4 @@ void setup(){
   analogWrite(CHARLIGHT_PIN, LCD_CHARACTER_BRIGHTNESS);
   
   Load_Intro();
+  
