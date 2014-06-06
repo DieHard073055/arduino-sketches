@@ -38,3 +38,4 @@ void loop(){
         case 'd':
           d =!d;
           digitalWrite(_DATA, d);
+          Serial.print("Data : ");
