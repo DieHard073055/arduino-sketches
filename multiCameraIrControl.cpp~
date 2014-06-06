@@ -37,3 +37,4 @@ void wait(unsigned int time){
   unsigned long start = micros();
   while(micros()-start<=time){
   }
+}
