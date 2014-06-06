@@ -37,3 +37,4 @@ void setup(){
 //  TCCR1B = B0000101
   
   
+  for(int i =0; i < 14; i++){
