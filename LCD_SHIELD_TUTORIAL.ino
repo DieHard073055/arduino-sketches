@@ -37,3 +37,4 @@ int read_LCD_buttons()
 
  // For V1.0 comment the other threshold and use the one below:
 /*
+ if (adc_key_in < 50)   return btnRIGHT;  
