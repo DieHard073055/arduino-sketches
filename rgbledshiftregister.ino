@@ -37,3 +37,4 @@ void loop(){
     enable(255-i);
     }
 
+    for (int j = 0; j < length; ++j)
