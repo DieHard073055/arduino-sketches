@@ -37,3 +37,4 @@ void loop(){
         Led 1 {Full Power: 2, Half Power : 1, Off : 0}
         Led 2 {Full Power: 2, Half Power : 1, Off : 0}
         Led 3 {Full Power: 2, Half Power : 1, Off : 0}
+        Led 4 {Full Power: 2, Half Power : 1, Off : 0}
