@@ -37,3 +37,4 @@ LiquidCrystal Display (12, 11, 5, 4, 3, 2);
 
 void setup(){
   pinMode(BACKLIGHT_PIN, OUTPUT);
+  pinMode(CHARLIGHT_PIN, OUTPUT);
