@@ -37,3 +37,4 @@
 class Nikon{
 public:
   Nikon(int pin);
+  void shutterNow();
