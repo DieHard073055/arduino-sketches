@@ -38,3 +38,4 @@ void setup(){
     pinMode(_BLINK_LED, OUTPUT);
 
     //PWM LED PINS
+    pinMode(red, OUTPUT);
