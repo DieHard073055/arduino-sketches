@@ -38,3 +38,4 @@ void setup(){
 
 void loop(){
   if(digitalRead(SHOOTPIN) == HIGH){
+     delayMicroseconds(5000000000);
