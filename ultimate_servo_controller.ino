@@ -37,3 +37,4 @@
 // ServoPW value = micro second * 16
 //
 // Channels are locked to these pins:
+// Ch0=Pin2, Ch1=Pin3, Ch2=Pin4, Ch3=Pin5, Ch4=Pin6, Ch5=Pin7, Ch6=Pin8, Ch7=Pin9, Ch8=Pin10, Ch9=Pin11
