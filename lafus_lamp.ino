@@ -38,3 +38,4 @@ void loop(){
     int delayTime = 100;
    
 
+   for (int i = 0; i < 255; i+=10){
