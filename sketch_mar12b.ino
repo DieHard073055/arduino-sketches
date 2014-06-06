@@ -38,3 +38,4 @@ void loop(){
 void latch(){
    //Latch High
   PORTB |= 1<<_LATCH;
+  //Latch Low
