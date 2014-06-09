@@ -39,3 +39,4 @@ void setup(){
     curtain_2.attach(CURTAIN_2);
     //Serial.println("Motor 2 attached ...");
     
+    //Serial.println("Motors Initialised ...");
