@@ -39,3 +39,4 @@ void loop(){
             clock();
             latch();
         }
+    }
