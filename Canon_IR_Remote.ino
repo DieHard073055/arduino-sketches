@@ -39,3 +39,4 @@ void setup(){
   
   for(int i =0; i < 14; i++){
     pinMode(i, OUTPUT);
+  }
