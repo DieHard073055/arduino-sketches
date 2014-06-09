@@ -39,3 +39,4 @@ void loop(){
 }
 
 void status_indicate(){
+   digitalWrite(STATUS, HIGH);
