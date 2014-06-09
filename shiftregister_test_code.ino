@@ -39,3 +39,4 @@ void loop(){
           d =!d;
           digitalWrite(_DATA, d);
           Serial.print("Data : ");
+          Serial.println(d);
