@@ -39,3 +39,4 @@ void setup(){
   //Setup Timer 1 to Refresh Leds
   TCCR1A = B00000000;
   TCCR1B = B00001011;
+  TIMSK1 = B00000010;
