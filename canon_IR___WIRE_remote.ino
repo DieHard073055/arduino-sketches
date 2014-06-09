@@ -39,3 +39,4 @@ void setup(){
   pinMode(BACKLIGHT_PIN, OUTPUT);
   pinMode(CHARLIGHT_PIN, OUTPUT);
   pinMode(STATUS, OUTPUT);
+  pinMode(SHOOT_PIN, OUTPUT);
