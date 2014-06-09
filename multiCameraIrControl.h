@@ -39,3 +39,4 @@ public:
   Nikon(int pin);
   void shutterNow();
 private:
+  int _pin;
