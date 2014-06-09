@@ -39,3 +39,4 @@ int choice = 0;
 void setup(){
   //Setup input output pins
   pinMode(TIMELAPSE_PIN, INPUT);
+  pinMode(INPUT_1, INPUT);
