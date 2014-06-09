@@ -39,3 +39,4 @@ void loop(){
    
 
    for (int i = 0; i < 255; i+=10){
+        ledRed(0);
