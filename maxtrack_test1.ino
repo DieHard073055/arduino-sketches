@@ -40,3 +40,4 @@ void setup(){
   TCCR1A = B00000000;
   TCCR1B = B00001011;
   TIMSK1 = B00000010;
+  OCR1A = 30;
