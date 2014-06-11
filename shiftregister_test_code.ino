@@ -40,3 +40,4 @@ void loop(){
           digitalWrite(_DATA, d);
           Serial.print("Data : ");
           Serial.println(d);
+          break;
