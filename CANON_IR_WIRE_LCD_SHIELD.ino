@@ -82,3 +82,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
        }
 #define BACKLIGHT_PIN 10
        /*********************************
+#define IRPIN 3
+           REFRESH RATE DELAY
