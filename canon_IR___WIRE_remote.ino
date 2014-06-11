@@ -40,3 +40,4 @@ void setup(){
   pinMode(CHARLIGHT_PIN, OUTPUT);
   pinMode(STATUS, OUTPUT);
   pinMode(SHOOT_PIN, OUTPUT);
+  analogWrite(BACKLIGHT_PIN, LCD_BACKLIGHT_BRIGHTNESS);
