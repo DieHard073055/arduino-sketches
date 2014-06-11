@@ -40,3 +40,4 @@ void wait(unsigned int time){
 }
 
 void high(unsigned int time, int freq, int pinLED){
+  int pause = (1000/freq/2)-4;
