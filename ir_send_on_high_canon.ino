@@ -40,3 +40,4 @@ void camera(unsigned int mode){
     digitalWrite(IRPIN, HIGH);
     delayMicroseconds(MICROPULSE);
     digitalWrite(IRPIN, LOW);
+    delayMicroseconds(MICROPULSE);
