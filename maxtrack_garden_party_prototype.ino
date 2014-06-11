@@ -40,3 +40,4 @@ void setup(){
   
   out("System Initiated");
   out("Data : ");
+  iout((d));
