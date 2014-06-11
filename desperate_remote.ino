@@ -40,3 +40,4 @@ void setup(){
   //Setup input output pins
   pinMode(TIMELAPSE_PIN, INPUT);
   pinMode(INPUT_1, INPUT);
+  pinMode(INPUT_2, INPUT);
