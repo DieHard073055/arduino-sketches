@@ -40,3 +40,4 @@ void process_serial_commands(){
   if(isDigit(input)){
     command += (char) input;
   }
+  
