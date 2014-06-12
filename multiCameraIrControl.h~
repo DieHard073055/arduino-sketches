@@ -44,3 +44,4 @@ private:
 };
 
 class Canon{
+public:
