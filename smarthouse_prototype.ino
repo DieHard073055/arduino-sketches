@@ -44,3 +44,4 @@ void loop(){
     while(Serial.available() > 0){
         byte a = Serial.read();
         Serial.println(a);
+        switch(a){
