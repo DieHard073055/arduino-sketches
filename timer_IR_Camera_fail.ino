@@ -44,3 +44,4 @@ void loop(){
      camera(PICTURE); 
   }
   else if(digitalRead(INCREMENT)){
+      delayMicroseconds(5000000000);
