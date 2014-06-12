@@ -46,3 +46,4 @@ void setup(){
   
   pinMode(SHUTTER_PIN, OUTPUT);
   
+  Serial.begin(9600);
