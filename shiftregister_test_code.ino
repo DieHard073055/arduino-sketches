@@ -46,3 +46,4 @@ void loop(){
           clock();
           break;
         case 'l':
+          latch();
