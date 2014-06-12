@@ -42,3 +42,4 @@
 //
 // Serial commands:
 // # = Servo channel
+// P = Pulse width in us
