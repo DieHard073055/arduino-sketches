@@ -46,3 +46,4 @@ void setup(){
   Load_Intro();
   
   /*SERAIL CODES*/
+  Serial.begin(9600);
