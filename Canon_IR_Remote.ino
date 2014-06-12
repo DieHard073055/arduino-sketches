@@ -43,3 +43,4 @@ void setup(){
    pinMode(IRPIN, OUTPUT);
    
    digitalWrite(seg1, HIGH);
+   digitalWrite(seg2, HIGH);
