@@ -46,3 +46,4 @@ void loop(){
   int statusPower = map(ldr, 0, 900, 0, 255);
   cls();
   cursor_0();
+  printf("LDR Reading: ");
