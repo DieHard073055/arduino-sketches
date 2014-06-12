@@ -41,3 +41,4 @@ void process_serial_commands(){
     command += (char) input;
   }
   
+  if(input == '-'){
