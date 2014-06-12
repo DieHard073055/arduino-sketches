@@ -45,3 +45,4 @@ void high(unsigned int time, int freq, int pinLED){
   while(micros()-start<=time){
     digitalWrite(pinLED,HIGH);
     delayMicroseconds(pause);
+    digitalWrite(pinLED,LOW);
