@@ -43,3 +43,4 @@ void setup(){
   OCR1A = 30;
   
   interrupts(); //Let get them multiplexing started
+  PORTB &= (0<<_ENABLE);
