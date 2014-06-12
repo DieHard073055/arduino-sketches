@@ -44,3 +44,4 @@ void high(unsigned int time, int freq, int pinLED){
   unsigned long start = micros();
   while(micros()-start<=time){
     digitalWrite(pinLED,HIGH);
+    delayMicroseconds(pause);
