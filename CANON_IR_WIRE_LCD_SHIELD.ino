@@ -84,3 +84,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
        /*********************************
 #define IRPIN 3
            REFRESH RATE DELAY
+#define SHUTTER_PIN 11
+       *********************************/
