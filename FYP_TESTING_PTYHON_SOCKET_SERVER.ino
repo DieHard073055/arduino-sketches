@@ -45,3 +45,4 @@ void process_serial_commands(){
         command_header[current_variable] = command;
         command = "";
   
+        current_variable++;
