@@ -45,3 +45,4 @@ private:
 
 class Canon{
 public:
+  Canon(int pin);
