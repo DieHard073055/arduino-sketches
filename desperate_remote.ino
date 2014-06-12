@@ -44,3 +44,4 @@ void setup(){
   pinMode(INPUT_3, INPUT);
   pinMode(INPUT_4, INPUT);
   
+  pinMode(SHUTTER_PIN, OUTPUT);
