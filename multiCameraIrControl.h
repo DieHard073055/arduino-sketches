@@ -43,3 +43,4 @@ private:
   int _freq;
 };
 
+class Canon{
