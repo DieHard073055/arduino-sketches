@@ -42,3 +42,4 @@ int read_LCD_buttons()
  if (adc_key_in < 380)  return btnDOWN; 
  if (adc_key_in < 555)  return btnLEFT; 
  if (adc_key_in < 790)  return btnSELECT;   
+*/
