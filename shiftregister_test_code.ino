@@ -44,3 +44,4 @@ void loop(){
          
         case 'c':
           clock();
+          break;
