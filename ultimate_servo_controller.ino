@@ -44,3 +44,4 @@
 // # = Servo channel
 // P = Pulse width in us
 // p = Pulse width in 1/16 us
+// S = Speed in us per second
