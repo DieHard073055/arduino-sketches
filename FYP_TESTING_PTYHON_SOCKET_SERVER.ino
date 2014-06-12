@@ -46,3 +46,4 @@ void process_serial_commands(){
         command = "";
   
         current_variable++;
+        
