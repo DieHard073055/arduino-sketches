@@ -46,3 +46,4 @@ void loop(){
   else if(digitalRead(INCREMENT)){
       delayMicroseconds(5000000000);
       delayMicroseconds(5000000000);
+      delayMicroseconds(5000000000);
