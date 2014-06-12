@@ -45,3 +45,4 @@ void loop(){
   int ldr = analogRead(LIGHT_PIN);
   int statusPower = map(ldr, 0, 900, 0, 255);
   cls();
+  cursor_0();
