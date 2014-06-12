@@ -44,3 +44,4 @@ void setup(){
 
     //SHIFT REGISTER PINS
     pinMode(_DATA, OUTPUT);
+    pinMode(_ENABLE, OUTPUT);
