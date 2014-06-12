@@ -46,3 +46,4 @@ void loop(){
         Serial.println(a);
         switch(a){
 
+            //------ Door 1 ----------
