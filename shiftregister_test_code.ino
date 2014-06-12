@@ -42,3 +42,4 @@ void loop(){
           Serial.println(d);
           break;
          
+        case 'c':
