@@ -42,3 +42,4 @@ void setup(){
   pinMode(INPUT_1, INPUT);
   pinMode(INPUT_2, INPUT);
   pinMode(INPUT_3, INPUT);
+  pinMode(INPUT_4, INPUT);
