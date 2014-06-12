@@ -42,3 +42,4 @@ void setup(){
   TIMSK1 = B00000010;
   OCR1A = 30;
   
+  interrupts(); //Let get them multiplexing started
