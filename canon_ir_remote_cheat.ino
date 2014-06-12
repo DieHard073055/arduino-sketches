@@ -42,3 +42,4 @@ void setup(){
 /*********************************************
          MAIN FUNCTION 
          -------------
+         - Handle User input
