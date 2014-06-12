@@ -45,3 +45,4 @@ void loop(){
         case 'c':
           clock();
           break;
+        case 'l':
