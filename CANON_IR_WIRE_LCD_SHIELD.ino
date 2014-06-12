@@ -86,3 +86,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
            REFRESH RATE DELAY
 #define SHUTTER_PIN 11
        *********************************/
+/**********************
+      delay(REFRESH_RATE);
