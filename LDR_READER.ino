@@ -42,3 +42,4 @@ void setup(){
 
 
 void loop(){
+  int ldr = analogRead(LIGHT_PIN);
