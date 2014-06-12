@@ -43,3 +43,4 @@ void setup(){
          MAIN FUNCTION 
          -------------
          - Handle User input
+         - Handle switch debounce         
