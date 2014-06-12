@@ -44,3 +44,4 @@ void setup(){
   
   interrupts(); //Let get them multiplexing started
   PORTB &= (0<<_ENABLE);
+}
