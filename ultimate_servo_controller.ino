@@ -46,3 +46,4 @@
 // p = Pulse width in 1/16 us
 // S = Speed in us per second
 // s = Speed in 1/16 us per second
+// T = Time in ms
