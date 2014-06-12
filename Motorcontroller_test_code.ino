@@ -41,3 +41,4 @@ void loop(){
 void status_indicate(){
    digitalWrite(STATUS, HIGH);
    delay(500);
+   digitalWrite(STATUS, LOW); 
