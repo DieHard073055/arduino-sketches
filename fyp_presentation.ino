@@ -43,3 +43,4 @@ void setup(){
     curtain_2.write(0);
     
     //Serial.println("Led Initialised");
+    pinMode(LED, OUTPUT);
