@@ -48,3 +48,4 @@ public:
   Canon(int pin);
   void shutterNow();
   void shutterDelayed();
+private:
