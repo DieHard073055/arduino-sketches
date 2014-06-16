@@ -48,3 +48,4 @@ void loop(){
         case 'l':
           latch();
           break;
+     }
