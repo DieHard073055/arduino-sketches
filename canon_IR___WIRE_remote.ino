@@ -48,3 +48,4 @@ void setup(){
   /*SERAIL CODES*/
   Serial.begin(9600);
   Serial.println(" ---- TIMINATOR STARTED ---- ");
+}
