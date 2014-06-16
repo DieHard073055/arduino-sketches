@@ -98,3 +98,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
 /**********************************
 #define prnt Display.print
         ASTROLAPSE - CONTROLLER
+#define prntln Display.println
+*/
