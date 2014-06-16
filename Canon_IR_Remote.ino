@@ -48,3 +48,4 @@ void setup(){
    digitalWrite(seg4, HIGH);
    digitalWrite(seg5, HIGH);
    digitalWrite(seg6, HIGH);
+   digitalWrite(seg7, HIGH);
