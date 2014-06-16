@@ -47,3 +47,4 @@ void loop(){
   cls();
   cursor_0();
   printf("LDR Reading: ");
+  printf(ldr);
