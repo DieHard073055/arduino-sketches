@@ -47,3 +47,4 @@
 // S = Speed in us per second
 // s = Speed in 1/16 us per second
 // T = Time in ms
+// PO = Pulse offset in us. -2500 to 2500 in us. Used to trim servo position.
