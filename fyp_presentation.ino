@@ -48,3 +48,4 @@ void setup(){
 }
 
 void loop(){
+    int input;
