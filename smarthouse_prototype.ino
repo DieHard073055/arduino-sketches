@@ -47,3 +47,4 @@ void loop(){
         switch(a){
 
             //------ Door 1 ----------
+            case 1:
