@@ -47,3 +47,4 @@ void process_serial_commands(){
   
         current_variable++;
         
+        if(current_variable == COMMAND_VARIABLES){
