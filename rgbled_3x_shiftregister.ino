@@ -48,3 +48,4 @@ void shift(byte data){
 
 
     for(int i=0; i<8; i++){
+        //get the output bit from the data
