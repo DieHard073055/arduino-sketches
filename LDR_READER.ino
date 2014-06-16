@@ -48,3 +48,4 @@ void loop(){
   cursor_0();
   printf("LDR Reading: ");
   printf(ldr);
+  analogWrite(STATUS, statusPower);
