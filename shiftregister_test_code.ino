@@ -47,3 +47,4 @@ void loop(){
           break;
         case 'l':
           latch();
+          break;
