@@ -47,3 +47,4 @@ void high(unsigned int time, int freq, int pinLED){
     delayMicroseconds(pause);
     digitalWrite(pinLED,LOW);
     delayMicroseconds(pause);
+  }
