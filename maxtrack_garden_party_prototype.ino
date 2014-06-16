@@ -47,3 +47,4 @@ void setup(){
 void loop(){
   
   if(Serial.available()){
+    int choice = Serial.read()-48;
