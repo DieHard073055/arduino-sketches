@@ -48,3 +48,4 @@ void setup(){
     pinMode(_LATCH, OUTPUT);
     pinMode(_CLCK, OUTPUT);
 
+    digitalWrite(_ENABLE, LOW);
