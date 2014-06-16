@@ -48,3 +48,4 @@ void loop(){
 
             //------ Door 1 ----------
             case 1:
+                houseStats[0] = 0;
