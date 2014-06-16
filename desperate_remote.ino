@@ -47,3 +47,4 @@ void setup(){
   pinMode(SHUTTER_PIN, OUTPUT);
   
   Serial.begin(9600);
+  Serial.println("Desperate Remote Online");
