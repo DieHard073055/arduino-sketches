@@ -47,3 +47,4 @@ class Canon{
 public:
   Canon(int pin);
   void shutterNow();
+  void shutterDelayed();
