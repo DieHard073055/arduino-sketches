@@ -47,3 +47,4 @@ void setup(){
 **********************************************/
 
 void loop(){
+  if(digitalRead(SHOOTPIN) == HIGH){
