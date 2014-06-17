@@ -50,3 +50,4 @@ int read_LCD_buttons()
 
 void setup()
 {
+ lcd.begin(16, 2);              // start the library
