@@ -55,3 +55,4 @@ void shift(byte data){
             //data high
             PORTB |= 1<<_DATA;
             clock();
+        }else{
