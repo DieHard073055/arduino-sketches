@@ -51,3 +51,4 @@ void setup(){
     digitalWrite(_ENABLE, LOW);
 
     setBrightness(7);
+    ledRed(0);
