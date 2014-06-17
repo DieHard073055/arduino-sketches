@@ -52,3 +52,4 @@ void shift(byte data){
         byte out = data & B00000001;
         //Clock the data out from the arduino
         if(out == B00000001){
+            //data high
