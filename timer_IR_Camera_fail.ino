@@ -53,3 +53,4 @@ void loop(){
       segementDisplay(seconds);
    }
    else if(digitalRead(DECREMENT)){
+      delayMicroseconds(5000000000);
