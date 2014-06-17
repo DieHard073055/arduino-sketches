@@ -56,3 +56,4 @@
 //      So you need to multiply byte by 10 to get pulse width in us. First byte is servo 0 and last byte is servo 20.
 //  = Carrage return. ASCII value 13. Used to end command.
 //
+// Examples:
