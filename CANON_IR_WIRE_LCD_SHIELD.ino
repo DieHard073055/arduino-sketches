@@ -116,3 +116,5 @@ void Backlight_Controller(){
     while(1){
 #define SELECT 5
         cls();
+
+        c_0();
