@@ -56,3 +56,4 @@ void setup(){
    Serial.println("Interrupts Attached");
    attachInterrupt(INPUTPIN, buttonPressed, RISING);
 }
+void loop(){
