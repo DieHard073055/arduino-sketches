@@ -54,3 +54,4 @@ void loop(){
 }
 
 void latch(){
+   //Latch High
