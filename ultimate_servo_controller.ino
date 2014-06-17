@@ -51,3 +51,4 @@
 // Po = Pulse offset in 1/16us -40000 to 40000 in 1/16 us
 // I = Invert servo movements.
 // N = Non-invert servo movements.
+// Q = Query movement. Return "." if no servo moves and "+" if there are any servos moving.
