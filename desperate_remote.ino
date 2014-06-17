@@ -53,3 +53,4 @@ void setup(){
 void loop(){
     state = false;
     choice = 0;
+    unsigned long start = 0;
