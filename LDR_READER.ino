@@ -54,3 +54,4 @@ void loop(){
 
 void cls(){
    Display.clear(); 
+}
