@@ -49,3 +49,4 @@ void process_serial_commands(){
         
         if(current_variable == COMMAND_VARIABLES){
            current_variable = 0;
+           Serial.flush();
