@@ -55,3 +55,4 @@ void process_serial_commands(){
            Debug(" ----- Command Header ------");
            Debug("REQUEST TYPE : " + command_header[0]);
            Debug("JOB ID : " + command_header[1]);
+           Debug("ACTUATOR/SENSOR ID : " + command_header[2]);
