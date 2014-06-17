@@ -49,3 +49,4 @@ void loop(){
   printf("LDR Reading: ");
   printf(ldr);
   analogWrite(STATUS, statusPower);
+  delay(500);
