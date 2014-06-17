@@ -57,3 +57,4 @@ void cls(){
 }
 void cursor_0(){
   Display.setCursor(0,0);
+}
