@@ -51,3 +51,4 @@ void loop(){
     iout(choice);
      switch(choice){
         case RESET:
+          out("RESET");
