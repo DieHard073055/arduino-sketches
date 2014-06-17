@@ -112,3 +112,5 @@ void Backlight_Controller(){
     int input; 
 #define LEFT   3
     
+#define RIGHT  4
+    while(1){
