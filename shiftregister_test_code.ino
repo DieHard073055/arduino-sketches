@@ -55,3 +55,4 @@ void loop(){
 void clock(){
   digitalWrite(_CLCK, HIGH);
   digitalWrite(_CLCK, LOW);
+}
