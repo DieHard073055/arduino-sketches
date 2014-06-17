@@ -54,3 +54,4 @@ private:
 };
 
 class CanonWLDC100{
+public:
