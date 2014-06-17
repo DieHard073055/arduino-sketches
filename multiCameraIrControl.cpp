@@ -53,3 +53,4 @@ void high(unsigned int time, int freq, int pinLED){
 Nikon::Nikon(int pin)
 {
   pinMode(pin, OUTPUT);
+  _pin = pin;
