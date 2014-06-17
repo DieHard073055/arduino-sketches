@@ -51,3 +51,4 @@ void shift(byte data){
         //get the output bit from the data
         byte out = data & B00000001;
         //Clock the data out from the arduino
+        if(out == B00000001){
