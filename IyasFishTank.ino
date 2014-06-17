@@ -53,3 +53,4 @@ void setup(){
     setBrightness(7);
     ledRed(0);
     ledGreen(0);
+    ledBlue(0);
