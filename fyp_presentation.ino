@@ -54,3 +54,4 @@ void loop(){
       }
     
       if (isDigit(input)) {
+        inputString += (char)input; 
