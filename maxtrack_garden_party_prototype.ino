@@ -56,3 +56,4 @@ void loop(){
           latchDataOut();
           break;
          
+        case 1:
