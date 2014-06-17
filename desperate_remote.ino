@@ -54,3 +54,4 @@ void loop(){
     state = false;
     choice = 0;
     unsigned long start = 0;
+    unsigned long elapsed = 0;
