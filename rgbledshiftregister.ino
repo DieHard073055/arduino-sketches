@@ -49,3 +49,4 @@ void loop(){
     {
     
     ledShift(blue);
+    enable(i);
