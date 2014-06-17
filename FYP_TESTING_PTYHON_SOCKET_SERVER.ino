@@ -53,3 +53,4 @@ void process_serial_commands(){
             
            //Debug Messages
            Debug(" ----- Command Header ------");
+           Debug("REQUEST TYPE : " + command_header[0]);
