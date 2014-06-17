@@ -53,3 +53,4 @@ void loop(){
         input = Serial.read();
       }
     
+      if (isDigit(input)) {
