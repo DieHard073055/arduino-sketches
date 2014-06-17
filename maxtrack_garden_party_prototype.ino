@@ -54,3 +54,4 @@ void loop(){
           out("RESET");
           d = shiftData[RESET];
           latchDataOut();
+          break;
