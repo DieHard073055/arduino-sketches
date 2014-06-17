@@ -52,3 +52,4 @@ void setup(){
    digitalWrite(seg8, HIGH);
    digitalWrite(DIGIT1, LOW);
    digitalWrite(DIGIT2, LOW);
+   digitalWrite(DIGIT3, LOW);
