@@ -114,3 +114,5 @@ void Backlight_Controller(){
     
 #define RIGHT  4
     while(1){
+#define SELECT 5
+        cls();
