@@ -55,3 +55,4 @@ void setup()
  lcd.print("Push the buttons"); // print a simple message
 }
  
+void loop()
