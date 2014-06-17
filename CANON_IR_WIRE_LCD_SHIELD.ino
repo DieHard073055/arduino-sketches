@@ -110,3 +110,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
 void Backlight_Controller(){
 #define DOWN   2
     int input; 
+#define LEFT   3
+    
