@@ -50,3 +50,4 @@ void loop(){
         ledBlue(255-i);
         delay(delayTime);
    }
+   //2 - Red Goes up and Green Goes down
