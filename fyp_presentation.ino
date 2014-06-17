@@ -57,3 +57,4 @@ void loop(){
         inputString += (char)input; 
       }
     
+      if (input == '-') {
