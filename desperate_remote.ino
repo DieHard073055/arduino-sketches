@@ -56,3 +56,4 @@ void loop(){
     unsigned long start = 0;
     unsigned long elapsed = 0;
     unsigned long period_shutter = 0;
+    unsigned long period_interval = 0;
