@@ -56,3 +56,4 @@ void loop(){
       char d = Serial.read();
       Serial.println(d);
       if(d == 100){ 
+        shutter();
