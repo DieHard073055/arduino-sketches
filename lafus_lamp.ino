@@ -53,3 +53,4 @@ void loop(){
    //2 - Red Goes up and Green Goes down
    for (int i = 0; i < 255; i+=10){
         ledRed(i);
+        ledGreen(255);
