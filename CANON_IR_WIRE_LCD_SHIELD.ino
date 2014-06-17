@@ -104,3 +104,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
 /**********************************
 /*    BUTTONS   */
         BACKLIGHT CONTROLLER
+#define NONE   0
+*/
