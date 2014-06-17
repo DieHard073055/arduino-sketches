@@ -57,3 +57,4 @@
 //  = Carrage return. ASCII value 13. Used to end command.
 //
 // Examples:
+// #0 P1500 T1000                        - Move Servo 0 to 1500us in 1 second.
