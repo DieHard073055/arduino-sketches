@@ -52,3 +52,4 @@ void setup(){
 
 void loop(){
     state = false;
+    choice = 0;
