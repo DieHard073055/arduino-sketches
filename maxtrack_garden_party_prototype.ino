@@ -53,3 +53,4 @@ void loop(){
         case RESET:
           out("RESET");
           d = shiftData[RESET];
+          latchDataOut();
