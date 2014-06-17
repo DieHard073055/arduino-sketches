@@ -57,3 +57,4 @@ void loop(){
           break;
          
         case 1:
+          //curtain 1 up
