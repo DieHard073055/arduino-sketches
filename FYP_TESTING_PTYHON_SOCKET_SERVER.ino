@@ -51,3 +51,4 @@ void process_serial_commands(){
            current_variable = 0;
            Serial.flush();
             
+           //Debug Messages
