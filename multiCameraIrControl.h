@@ -53,3 +53,4 @@ private:
   int _freq;
 };
 
+class CanonWLDC100{
