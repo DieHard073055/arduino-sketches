@@ -57,3 +57,4 @@ void latch(){
    //Latch High
   PORTB |= 1<<_LATCH;
   //Latch Low
+  PORTB &= 0<<_LATCH; 
