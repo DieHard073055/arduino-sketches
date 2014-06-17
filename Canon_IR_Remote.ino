@@ -54,3 +54,4 @@ void setup(){
    digitalWrite(DIGIT2, LOW);
    digitalWrite(DIGIT3, LOW);
    Serial.println("Interrupts Attached");
+   attachInterrupt(INPUTPIN, buttonPressed, RISING);
