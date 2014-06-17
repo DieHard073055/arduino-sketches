@@ -49,3 +49,4 @@ void high(unsigned int time, int freq, int pinLED){
     delayMicroseconds(pause);
   }
 }
+
