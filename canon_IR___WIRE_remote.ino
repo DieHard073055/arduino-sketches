@@ -53,3 +53,4 @@ void setup(){
 
 void loop(){
     if(Serial.available()){
+      char d = Serial.read();
