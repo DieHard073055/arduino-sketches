@@ -50,3 +50,4 @@ void loop(){
     int choice = Serial.read()-48;
     iout(choice);
      switch(choice){
+        case RESET:
