@@ -57,3 +57,4 @@ void clock(){
   digitalWrite(_CLCK, LOW);
 }
 void latch(){
+  digitalWrite(_LATCH, LOW);
