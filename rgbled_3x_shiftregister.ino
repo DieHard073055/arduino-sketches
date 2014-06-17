@@ -53,3 +53,4 @@ void shift(byte data){
         //Clock the data out from the arduino
         if(out == B00000001){
             //data high
+            PORTB |= 1<<_DATA;
