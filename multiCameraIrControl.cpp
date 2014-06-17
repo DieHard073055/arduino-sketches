@@ -57,3 +57,4 @@ Nikon::Nikon(int pin)
   _freq = 40;
 }
 
+void Nikon::shutterNow()
