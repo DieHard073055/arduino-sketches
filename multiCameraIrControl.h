@@ -49,3 +49,4 @@ public:
   void shutterNow();
   void shutterDelayed();
 private:
+  int _pin;
