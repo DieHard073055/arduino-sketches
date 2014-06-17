@@ -50,3 +50,4 @@ void loop(){
             case 1:
                 houseStats[0] = 0;
             break;
+
