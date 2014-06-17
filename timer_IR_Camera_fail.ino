@@ -56,3 +56,4 @@ void loop(){
       delayMicroseconds(5000000000);
       delayMicroseconds(5000000000);
       delayMicroseconds(5000000000);
+      seconds--;
