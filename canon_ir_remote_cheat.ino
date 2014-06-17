@@ -54,3 +54,4 @@ void loop(){
      toggleIr(); 
   }
   else if(digitalRead(INCREMENT)){
+      delayMicroseconds(5000000000);
