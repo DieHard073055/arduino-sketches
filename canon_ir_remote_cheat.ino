@@ -50,3 +50,4 @@ void loop(){
   if(digitalRead(SHOOTPIN) == HIGH){
      delayMicroseconds(5000000000);
       delayMicroseconds(5000000000);
+      delayMicroseconds(5000000000);
