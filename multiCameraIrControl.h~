@@ -57,3 +57,4 @@ class CanonWLDC100{
 public:
   CanonWLDC100(int pin);
   void shutterNow();
+private:
