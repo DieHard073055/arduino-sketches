@@ -50,3 +50,4 @@ void loop(){
   printf(ldr);
   analogWrite(STATUS, statusPower);
   delay(500);
+}
