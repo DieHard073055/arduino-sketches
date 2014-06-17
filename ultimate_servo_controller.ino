@@ -55,3 +55,4 @@
 // QP = Query servo pulse width. Return 20 bytes where each is from 50 to 250 in 10us resolution. 
 //      So you need to multiply byte by 10 to get pulse width in us. First byte is servo 0 and last byte is servo 20.
 //  = Carrage return. ASCII value 13. Used to end command.
+//
