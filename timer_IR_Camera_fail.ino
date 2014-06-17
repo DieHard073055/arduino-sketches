@@ -54,3 +54,4 @@ void loop(){
    }
    else if(digitalRead(DECREMENT)){
       delayMicroseconds(5000000000);
+      delayMicroseconds(5000000000);
