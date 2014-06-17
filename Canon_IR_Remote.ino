@@ -57,3 +57,4 @@ void setup(){
    attachInterrupt(INPUTPIN, buttonPressed, RISING);
 }
 void loop(){
+  digitalWrite(DIGIT3, LOW);
