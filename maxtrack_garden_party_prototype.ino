@@ -49,3 +49,4 @@ void loop(){
   if(Serial.available()){
     int choice = Serial.read()-48;
     iout(choice);
+     switch(choice){
