@@ -49,3 +49,4 @@ void setup(){
 
 void loop(){
     int input;
+      if (Serial.available() > 0) {
