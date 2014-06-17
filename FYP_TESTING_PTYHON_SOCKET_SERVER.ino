@@ -52,3 +52,4 @@ void process_serial_commands(){
            Serial.flush();
             
            //Debug Messages
+           Debug(" ----- Command Header ------");
