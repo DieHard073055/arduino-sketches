@@ -50,3 +50,4 @@ void loop(){
       seconds++;
       
       if(seconds > 999) seconds = 999;
+      segementDisplay(seconds);
