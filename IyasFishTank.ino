@@ -50,3 +50,4 @@ void setup(){
 
     digitalWrite(_ENABLE, LOW);
 
+    setBrightness(7);
