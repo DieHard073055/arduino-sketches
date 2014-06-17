@@ -55,3 +55,4 @@ void loop(){
 void cls(){
    Display.clear(); 
 }
+void cursor_0(){
