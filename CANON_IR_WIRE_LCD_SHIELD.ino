@@ -106,3 +106,5 @@ LiquidCrystal Display(8, 9, 4, 5, 6, 7);
         BACKLIGHT CONTROLLER
 #define NONE   0
 */
+#define UP     1
+void Backlight_Controller(){
