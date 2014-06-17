@@ -49,3 +49,4 @@
 // T = Time in ms
 // PO = Pulse offset in us. -2500 to 2500 in us. Used to trim servo position.
 // Po = Pulse offset in 1/16us -40000 to 40000 in 1/16 us
+// I = Invert servo movements.
