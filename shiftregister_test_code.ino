@@ -49,3 +49,4 @@ void loop(){
           latch();
           break;
      }
+  }
