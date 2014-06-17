@@ -52,3 +52,4 @@ void loop(){
      switch(choice){
         case RESET:
           out("RESET");
+          d = shiftData[RESET];
