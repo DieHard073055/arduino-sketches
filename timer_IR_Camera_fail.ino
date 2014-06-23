@@ -60,3 +60,4 @@ void loop(){
       
       if(seconds < 1) seconds = 1;
       segementDisplay(seconds);
+      
