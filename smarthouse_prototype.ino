@@ -59,3 +59,4 @@ void loop(){
             //------ Door 2 ----------
             case 3:
                 houseStats[1] = 0;
+            break;
