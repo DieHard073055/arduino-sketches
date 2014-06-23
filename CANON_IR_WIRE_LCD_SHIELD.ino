@@ -118,3 +118,5 @@ void Backlight_Controller(){
         cls();
 
         c_0();
+/**********************
+        prnt("BACKLIGHT : ");
