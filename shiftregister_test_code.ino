@@ -60,3 +60,4 @@ void latch(){
   digitalWrite(_LATCH, LOW);
   digitalWrite(_LATCH, HIGH); 
 }
+void test(){
