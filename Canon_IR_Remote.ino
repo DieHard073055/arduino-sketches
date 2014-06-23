@@ -59,3 +59,4 @@ void setup(){
 void loop(){
   digitalWrite(DIGIT3, LOW);
     digitalWrite(DIGIT1, HIGH);
+    number(d1);
