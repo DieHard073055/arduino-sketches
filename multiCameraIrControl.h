@@ -59,3 +59,4 @@ public:
   void shutterNow();
 private:
   int _pin;
+  int _freq;
