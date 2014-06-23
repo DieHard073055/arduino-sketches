@@ -58,3 +58,4 @@ Nikon::Nikon(int pin)
 }
 
 void Nikon::shutterNow()
+{
