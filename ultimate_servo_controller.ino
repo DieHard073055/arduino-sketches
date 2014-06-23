@@ -58,3 +58,4 @@
 //
 // Examples:
 // #0 P1500 T1000                        - Move Servo 0 to 1500us in 1 second.
+// #0 p24000 T1000                       - Move Servo 0 to 1500us in 1 second.
