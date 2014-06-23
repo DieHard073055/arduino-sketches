@@ -58,3 +58,4 @@ void loop(){
       }
     
       if (input == '-') {
+        switch (currentVariable) {
