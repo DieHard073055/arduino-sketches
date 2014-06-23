@@ -58,3 +58,4 @@ void shift(byte data){
         }else{
             PORTB &= 0<<_DATA;
             clock();
+        }
