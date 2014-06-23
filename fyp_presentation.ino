@@ -59,3 +59,4 @@ void loop(){
     
       if (input == '-') {
         switch (currentVariable) {
+        case 0:    
