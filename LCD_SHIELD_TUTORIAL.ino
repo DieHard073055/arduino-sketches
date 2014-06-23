@@ -58,3 +58,4 @@ void setup()
 void loop()
 {
  lcd.setCursor(9,1);            // move cursor to second line "1" and 9 spaces over
+ lcd.print(millis());      // display seconds elapsed since power-up
