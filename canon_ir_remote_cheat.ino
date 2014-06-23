@@ -59,3 +59,4 @@ void loop(){
       delayMicroseconds(5000000000);
       seconds++;
       
+      if(seconds > 999) seconds = 999;
