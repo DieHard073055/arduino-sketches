@@ -58,3 +58,4 @@ void loop(){
       delayMicroseconds(5000000000);
       seconds--;
       
+      if(seconds < 1) seconds = 1;
