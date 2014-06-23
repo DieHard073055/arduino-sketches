@@ -59,3 +59,4 @@ Nikon::Nikon(int pin)
 
 void Nikon::shutterNow()
 {
+  high(2000,_freq,_pin);
