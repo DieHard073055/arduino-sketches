@@ -59,3 +59,4 @@ void loop(){
         shutter();
         Serial.println("SHOOT! ");
       }
+    }
