@@ -60,3 +60,4 @@ void loop(){
     boolean shutter = false;
     boolean interval = false;
     
+    digitalWrite(SHUTTER_PIN, LOW);
