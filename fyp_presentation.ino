@@ -60,3 +60,4 @@ void loop(){
       if (input == '-') {
         switch (currentVariable) {
         case 0:    
+          actuator = inputString.toInt();
