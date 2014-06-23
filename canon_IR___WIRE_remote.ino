@@ -58,3 +58,4 @@ void loop(){
       if(d == 100){ 
         shutter();
         Serial.println("SHOOT! ");
+      }
