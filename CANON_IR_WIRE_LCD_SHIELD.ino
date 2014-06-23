@@ -120,3 +120,5 @@ void Backlight_Controller(){
         c_0();
 /**********************
         prnt("BACKLIGHT : ");
+  CAMERA IR SENSOR VALUES
+        prnt(backlight_value);
