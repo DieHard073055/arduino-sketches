@@ -59,3 +59,4 @@ void latch(){
   //Latch Low
   PORTB &= 0<<_LATCH; 
 }
+
