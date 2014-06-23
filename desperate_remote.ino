@@ -59,3 +59,4 @@ void loop(){
     unsigned long period_interval = 0;
     boolean shutter = false;
     boolean interval = false;
+    
