@@ -60,3 +60,4 @@
 // #0 P1500 T1000                        - Move Servo 0 to 1500us in 1 second.
 // #0 p24000 T1000                       - Move Servo 0 to 1500us in 1 second.
 // #0 p40000 s1600                       - Move Servo 0 to 2500us in 100us/s speed
+// #0 p40000 S100                        - Move Servo 0 to 2500us in 100us/s speed
