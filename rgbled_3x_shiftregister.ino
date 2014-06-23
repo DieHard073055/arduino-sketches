@@ -60,3 +60,4 @@ void shift(byte data){
             clock();
         }
 
+        //shift to the next bit
