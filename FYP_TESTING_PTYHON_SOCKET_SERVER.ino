@@ -58,3 +58,4 @@ void process_serial_commands(){
            Debug("ACTUATOR/SENSOR ID : " + command_header[2]);
            Debug("ACTUATOR/SENSOR VALUE: " + command_header[3]);
            
+           if(command_header[0] == ACTUATOR){
