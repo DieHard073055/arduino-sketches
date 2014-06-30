@@ -62,3 +62,4 @@ void process_serial_commands(){
              //If Actuator selected
              //Return job id when the job is done.
              SPRINTLN(command_header[1]);
+           }else if(command_header[0] == SENSOR){
