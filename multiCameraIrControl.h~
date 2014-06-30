@@ -64,3 +64,4 @@ private:
  
 class Pentax{
 public:
+  Pentax(int pin);
