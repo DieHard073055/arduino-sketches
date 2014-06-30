@@ -65,3 +65,4 @@ void loop(){
     while(digitalRead(TIMELAPSE_PIN) == HIGH){
       /******************************************/
       /*     BEFORE TIMELAPSING HAS BEGAN      */
+      /*****************************************/
