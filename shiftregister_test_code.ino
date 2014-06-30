@@ -66,3 +66,4 @@ void test(){
     shiftOut(_DATA, _CLCK, LSBFIRST, shiftData[i]);
     digitalWrite(_LATCH, HIGH);
     delay(500); 
+    Serial.print("Num : ");
