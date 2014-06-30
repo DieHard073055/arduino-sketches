@@ -63,3 +63,4 @@ void loop(){
         ledBlue(0);
         delay(delayTime);
    }
+   //3 - Blue Goes up red is HIGH
