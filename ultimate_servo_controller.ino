@@ -67,3 +67,4 @@
 // #0 PO100 #1 PO-100                    - Will set 100 us offset to servo 0 and -100 us ofset to servo 1
 // #0 Po1600 #1 Po-1600                  - Will set 100 us offset to servo 0 and -100 us ofset to servo 1
 // #0 I                                  - Will set servo 0 to move inverted from standard
+// #0 N                                  - Will set servo 0 back to move non-inverted
