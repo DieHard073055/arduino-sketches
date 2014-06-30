@@ -67,3 +67,4 @@ void Nikon::shutterNow()
   wait(3580);
   high(400,_freq,_pin);
 }
+
