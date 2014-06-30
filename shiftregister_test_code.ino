@@ -64,3 +64,4 @@ void test(){
    for(int i =0; i < 9; i++){
     digitalWrite(_LATCH, LOW);
     shiftOut(_DATA, _CLCK, LSBFIRST, shiftData[i]);
+    digitalWrite(_LATCH, HIGH);
