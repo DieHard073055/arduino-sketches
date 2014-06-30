@@ -67,3 +67,4 @@ void enable(int val){
 
 void ledShift(int l){
   
+  digitalWrite(_LATCH, LOW);
