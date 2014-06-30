@@ -65,3 +65,4 @@ void loop(){
           break;
         case 2:
           //curtain 1 down
+          out("CURTAIN DOWN");
