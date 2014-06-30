@@ -66,3 +66,4 @@ void loop(){
             break;
 
             //------ Led 1 ----------
+            case 5:
