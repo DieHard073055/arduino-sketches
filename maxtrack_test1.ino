@@ -64,3 +64,4 @@ void latch(){
 //        TIMER FUNCTIONS
 //-------------------------------
 ISR(TIMER1_COMPA_vect){
+  
