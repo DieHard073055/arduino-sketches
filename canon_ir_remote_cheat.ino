@@ -62,3 +62,4 @@ void loop(){
       if(seconds > 999) seconds = 999;
       segementDisplay(seconds);
    }
+   else if(digitalRead(DECREMENT)){
