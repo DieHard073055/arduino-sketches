@@ -65,3 +65,4 @@ void loop()
  lcd_key = read_LCD_buttons();  // read the buttons
 
  switch (lcd_key)               // depending on which button was pushed, we perform an action
+ {
