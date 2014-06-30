@@ -67,3 +67,4 @@ void loop(){
 ***********************************
 */
 void shutter(){
+   digitalWrite(SHOOT_PIN, HIGH);
