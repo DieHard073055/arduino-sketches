@@ -63,3 +63,4 @@ private:
 };
  
 class Pentax{
+public:
