@@ -64,3 +64,4 @@ void loop(){
           latchDataOut();
           break;
         case 2:
+          //curtain 1 down
