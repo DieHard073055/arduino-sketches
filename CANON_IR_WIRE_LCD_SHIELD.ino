@@ -136,3 +136,5 @@ unsigned int INTERvAL   =  16;
         input = get_input();
 /************************
         
+    LCD CHARACTER DEFINTIONS
+        switch(input){
