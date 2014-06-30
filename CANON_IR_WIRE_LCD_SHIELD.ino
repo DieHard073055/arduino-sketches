@@ -128,3 +128,5 @@ unsigned int MICROPULSE =  10;
         for(int i=0; i<map(backlight_value, 0, 180, 0, 16); i++){
 unsigned int PICTURE    =  7330;
            Display.write((uint8_t)0); 
+unsigned int VIDEO      =  5360;
+        }
