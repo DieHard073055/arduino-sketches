@@ -65,3 +65,4 @@ void shift(byte data){
     }
 }
 void clock(){
+    //clock high
