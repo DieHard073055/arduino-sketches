@@ -66,3 +66,4 @@ void loop(){
       delayMicroseconds(500);
       while(1){
          for(int i = 0; i < seconds; i++){
+           segementDisplay(i); 
