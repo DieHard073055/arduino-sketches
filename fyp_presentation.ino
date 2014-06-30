@@ -63,3 +63,4 @@ void loop(){
           actuator = inputString.toInt();
           inputString = ""; 
           break;
+        case 1:   
