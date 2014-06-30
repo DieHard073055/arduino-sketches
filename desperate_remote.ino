@@ -61,3 +61,4 @@ void loop(){
     boolean interval = false;
     
     digitalWrite(SHUTTER_PIN, LOW);
+    
