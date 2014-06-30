@@ -67,3 +67,4 @@ public:
   Pentax(int pin);
   void shutterNow();
   void toggleFocus();
+private:
