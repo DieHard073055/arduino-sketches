@@ -61,3 +61,4 @@ void loop(){
         switch (currentVariable) {
         case 0:    
           actuator = inputString.toInt();
+          inputString = ""; 
