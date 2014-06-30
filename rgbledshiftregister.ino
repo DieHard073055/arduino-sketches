@@ -62,3 +62,4 @@ void loop(){
 }
 
 void enable(int val){
+  analogWrite(_ENABLE, 255-val);
