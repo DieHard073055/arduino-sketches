@@ -62,3 +62,4 @@ void setup(){
 //     ledBlue(255);
 //     ledGreen(0);
 //     for(int i = 0; i < 8; i++){
+//         setLed(i);
