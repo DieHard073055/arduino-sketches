@@ -64,3 +64,4 @@ void loop(){
           inputString = ""; 
           break;
         case 1:   
+          act_num = inputString.toInt();
