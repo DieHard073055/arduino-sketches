@@ -67,3 +67,4 @@ void loop(){
           //curtain 1 down
           out("CURTAIN DOWN");
           lastCurtainChange = millis();
+          d |= shiftData[CURTAIN_DOWN];
