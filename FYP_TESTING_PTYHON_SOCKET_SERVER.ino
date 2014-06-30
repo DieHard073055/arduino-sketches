@@ -64,3 +64,4 @@ void process_serial_commands(){
              SPRINTLN(command_header[1]);
            }else if(command_header[0] == SENSOR){
              //If sensor reading requested
+             //Return the sensor reading
