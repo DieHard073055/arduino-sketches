@@ -66,3 +66,4 @@ void loop()
 
  switch (lcd_key)               // depending on which button was pushed, we perform an action
  {
+   case btnRIGHT:
