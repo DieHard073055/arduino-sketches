@@ -65,3 +65,4 @@ void loop(){
                 houseStats[1] = 1;
             break;
 
+            //------ Led 1 ----------
