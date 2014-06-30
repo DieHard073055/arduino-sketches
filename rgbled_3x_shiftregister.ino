@@ -66,3 +66,4 @@ void shift(byte data){
 }
 void clock(){
     //clock high
+    PORTB |= 1<<_CLCK;
