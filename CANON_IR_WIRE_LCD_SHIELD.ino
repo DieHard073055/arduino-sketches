@@ -124,3 +124,5 @@ void Backlight_Controller(){
         prnt(backlight_value);
 */
         c_1();
+unsigned int MICROPULSE =  10;
+        for(int i=0; i<map(backlight_value, 0, 180, 0, 16); i++){
