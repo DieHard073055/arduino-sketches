@@ -61,3 +61,4 @@ void shift(byte data){
         }
 
         //shift to the next bit
+        data = data>>1;
