@@ -63,3 +63,4 @@ void loop(){
           d |= shiftData[CURTAIN_UP];
           latchDataOut();
           break;
+        case 2:
