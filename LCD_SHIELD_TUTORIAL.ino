@@ -62,3 +62,4 @@ void loop()
 
 
  lcd.setCursor(0,1);            // move to the begining of the second line
+ lcd_key = read_LCD_buttons();  // read the buttons
