@@ -62,3 +62,4 @@ private:
   int _freq;
 };
  
+class Pentax{
