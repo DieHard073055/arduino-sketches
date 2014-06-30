@@ -62,3 +62,4 @@ void loop(){
     
     digitalWrite(SHUTTER_PIN, LOW);
     
+    while(digitalRead(TIMELAPSE_PIN) == HIGH){
