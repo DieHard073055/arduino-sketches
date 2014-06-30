@@ -61,3 +61,4 @@ void loop()
  lcd.print(millis());      // display seconds elapsed since power-up
 
 
+ lcd.setCursor(0,1);            // move to the begining of the second line
