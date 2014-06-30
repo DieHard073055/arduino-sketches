@@ -61,3 +61,4 @@ void latch(){
   digitalWrite(_LATCH, HIGH); 
 }
 void test(){
+   for(int i =0; i < 9; i++){
