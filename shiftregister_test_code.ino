@@ -65,3 +65,4 @@ void test(){
     digitalWrite(_LATCH, LOW);
     shiftOut(_DATA, _CLCK, LSBFIRST, shiftData[i]);
     digitalWrite(_LATCH, HIGH);
+    delay(500); 
