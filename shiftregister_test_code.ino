@@ -67,3 +67,4 @@ void test(){
     digitalWrite(_LATCH, HIGH);
     delay(500); 
     Serial.print("Num : ");
+    Serial.println(i);
