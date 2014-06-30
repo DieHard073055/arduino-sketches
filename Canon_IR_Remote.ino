@@ -66,3 +66,4 @@ void loop(){
     number(d2);
     clearSegment();
     digitalWrite(DIGIT2, LOW);
+    digitalWrite(DIGIT3, HIGH);
