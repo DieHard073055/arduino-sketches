@@ -65,3 +65,4 @@
 // #0 P2400 S100                         - Move servo 0 to 2400us at speed 100us/s
 // #0 P1000 #1 P1200 S500 #2 P1400 T1000 - Move servo 0, 1 and 2 at the same time, but the one that takes longes S500 or T1000 will be used.
 // #0 PO100 #1 PO-100                    - Will set 100 us offset to servo 0 and -100 us ofset to servo 1
+// #0 Po1600 #1 Po-1600                  - Will set 100 us offset to servo 0 and -100 us ofset to servo 1
