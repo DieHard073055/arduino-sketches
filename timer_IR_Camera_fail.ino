@@ -67,3 +67,4 @@ void loop(){
       while(1){
          for(int i = 0; i < seconds; i++){
            segementDisplay(i); 
+           for(int j=0;j<35;j++)
