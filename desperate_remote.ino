@@ -67,3 +67,4 @@ void loop(){
       /*     BEFORE TIMELAPSING HAS BEGAN      */
       /*****************************************/
       if(!state){
+        Serial.println("Timelapse Starting");
