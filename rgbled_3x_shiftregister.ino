@@ -64,3 +64,4 @@ void shift(byte data){
         data = data>>1;
     }
 }
+void clock(){
