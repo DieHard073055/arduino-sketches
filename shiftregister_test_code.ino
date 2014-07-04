@@ -68,3 +68,4 @@ void test(){
     delay(500); 
     Serial.print("Num : ");
     Serial.println(i);
+  }
