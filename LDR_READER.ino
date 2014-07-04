@@ -68,3 +68,4 @@ void cursor_1(){
 
 void Load_Intro(){
   
+  Display.begin(16, 2);  
