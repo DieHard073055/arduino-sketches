@@ -68,3 +68,4 @@ void loop(){
         ledRed(255);
         ledGreen(0);
         ledBlue(i);
+        delay(delayTime);
