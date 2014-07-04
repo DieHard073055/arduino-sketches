@@ -68,3 +68,4 @@ void Nikon::shutterNow()
   high(400,_freq,_pin);
 }
 
+Pentax::Pentax(int pin)
