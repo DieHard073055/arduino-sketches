@@ -68,3 +68,4 @@ public:
   void shutterNow();
   void toggleFocus();
 private:
+  int _pin;
