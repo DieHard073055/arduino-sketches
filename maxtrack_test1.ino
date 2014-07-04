@@ -68,3 +68,4 @@ ISR(TIMER1_COMPA_vect){
    //
    SPI.transfer(output);
    latch();
+    
