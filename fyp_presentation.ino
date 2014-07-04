@@ -68,3 +68,4 @@ void loop(){
           inputString = ""; 
           break;
           
+        case 2:
