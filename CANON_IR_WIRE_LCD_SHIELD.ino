@@ -138,3 +138,5 @@ unsigned int INTERvAL   =  16;
         
     LCD CHARACTER DEFINTIONS
         switch(input){
+*/
+          case UP:
