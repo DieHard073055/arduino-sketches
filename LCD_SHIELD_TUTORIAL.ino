@@ -68,3 +68,4 @@ void loop()
  {
    case btnRIGHT:
      {
+     lcd.print("RIGHT ");
