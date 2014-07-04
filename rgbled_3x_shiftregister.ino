@@ -68,3 +68,4 @@ void clock(){
     //clock high
     PORTB |= 1<<_CLCK;
     //clock low
+    PORTB &= 0 << _CLCK;
