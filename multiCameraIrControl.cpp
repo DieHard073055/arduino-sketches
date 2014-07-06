@@ -69,3 +69,4 @@ void Nikon::shutterNow()
 }
 
 Pentax::Pentax(int pin)
+{
