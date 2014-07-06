@@ -69,3 +69,4 @@ void loop(){
            segementDisplay(i); 
            for(int j=0;j<35;j++)
              delayMicroseconds(5000000000);
+           
