@@ -69,3 +69,4 @@ void loop(){
           break;
           
         case 2:
+          value = inputString.toInt();
