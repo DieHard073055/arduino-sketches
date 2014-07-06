@@ -69,3 +69,4 @@ void loop(){
       if(!state){
         Serial.println("Timelapse Starting");
          state = true; 
+         
