@@ -69,3 +69,4 @@ void loop(){
           lastCurtainChange = millis();
           d |= shiftData[CURTAIN_DOWN];
           latchDataOut();
+          break;
