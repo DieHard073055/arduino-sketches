@@ -69,3 +69,4 @@ void setup(){
 void loop(){
     int delayTime = 100;
    
+    blink();
