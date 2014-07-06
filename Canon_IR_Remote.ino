@@ -69,3 +69,4 @@ void loop(){
     digitalWrite(DIGIT3, HIGH);
     number(d3);
     clearSegment();
+}
