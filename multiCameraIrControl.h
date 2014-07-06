@@ -69,3 +69,4 @@ public:
   void toggleFocus();
 private:
   int _pin;
+  int _freq;
