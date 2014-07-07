@@ -79,3 +79,4 @@ void camera(unsigned int mode){
  
  for(int i=0; i<INTERvAL; i++){
     digitalWrite(IRPIN, HIGH);
+    delayMicroseconds(MICROPULSE);
