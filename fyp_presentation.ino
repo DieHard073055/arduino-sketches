@@ -74,3 +74,4 @@ void loop(){
           break;
         }
         currentVariable++;
+        if(currentVariable == 3){
