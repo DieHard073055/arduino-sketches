@@ -71,3 +71,4 @@ void clock(){
     PORTB &= 0 << _CLCK;
 }
 void latch(){
+    //clock high
