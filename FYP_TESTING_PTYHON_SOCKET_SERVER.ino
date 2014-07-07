@@ -71,3 +71,4 @@ void process_serial_commands(){
   } 
 }
 
+double get_sensor_reading(int sensor_id){
