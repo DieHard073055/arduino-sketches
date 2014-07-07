@@ -77,3 +77,4 @@ void loop()
      break;
      }
    case btnUP:
+     {
