@@ -70,3 +70,4 @@ void loop(){
                 houseStats[2] = 0;
             break;
 
+            case 6:
