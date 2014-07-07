@@ -71,3 +71,4 @@ void loop()
      lcd.print("RIGHT ");
      break;
      }
+   case btnLEFT:
