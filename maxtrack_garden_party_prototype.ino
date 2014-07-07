@@ -72,3 +72,4 @@ void loop(){
           break;
         case 3:
         //curtain 1 stop
+        out("CURTAIN STOP");
