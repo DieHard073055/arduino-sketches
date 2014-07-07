@@ -72,3 +72,4 @@ void shutter(){
    delay(100);
    digitalWrite(SHOOT_PIN, LOW);
    digitalWrite(STATUS, LOW); 
+   delay(300);
