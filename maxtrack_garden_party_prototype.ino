@@ -79,3 +79,4 @@ void loop(){
           latchDataOut();
           break;
         case 4:
+        //Light 1 on
