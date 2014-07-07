@@ -72,3 +72,4 @@ void loop(){
       segementDisplay(seconds);
       
    }
+   else if(digitalRead(TIMELAPSE)){
