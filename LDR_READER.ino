@@ -72,3 +72,4 @@ void Load_Intro(){
   printf("    WELCOME    ");
   cursor_1();
   printf("      TO        ");
+  delay(1000);
