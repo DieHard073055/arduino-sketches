@@ -76,3 +76,4 @@ void loop()
      lcd.print("LEFT   ");
      break;
      }
+   case btnUP:
