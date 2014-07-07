@@ -75,3 +75,4 @@ Pentax::Pentax(int pin)
   _freq = 38;
 }
 
+void Pentax::shutterNow()
