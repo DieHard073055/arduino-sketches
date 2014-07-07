@@ -77,3 +77,4 @@ void loop(){
              choice |= values[1];
           }
           if(digitalRead(INPUT_3)){
+             choice |= values[2];
