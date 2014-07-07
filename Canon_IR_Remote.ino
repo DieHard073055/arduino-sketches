@@ -76,3 +76,4 @@ void buttonPressed(){
      hardware_interrupt = true;
      Serial.println("Button pressed");
       
+     if(digitalRead(SHOOTPIN)){
