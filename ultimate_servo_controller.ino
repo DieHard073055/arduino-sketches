@@ -73,3 +73,4 @@
 //
 // 18 or 20 channels mode:
 // #define HDServoMode 18           - This will set 18 channels mode so you can use serial in and out. Serial command interpreter is activated.
+// #define HDServoMode 20           - This will set 20 channels mode, and you can not use serial. 
