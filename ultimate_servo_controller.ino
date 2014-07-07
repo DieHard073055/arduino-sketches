@@ -76,3 +76,4 @@
 // #define HDServoMode 20           - This will set 20 channels mode, and you can not use serial. 
 //                                    A demo will run in the loop() routine . Serial command interpreter is not active.
 //                                    use ServoMove(int Channel, long PulseHD, long SpeedHD, long Time) to control servos.
+//                                    one of SpeedHD or Time can be set to 0 to just use the other one for speed. If both are used,
