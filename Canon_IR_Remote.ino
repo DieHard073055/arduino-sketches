@@ -79,3 +79,4 @@ void buttonPressed(){
      if(digitalRead(SHOOTPIN)){
         camera(PICTURE);
         Serial.println(digitalRead(SHOOTPIN));
+     }
