@@ -73,3 +73,4 @@ void loop(){
           inputString = ""; 
           break;
         }
+        currentVariable++;
