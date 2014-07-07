@@ -71,3 +71,4 @@ void loop(){
     clearSegment();
 }
 
+void buttonPressed(){
