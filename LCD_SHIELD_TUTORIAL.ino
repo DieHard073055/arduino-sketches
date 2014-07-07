@@ -78,3 +78,4 @@ void loop()
      }
    case btnUP:
      {
+     lcd.print("UP    ");
