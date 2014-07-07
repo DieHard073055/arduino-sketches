@@ -74,3 +74,4 @@ void loop(){
          camera(PICTURE);
       }
    }
+}
