@@ -71,3 +71,4 @@ void loop(){
         delay(delayTime);
    }
    //4 - Green Goes up
+   for (int i = 0; i < 255; i+=10){
