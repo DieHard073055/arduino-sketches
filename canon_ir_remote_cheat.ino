@@ -78,3 +78,4 @@ void loop(){
         toggleIr();
              
          for(int i = 0; i < seconds; i++){
+           segementDisplay(i); 
