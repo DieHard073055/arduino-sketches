@@ -70,3 +70,4 @@ void loop(){
     int delayTime = 100;
    
     blink();
+   for (int i = 0; i < 255; i+=10){
