@@ -76,3 +76,4 @@ void shutter(){
 }
 
 void camera(unsigned int mode){
+ 
