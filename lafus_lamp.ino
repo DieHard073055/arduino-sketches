@@ -78,3 +78,4 @@ void loop(){
         delay(delayTime);
    }
    //5 - red goes down
+   for (int i = 0; i < 255; i+=10){
