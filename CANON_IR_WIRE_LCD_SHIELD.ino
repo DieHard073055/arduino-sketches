@@ -150,3 +150,5 @@ byte lightBulb[8] = {
           case DOWN:
 	0b10101,
             if(backlight_value > 0) backlight_value--;
+	0b10101,
+            SBB();
