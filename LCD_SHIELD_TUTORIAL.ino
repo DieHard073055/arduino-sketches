@@ -73,3 +73,4 @@ void loop()
      }
    case btnLEFT:
      {
+     lcd.print("LEFT   ");
