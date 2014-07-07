@@ -71,3 +71,4 @@ void loop(){
           latchDataOut();
           break;
         case 3:
+        //curtain 1 stop
