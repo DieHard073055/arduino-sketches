@@ -71,3 +71,4 @@ void Nikon::shutterNow()
 Pentax::Pentax(int pin)
 {
   pinMode(pin, OUTPUT);
+  _pin = pin;
