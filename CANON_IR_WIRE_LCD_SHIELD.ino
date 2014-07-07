@@ -160,3 +160,5 @@ byte lightBulb[8] = {
             return;
 };
           break;
+
+          case RIGHT:
