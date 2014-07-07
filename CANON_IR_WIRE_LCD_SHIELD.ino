@@ -142,3 +142,5 @@ unsigned int INTERvAL   =  16;
           case UP:
 byte lightBulb[8] = {
             if(backlight_value < 180) backlight_value++;
+	0b01110,
+            SBB();
