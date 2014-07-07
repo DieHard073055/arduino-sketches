@@ -70,3 +70,4 @@ void loop(){
     number(d3);
     clearSegment();
 }
+
