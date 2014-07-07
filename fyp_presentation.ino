@@ -75,3 +75,4 @@ void loop(){
         }
         currentVariable++;
         if(currentVariable == 3){
+           currentVariable = 0; 
