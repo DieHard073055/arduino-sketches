@@ -70,3 +70,4 @@ void ledShift(int l){
   digitalWrite(_LATCH, LOW);
   shiftOut(_DATA, _CLCK, LSBFIRST, shiftData[l]);
   digitalWrite(_LATCH, HIGH);
+}
