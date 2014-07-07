@@ -72,3 +72,4 @@ void loop(){
          
          if(digitalRead(INPUT_1)){
              choice |= values[0];
+          }
