@@ -73,3 +73,4 @@ void clock(){
 void latch(){
     //clock high
     PORTB |= 1<<_LATCH;
+    //clock low
