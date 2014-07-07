@@ -74,3 +74,4 @@ void shutter(){
    digitalWrite(STATUS, LOW); 
    delay(300);
 }
+
