@@ -73,3 +73,4 @@ void loop(){
         case 3:
         //curtain 1 stop
         out("CURTAIN STOP");
+          lastCurtainChange = millis();
