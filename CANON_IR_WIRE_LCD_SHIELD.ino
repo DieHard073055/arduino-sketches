@@ -158,3 +158,5 @@ byte lightBulb[8] = {
           case LEFT:
 	0b00000
             return;
+};
+          break;
