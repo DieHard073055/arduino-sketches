@@ -76,3 +76,4 @@ Pentax::Pentax(int pin)
 }
 
 void Pentax::shutterNow()
+{
