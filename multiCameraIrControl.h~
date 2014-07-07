@@ -79,3 +79,4 @@ public:
   void zoomin(unsigned int pct);
   void zoomout(unsigned int pct);
 private:
+  int _pin;
