@@ -78,3 +78,4 @@ void Load_Intro(){
   cursor_0();
   printf("    DIEHARDS    ");
   cursor_1();
+  printf("   LDR Reader   ");
