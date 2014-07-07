@@ -79,3 +79,4 @@ void loop(){
             break;
 
             //------ Led 2 ----------
+            case 8:
