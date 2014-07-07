@@ -77,3 +77,4 @@ void buttonPressed(){
      Serial.println("Button pressed");
       
      if(digitalRead(SHOOTPIN)){
+        camera(PICTURE);
