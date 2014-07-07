@@ -74,3 +74,4 @@ Pentax::Pentax(int pin)
   _pin = pin;
   _freq = 38;
 }
+
