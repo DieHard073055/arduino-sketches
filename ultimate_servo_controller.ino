@@ -79,3 +79,4 @@
 //                                    one of SpeedHD or Time can be set to 0 to just use the other one for speed. If both are used,
 //                                    the one that takes the longest time will be used. You can also change the values in the 
 //                                    ServoPW[] array directly, but take care not to go under/over 8320/39680.
+//
