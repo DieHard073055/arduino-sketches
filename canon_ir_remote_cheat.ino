@@ -77,3 +77,4 @@ void loop(){
       while(1){
         toggleIr();
              
+         for(int i = 0; i < seconds; i++){
