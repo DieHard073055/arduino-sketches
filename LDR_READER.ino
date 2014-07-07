@@ -75,3 +75,4 @@ void Load_Intro(){
   delay(1000);
   
   cls();
+  cursor_0();
