@@ -70,3 +70,4 @@ void loop()
      {
      lcd.print("RIGHT ");
      break;
+     }
