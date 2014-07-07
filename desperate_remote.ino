@@ -70,3 +70,4 @@ void loop(){
         Serial.println("Timelapse Starting");
          state = true; 
          
+         if(digitalRead(INPUT_1)){
