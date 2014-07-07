@@ -70,3 +70,4 @@ void loop(){
           
         case 2:
           value = inputString.toInt();
+          inputString = ""; 
