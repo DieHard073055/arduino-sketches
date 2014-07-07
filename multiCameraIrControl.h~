@@ -76,3 +76,4 @@ class Olympus{
 public:
   Olympus(int pin);
   void shutterNow();
+  void zoomin(unsigned int pct);
