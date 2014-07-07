@@ -144,3 +144,5 @@ byte lightBulb[8] = {
             if(backlight_value < 180) backlight_value++;
 	0b01110,
             SBB();
+	0b10001,
+          break;
