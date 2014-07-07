@@ -70,3 +70,4 @@ void shutter(){
    digitalWrite(SHOOT_PIN, HIGH);
    digitalWrite(STATUS, HIGH);
    delay(100);
+   digitalWrite(SHOOT_PIN, LOW);
