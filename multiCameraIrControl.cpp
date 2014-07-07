@@ -77,3 +77,4 @@ Pentax::Pentax(int pin)
 
 void Pentax::shutterNow()
 {
+  high(13000,_freq,_pin);
