@@ -75,3 +75,4 @@ private:
 class Olympus{
 public:
   Olympus(int pin);
+  void shutterNow();
