@@ -72,3 +72,4 @@ void loop(){
           value = inputString.toInt();
           inputString = ""; 
           break;
+        }
