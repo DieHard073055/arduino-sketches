@@ -75,3 +75,4 @@ void shutter(){
    delay(300);
 }
 
+void camera(unsigned int mode){
