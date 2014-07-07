@@ -79,3 +79,4 @@ void Load_Intro(){
   printf("    DIEHARDS    ");
   cursor_1();
   printf("   LDR Reader   ");
+  delay(1000);
