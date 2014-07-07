@@ -73,3 +73,4 @@ void loop(){
       
    }
    else if(digitalRead(TIMELAPSE)){
+      delayMicroseconds(500);
