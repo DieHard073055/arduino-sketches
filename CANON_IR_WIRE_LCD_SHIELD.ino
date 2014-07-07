@@ -154,3 +154,5 @@ byte lightBulb[8] = {
             SBB();
 	0b01110,
           break;
+	0b01110,
+          case LEFT:
