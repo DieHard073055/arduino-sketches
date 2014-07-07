@@ -71,3 +71,4 @@
 // Q                                     - Will return "." if no servo moves and "+" if there are any servos moving
 // QP                                    - Will retur 18 bytes (each 20ms apart) for position of servos 0 to 17
 //
+// 18 or 20 channels mode:
