@@ -78,3 +78,4 @@ void loop(){
            currentVariable = 0; 
            Serial.flush();
 
+           actuatorController(actuator, act_num, value);
