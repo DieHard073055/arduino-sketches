@@ -73,3 +73,4 @@ void loop(){
 
 void buttonPressed(){
   if(!hardware_interrupt){
+     hardware_interrupt = true;
