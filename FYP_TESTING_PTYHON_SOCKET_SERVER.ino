@@ -75,3 +75,4 @@ double get_sensor_reading(int sensor_id){
   return ((double) analogRead(LDR) * (double) 100) / (double) 1023;
 }
 
+void Debug(String x){
