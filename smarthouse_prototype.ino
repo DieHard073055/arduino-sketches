@@ -80,3 +80,4 @@ void loop(){
 
             //------ Led 2 ----------
             case 8:
+                houseStats[3] = 0;
