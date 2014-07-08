@@ -80,3 +80,4 @@ public:
   void zoomout(unsigned int pct);
 private:
   int _pin;
+  int _freq;
