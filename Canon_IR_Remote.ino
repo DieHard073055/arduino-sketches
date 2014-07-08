@@ -87,3 +87,4 @@ void buttonPressed(){
      else if(digitalRead(DECREMENT)){
         displayNum--;
         Serial.println(digitalRead(DECREMENT));
+     }
