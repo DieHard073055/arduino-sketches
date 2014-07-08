@@ -86,3 +86,4 @@ void setupOutputPins(){
 
 void updateDisplay(){
   if(!updating){
+    updating = true;
