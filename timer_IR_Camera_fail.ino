@@ -81,3 +81,4 @@ void setupOutputPins(){
  for(int i =0; i < 14; i++){
     pinMode(i, OUTPUT);
   }
+   pinMode(IRPIN, OUTPUT); 
