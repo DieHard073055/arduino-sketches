@@ -88,3 +88,4 @@ void loop(){
         //Light 1 off
         out("LIGHTS OFF");
           d &= !shiftData[LIGHT];
+          latchDataOut();
