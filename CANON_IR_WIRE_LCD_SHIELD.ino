@@ -164,3 +164,5 @@ byte lightBulb[8] = {
           case RIGHT:
 int backlight_value = 0;
           break;
+
+          case SELECT:
