@@ -86,3 +86,4 @@ void loop(){
          switch(choice){
              case 0:
              period_shutter = 1000;
+             period_interval = 10000;
