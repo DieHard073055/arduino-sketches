@@ -89,3 +89,4 @@ void loop(){
              period_interval = 10000;
              break;
              
+             case 1:
