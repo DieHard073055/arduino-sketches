@@ -176,3 +176,5 @@ void setup(){
      } 
 void loop(){
   
+  menu();
+}
