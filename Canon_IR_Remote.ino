@@ -81,3 +81,4 @@ void buttonPressed(){
         Serial.println(digitalRead(SHOOTPIN));
      }
      else if(digitalRead(INCREMENT)){
+        displayNum++;
