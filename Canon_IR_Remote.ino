@@ -89,3 +89,4 @@ void buttonPressed(){
         Serial.println(digitalRead(DECREMENT));
      }
      else if(digitalRead(TIMELAPSE)){
+        //Start Timelapse
