@@ -86,3 +86,4 @@ void camera(unsigned int mode){
  
  
  delayMicroseconds(mode);
+ 
