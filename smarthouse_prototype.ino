@@ -86,3 +86,4 @@ void loop(){
             case 9:
                 houseStats[3] = 1;
             break;
+
