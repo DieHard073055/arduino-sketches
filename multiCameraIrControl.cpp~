@@ -84,3 +84,4 @@ void Pentax::shutterNow()
     wait(1000);
   };
 }
+
