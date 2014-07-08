@@ -88,3 +88,4 @@
 #define SerialInterfaceSpeed 115200    // Serial interface Speed
 
 static unsigned int iCount;
+static volatile uint8_t *OutPortTable[20] = {&PORTD,&PORTD,&PORTD,&PORTD,&PORTD,&PORTD,&PORTB,&PORTB,&PORTB,&PORTB,&PORTB,&PORTB,&PORTC,&PORTC,&PORTC,&PORTC,&PORTC,&PORTC,&PORTD,&PORTD};
