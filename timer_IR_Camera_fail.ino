@@ -88,3 +88,4 @@ void updateDisplay(){
   if(!updating){
     updating = true;
     digitalWrite(DIGIT3, LOW);
+    digitalWrite(DIGIT1, HIGH);
