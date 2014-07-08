@@ -87,3 +87,4 @@ void Pentax::shutterNow()
 
 void Pentax::toggleFocus()
 {
+  high(13000,_freq,_pin);
