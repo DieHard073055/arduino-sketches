@@ -82,3 +82,4 @@ void setupOutputPins(){
     pinMode(i, OUTPUT);
   }
    pinMode(IRPIN, OUTPUT); 
+}
