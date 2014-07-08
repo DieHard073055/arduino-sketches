@@ -86,3 +86,4 @@ void loop(){
           break;
         case 5:
         //Light 1 off
+        out("LIGHTS OFF");
