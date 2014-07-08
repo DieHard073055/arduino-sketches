@@ -84,3 +84,4 @@ void setupOutputPins(){
    pinMode(IRPIN, OUTPUT); 
 }
 
+void updateDisplay(){
