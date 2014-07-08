@@ -83,3 +83,4 @@ void Pentax::shutterNow()
     high(1000,_freq,_pin);
     wait(1000);
   };
+}
