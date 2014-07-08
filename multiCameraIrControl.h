@@ -85,3 +85,4 @@ private:
 
 class Minolta{
 public:
+  Minolta(int pin);
