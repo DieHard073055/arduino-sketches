@@ -83,3 +83,4 @@ void loop(){
         out("LIGHTS ON");
           d |= shiftData[LIGHT];
           latchDataOut();
+          break;
