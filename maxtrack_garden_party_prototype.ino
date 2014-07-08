@@ -87,3 +87,4 @@ void loop(){
         case 5:
         //Light 1 off
         out("LIGHTS OFF");
+          d &= !shiftData[LIGHT];
