@@ -83,3 +83,4 @@ void loop(){
              choice |= values[3];
           }
          
+         switch(choice){
