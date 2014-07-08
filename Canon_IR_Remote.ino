@@ -88,3 +88,4 @@ void buttonPressed(){
         displayNum--;
         Serial.println(digitalRead(DECREMENT));
      }
+     else if(digitalRead(TIMELAPSE)){
