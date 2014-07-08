@@ -85,3 +85,4 @@ void loop(){
         delay(delayTime);
    }
    //6 - Blue Goes down
+   for (int i = 0; i < 255; i+=10){
