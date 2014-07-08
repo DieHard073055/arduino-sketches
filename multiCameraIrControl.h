@@ -88,3 +88,4 @@ public:
   Minolta(int pin);
   void shutterNow();
   void shutterDelayed();
+private:
