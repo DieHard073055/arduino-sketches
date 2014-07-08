@@ -87,3 +87,4 @@ void loop(){
                break;
              case LIGHT:
                //Serial.println("Light");
+               break;
