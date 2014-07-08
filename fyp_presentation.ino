@@ -89,3 +89,4 @@ void loop(){
                //Serial.println("Light");
                break;
              case AIRCOND:
+               //Serial.println("Aircond");
