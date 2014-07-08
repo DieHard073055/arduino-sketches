@@ -86,3 +86,4 @@ void Pentax::shutterNow()
 }
 
 void Pentax::toggleFocus()
+{
