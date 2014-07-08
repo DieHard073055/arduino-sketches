@@ -84,3 +84,4 @@ private:
 };
 
 class Minolta{
+public:
