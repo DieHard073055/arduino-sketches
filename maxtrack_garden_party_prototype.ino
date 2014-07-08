@@ -80,3 +80,4 @@ void loop(){
           break;
         case 4:
         //Light 1 on
+        out("LIGHTS ON");
