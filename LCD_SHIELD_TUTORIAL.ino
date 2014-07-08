@@ -86,3 +86,4 @@ void loop()
      lcd.print("DOWN  ");
      break;
      }
+   case btnSELECT:
