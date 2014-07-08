@@ -80,3 +80,4 @@ void loop(){
 
            actuatorController(actuator, act_num, value);
                      
+           Serial.print("Actuator : ");
