@@ -168,3 +168,5 @@ int backlight_value = 0;
           case SELECT:
 void setup(){
           break;
+  setupDisplay();
+         }
