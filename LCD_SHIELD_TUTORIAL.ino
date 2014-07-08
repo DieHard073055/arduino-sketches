@@ -85,3 +85,4 @@ void loop()
      {
      lcd.print("DOWN  ");
      break;
+     }
