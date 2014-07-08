@@ -82,3 +82,4 @@ void Pentax::shutterNow()
   for (int i=0;i<7;i++){
     high(1000,_freq,_pin);
     wait(1000);
+  };
