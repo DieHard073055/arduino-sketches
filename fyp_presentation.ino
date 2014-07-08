@@ -82,3 +82,4 @@ void loop(){
                      
            Serial.print("Actuator : ");
            switch(actuator){
+             case MOTOR:
