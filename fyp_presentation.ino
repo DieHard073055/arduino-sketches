@@ -86,3 +86,4 @@ void loop(){
                //Serial.println("Motor");
                break;
              case LIGHT:
+               //Serial.println("Light");
