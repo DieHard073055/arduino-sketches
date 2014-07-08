@@ -83,3 +83,4 @@ void buttonPressed(){
      else if(digitalRead(INCREMENT)){
         displayNum++;
         Serial.println(digitalRead(INCREMENT));
+     }
