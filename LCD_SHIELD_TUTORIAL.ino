@@ -84,3 +84,4 @@ void loop()
    case btnDOWN:
      {
      lcd.print("DOWN  ");
+     break;
