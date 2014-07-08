@@ -170,3 +170,5 @@ void setup(){
           break;
   setupDisplay();
          }
+}
+        delay(REFRESH_RATE);
