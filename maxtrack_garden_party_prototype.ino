@@ -84,3 +84,4 @@ void loop(){
           d |= shiftData[LIGHT];
           latchDataOut();
           break;
+        case 5:
