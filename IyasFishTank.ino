@@ -84,3 +84,4 @@ void loop(){
         delay(delayTime);
    }
    blink();
+   //2 - Red Goes up and Green Goes down
