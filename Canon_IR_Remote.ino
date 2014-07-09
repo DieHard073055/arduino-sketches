@@ -90,3 +90,4 @@ void buttonPressed(){
      }
      else if(digitalRead(TIMELAPSE)){
         //Start Timelapse
+        Serial.println(digitalRead(TIMELAPSE));
