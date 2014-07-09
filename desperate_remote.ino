@@ -90,3 +90,4 @@ void loop(){
              break;
              
              case 1:
+             period_shutter = 30000;
