@@ -90,3 +90,4 @@ void loop(){
             case 10:
                 houseStats[3] = 2;
             break;
+
