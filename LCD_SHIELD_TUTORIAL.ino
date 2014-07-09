@@ -91,3 +91,4 @@ void loop()
      lcd.print("SELECT");
      break;
      }
+     case btnNONE:
