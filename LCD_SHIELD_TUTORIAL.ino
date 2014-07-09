@@ -90,3 +90,4 @@ void loop()
      {
      lcd.print("SELECT");
      break;
+     }
