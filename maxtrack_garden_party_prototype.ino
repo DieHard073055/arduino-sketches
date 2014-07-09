@@ -90,3 +90,4 @@ void loop(){
           d &= !shiftData[LIGHT];
           latchDataOut();
           break;
+     }
