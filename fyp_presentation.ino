@@ -90,3 +90,4 @@ void loop(){
                break;
              case AIRCOND:
                //Serial.println("Aircond");
+               break;         
