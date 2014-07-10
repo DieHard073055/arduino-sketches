@@ -93,3 +93,4 @@ void loop(){
               Ir Signal
 **********************************************/
 void toggleIr(){
+  digitalWrite(IRSIGNALPIN, HIGH);
