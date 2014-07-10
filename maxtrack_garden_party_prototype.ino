@@ -92,3 +92,4 @@ void loop(){
           break;
      }
   }
+  if(lastCurtainChange != 0){
