@@ -92,3 +92,4 @@ void loop(){
                //Serial.println("Aircond");
                break;         
         }
+       //Serial.print("Number : ");
