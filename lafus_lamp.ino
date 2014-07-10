@@ -92,3 +92,4 @@ void loop(){
         delay(delayTime);
    }
 
+   //7 - red goes up green goes down 
