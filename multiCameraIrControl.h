@@ -92,3 +92,4 @@ private:
   int _pin;
   int _freq;
 };
+
