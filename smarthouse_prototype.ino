@@ -93,3 +93,4 @@ void loop(){
 
             //------ Led 3 ----------
             case 11:
+                houseStats[4] = 0;
