@@ -93,3 +93,4 @@ void loop(){
    }
    blink();
    for (int i = 0; i < 255; i+=10){
+        ledRed(255);
