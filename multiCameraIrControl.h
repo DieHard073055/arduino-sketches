@@ -95,3 +95,4 @@ private:
 
 class Sony{
 public:
+  Sony(int pin);
