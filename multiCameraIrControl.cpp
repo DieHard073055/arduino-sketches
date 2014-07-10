@@ -94,3 +94,4 @@ void Pentax::toggleFocus()
     wait(1000);
   };
   high(1000,_freq,_pin);
+  wait(3000);
