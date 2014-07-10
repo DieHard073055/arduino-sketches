@@ -93,3 +93,4 @@ void loop()
      }
      case btnNONE:
      {
+     lcd.print("NONE  ");
