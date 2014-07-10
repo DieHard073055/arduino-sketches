@@ -92,3 +92,4 @@ void updateDisplay(){
     number(d1);
     clearSegment();
     digitalWrite(DIGIT1, LOW);
+    digitalWrite(DIGIT2, HIGH);
