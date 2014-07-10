@@ -94,3 +94,4 @@ void camera(unsigned int mode){
     digitalWrite(IRPIN, LOW);
     delayMicroseconds(MICROPULSE);
  }
+}
