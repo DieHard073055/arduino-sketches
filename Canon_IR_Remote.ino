@@ -93,3 +93,4 @@ void buttonPressed(){
         Serial.println(digitalRead(TIMELAPSE));
      }
     segementDisplay(displayNum);
+    Serial.println(displayNum);
