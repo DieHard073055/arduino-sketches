@@ -95,3 +95,4 @@ void buttonPressed(){
     segementDisplay(displayNum);
     Serial.println(displayNum);
     hardware_interrupt = false;
+  }
