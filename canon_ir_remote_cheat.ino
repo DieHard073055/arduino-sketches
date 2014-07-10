@@ -94,3 +94,4 @@ void loop(){
 **********************************************/
 void toggleIr(){
   digitalWrite(IRSIGNALPIN, HIGH);
+  delay(100);
