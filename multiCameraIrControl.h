@@ -93,3 +93,4 @@ private:
   int _freq;
 };
 
+class Sony{
