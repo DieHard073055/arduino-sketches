@@ -92,3 +92,4 @@ void loop(){
         delay(delayTime);
    }
    blink();
+   for (int i = 0; i < 255; i+=10){
