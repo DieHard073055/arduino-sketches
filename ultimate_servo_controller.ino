@@ -94,3 +94,4 @@ static unsigned int ServoPW[20] = {24000,24000,24000,24000,24000,24000,24000,240
 static byte ServoInvert[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 static byte Timer2Toggle;
 static volatile uint8_t *OutPort1A = &PORTD;
+static volatile uint8_t *OutPort1B = &PORTB;
