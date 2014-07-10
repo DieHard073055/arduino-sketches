@@ -94,3 +94,4 @@ void loop(){
 
    //7 - red goes up green goes down 
    for (int i = 0; i < 255; i+=10){
+        ledRed(i);
