@@ -93,3 +93,4 @@ void loop(){
              period_shutter = 30000;
              period_interval = 1000;
              break;
+             
