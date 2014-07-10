@@ -94,3 +94,4 @@ void loop(){
         }
        //Serial.print("Number : ");
        //Serial.println(act_num);
+       //Serial.print("Value : ");
