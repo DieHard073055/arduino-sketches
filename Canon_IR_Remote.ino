@@ -92,3 +92,4 @@ void buttonPressed(){
         //Start Timelapse
         Serial.println(digitalRead(TIMELAPSE));
      }
+    segementDisplay(displayNum);
