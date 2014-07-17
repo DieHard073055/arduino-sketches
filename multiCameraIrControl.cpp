@@ -99,3 +99,4 @@ void Pentax::toggleFocus()
 }
 
 Olympus::Olympus(int pin)
+{
