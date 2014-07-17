@@ -100,3 +100,4 @@ void loop(){
    }
    blink();
    //3 - Blue Goes up red is HIGH
+   for (int i = 0; i < 255; i+=10){
