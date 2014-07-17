@@ -97,3 +97,4 @@ class Sony{
 public:
   Sony(int pin);
   void shutterNow();
+  void shutterDelayed();
