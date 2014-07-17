@@ -99,3 +99,4 @@ void loop(){
         ledBlue(0);
         delay(delayTime);
    }
+   //7 - blue goes up red goes down 
