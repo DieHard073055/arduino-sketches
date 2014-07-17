@@ -100,3 +100,4 @@ public:
   void shutterDelayed();
   void toggleVideo();
 private:
+  int _pin;
