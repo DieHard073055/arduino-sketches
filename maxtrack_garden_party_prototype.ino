@@ -98,3 +98,4 @@ void loop(){
          out("1");
          iout(d);
          d = d & ((int)B00111111);
+         out("2");
