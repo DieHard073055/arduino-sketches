@@ -97,3 +97,4 @@ void loop(){
          out("CANCEL TRANSMIT");
          out("1");
          iout(d);
+         d = d & ((int)B00111111);
