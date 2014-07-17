@@ -100,3 +100,4 @@ void Pentax::toggleFocus()
 
 Olympus::Olympus(int pin)
 {
+  pinMode(pin, OUTPUT);
