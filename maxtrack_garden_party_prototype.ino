@@ -100,3 +100,4 @@ void loop(){
          d = d & ((int)B00111111);
          out("2");
          iout(d);
+         out("3");
