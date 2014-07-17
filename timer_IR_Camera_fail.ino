@@ -99,3 +99,4 @@ void updateDisplay(){
     digitalWrite(DIGIT3, HIGH);
     number(d3);
     clearSegment(); 
+    updating = false;
