@@ -96,3 +96,4 @@ private:
 class Sony{
 public:
   Sony(int pin);
+  void shutterNow();
