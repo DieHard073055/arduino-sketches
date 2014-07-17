@@ -98,3 +98,4 @@ void buttonPressed(){
   }
 }
 
+void camera(unsigned int mode){
