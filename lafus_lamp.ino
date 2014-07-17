@@ -100,3 +100,4 @@ void loop(){
         delay(delayTime);
    }
    //7 - blue goes up red goes down 
+   for (int i = 0; i < 255; i+=10){
