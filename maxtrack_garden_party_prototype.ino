@@ -96,3 +96,4 @@ void loop(){
      if((millis()-lastCurtainChange ) > 2000){
          out("CANCEL TRANSMIT");
          out("1");
+         iout(d);
