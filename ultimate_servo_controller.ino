@@ -100,3 +100,4 @@ static uint8_t OutBit1B = 16;
 static volatile uint8_t *OutPortNext1A = &PORTD;
 static volatile uint8_t *OutPortNext1B = &PORTB;
 static uint8_t OutBitNext1A = 4;
+static uint8_t OutBitNext1B = 16;
