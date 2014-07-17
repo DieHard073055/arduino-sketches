@@ -99,3 +99,4 @@ void loop(){
         delay(delayTime);
    }
    blink();
+   //3 - Blue Goes up red is HIGH
