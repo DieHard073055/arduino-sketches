@@ -99,3 +99,4 @@ public:
   void shutterNow();
   void shutterDelayed();
   void toggleVideo();
+private:
