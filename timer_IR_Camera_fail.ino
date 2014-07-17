@@ -100,3 +100,4 @@ void updateDisplay(){
     number(d3);
     clearSegment(); 
     updating = false;
+  }
