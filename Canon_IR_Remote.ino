@@ -96,3 +96,4 @@ void buttonPressed(){
     Serial.println(displayNum);
     hardware_interrupt = false;
   }
+}
