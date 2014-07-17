@@ -99,3 +99,4 @@ void loop(){
          iout(d);
          d = d & ((int)B00111111);
          out("2");
+         iout(d);
