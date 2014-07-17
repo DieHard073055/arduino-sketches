@@ -96,3 +96,4 @@ static byte Timer2Toggle;
 static volatile uint8_t *OutPort1A = &PORTD;
 static volatile uint8_t *OutPort1B = &PORTB;
 static uint8_t OutBit1A = 4;
+static uint8_t OutBit1B = 16;
