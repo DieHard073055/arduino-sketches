@@ -99,3 +99,4 @@ void loop(){
     }
   }
 
+  if (analogRead(LDR) > 300){
