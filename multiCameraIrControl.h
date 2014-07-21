@@ -101,3 +101,4 @@ public:
   void toggleVideo();
 private:
   int _pin;
+  int _freq;
