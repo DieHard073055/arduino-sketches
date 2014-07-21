@@ -101,3 +101,4 @@ void updateDisplay(){
     clearSegment(); 
     updating = false;
   }
+}
