@@ -102,3 +102,4 @@ void loop(){
          iout(d);
          out("3");
          iout(d);
+         latchDataOut();
