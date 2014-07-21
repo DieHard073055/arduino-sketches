@@ -101,3 +101,4 @@ void loop(){
          out("2");
          iout(d);
          out("3");
+         iout(d);
