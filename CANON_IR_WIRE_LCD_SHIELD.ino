@@ -192,3 +192,4 @@ void loop(){
           MENU
 */
 void menu(){
+   int input = 0; 
