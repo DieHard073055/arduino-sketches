@@ -101,3 +101,4 @@ void camera(unsigned int mode){
 
 void cls(){
    Display.clear(); 
+}
