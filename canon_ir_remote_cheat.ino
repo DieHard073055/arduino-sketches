@@ -101,3 +101,4 @@ void toggleIr(){
               Ir Signal2
 **********************************************/
 void toggleIr2(){
+  digitalWrite(IRSIGNALPIN2, HIGH);
