@@ -102,3 +102,4 @@ void updateDisplay(){
     updating = false;
   }
 }
+void initialise7Segment(){
