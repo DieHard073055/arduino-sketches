@@ -102,3 +102,4 @@ void loop(){
   if (analogRead(LDR) > 300){
     digitalWrite(CURTAIN_1, HIGH);
     //Serial.print("Light intensity");
+    //Serial.println(analogRead(LDR));
