@@ -106,3 +106,4 @@ void loop(){
   }
 }
 
+void actuatorController(int ac, int ac_num, int value){
