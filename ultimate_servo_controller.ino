@@ -103,3 +103,4 @@ static uint8_t OutBitNext1A = 4;
 static uint8_t OutBitNext1B = 16;
 
 static long ServoStepsHD[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
+static long ServoLastPos[20] = {24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000,24000};
