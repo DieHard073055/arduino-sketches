@@ -106,3 +106,4 @@ void loop(){
          lastCurtainChange=0;
      }
   }
+  
