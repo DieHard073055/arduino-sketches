@@ -106,3 +106,4 @@ Olympus::Olympus(int pin)
 }
 
 void Olympus::shutterNow()
+{
