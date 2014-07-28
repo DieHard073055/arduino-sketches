@@ -194,3 +194,4 @@ void loop(){
 void menu(){
    int input = 0; 
   
+   int selected = 0;
