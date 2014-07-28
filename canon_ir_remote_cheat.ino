@@ -104,3 +104,4 @@ void toggleIr2(){
   digitalWrite(IRSIGNALPIN2, HIGH);
   delay(100);
   digitalWrite(IRSIGNALPIN2, LOW);
+}
