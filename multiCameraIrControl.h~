@@ -104,3 +104,4 @@ private:
   int _freq;
 };
 
+#endif
