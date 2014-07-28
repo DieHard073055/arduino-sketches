@@ -103,3 +103,4 @@ void loop(){
     digitalWrite(CURTAIN_1, HIGH);
     //Serial.print("Light intensity");
     //Serial.println(analogRead(LDR));
+  }
