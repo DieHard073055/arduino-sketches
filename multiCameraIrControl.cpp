@@ -104,3 +104,4 @@ Olympus::Olympus(int pin)
   _pin = pin;
   _freq = 40;
 }
+
