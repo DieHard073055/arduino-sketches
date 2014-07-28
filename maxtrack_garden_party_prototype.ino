@@ -105,3 +105,4 @@ void loop(){
          latchDataOut();
          lastCurtainChange=0;
      }
+  }
