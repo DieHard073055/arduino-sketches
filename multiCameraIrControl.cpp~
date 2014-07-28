@@ -105,3 +105,4 @@ Olympus::Olympus(int pin)
   _freq = 40;
 }
 
+void Olympus::shutterNow()
