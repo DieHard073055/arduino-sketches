@@ -104,3 +104,4 @@ void loop(){
          iout(d);
          latchDataOut();
          lastCurtainChange=0;
+     }
