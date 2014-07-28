@@ -104,3 +104,4 @@ void loop(){
                 houseStats[4] = 2;
             break;
 
+            //------ Led 4 ----------
