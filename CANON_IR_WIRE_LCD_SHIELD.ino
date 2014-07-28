@@ -196,3 +196,4 @@ void menu(){
   
    int selected = 0;
    String menu_items[] ={
+      "Shutter",
