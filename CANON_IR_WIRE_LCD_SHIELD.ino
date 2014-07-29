@@ -198,3 +198,4 @@ void menu(){
    String menu_items[] ={
       "Shutter",
       "Shutter IR",
+      "Shutter IR Video",
