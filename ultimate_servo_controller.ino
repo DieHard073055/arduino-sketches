@@ -113,3 +113,4 @@ static long ServoGroupStepsHD[20];
 static int ServoGroupChannel[20];
 static int ServoGroupNbOfChannels = 0;
 
+static char SerialIn;
