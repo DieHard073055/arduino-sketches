@@ -111,3 +111,4 @@ void toggleIr2(){
 **********************************************/
 void setupOutputPins(){
  for(int i =0; i < 14; i++){
+    pinMode(i, OUTPUT);
