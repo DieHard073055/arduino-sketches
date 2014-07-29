@@ -107,3 +107,4 @@ Olympus::Olympus(int pin)
 
 void Olympus::shutterNow()
 {
+  bool _seq[] = {
