@@ -110,3 +110,4 @@ static int ChannelCount;
 static long ServoGroupStepsToGo = 0;
 static long ServoGroupServoLastPos[20];
 static long ServoGroupStepsHD[20];
+static int ServoGroupChannel[20];
