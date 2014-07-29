@@ -108,3 +108,4 @@ static long StepsToGo[20] = {-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,
 static int ChannelCount;
 
 static long ServoGroupStepsToGo = 0;
+static long ServoGroupServoLastPos[20];
