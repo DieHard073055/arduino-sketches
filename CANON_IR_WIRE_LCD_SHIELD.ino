@@ -201,3 +201,4 @@ void menu(){
       "Shutter IR Video",
       "Timelapse",
       "Astrolapse",
+      "Backlight"
