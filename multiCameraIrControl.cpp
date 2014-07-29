@@ -112,3 +112,4 @@ void Olympus::shutterNow()
   high(8972,_freq,_pin);
   wait(4384);
   high(624,_freq,_pin);
+  for (int i=0;i<sizeof(_seq);i++){
