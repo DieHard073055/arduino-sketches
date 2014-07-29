@@ -113,3 +113,4 @@ void Load_Intro(){
   
   Display.begin(16, 2);  
   printf("    WELCOME    ");
+  cursor_1();
