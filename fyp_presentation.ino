@@ -109,3 +109,4 @@ void loop(){
 void actuatorController(int ac, int ac_num, int value){
     switch(ac){
       case MOTOR:
+          if(value < 0) value = 0; if(value > 1 || value == 1) value = 255;
