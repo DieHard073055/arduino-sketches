@@ -202,3 +202,4 @@ void menu(){
       "Timelapse",
       "Astrolapse",
       "Backlight"
+   };
