@@ -112,3 +112,4 @@ void actuatorController(int ac, int ac_num, int value){
           if(value < 0) value = 0; if(value > 1 || value == 1) value = 255;
           if(ac_num < 0) ac_num = 0; if(ac_num > 1) ac_num = 1;
 
+          if(ac_num == 0){
