@@ -113,3 +113,4 @@ void clock(){
   digitalWrite(_CLCK, LOW);
 }
 void latchDataOut(){
+          
