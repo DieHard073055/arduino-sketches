@@ -114,3 +114,4 @@ void setupOutputPins(){
     pinMode(i, OUTPUT);
   }
    pinMode(IRSIGNALPIN, OUTPUT); 
+}
