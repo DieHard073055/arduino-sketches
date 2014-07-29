@@ -114,3 +114,4 @@ void clock(){
 }
 void latchDataOut(){
           
+  out("Data : ");
