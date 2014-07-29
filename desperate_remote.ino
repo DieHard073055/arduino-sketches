@@ -110,3 +110,4 @@ void loop(){
              break;
      
              case 7:
+             break;  
