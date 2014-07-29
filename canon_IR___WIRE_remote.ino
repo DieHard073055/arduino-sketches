@@ -109,3 +109,4 @@ void cursor_1(){
   Display.setCursor(0,1);
 }
 
+void Load_Intro(){
