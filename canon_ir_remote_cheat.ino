@@ -110,3 +110,4 @@ void toggleIr2(){
               SETUP PIN OUTS
 **********************************************/
 void setupOutputPins(){
+ for(int i =0; i < 14; i++){
