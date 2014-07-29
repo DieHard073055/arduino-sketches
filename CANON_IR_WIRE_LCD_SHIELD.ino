@@ -200,3 +200,4 @@ void menu(){
       "Shutter IR",
       "Shutter IR Video",
       "Timelapse",
+      "Astrolapse",
