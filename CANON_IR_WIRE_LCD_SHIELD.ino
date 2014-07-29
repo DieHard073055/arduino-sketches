@@ -199,3 +199,4 @@ void menu(){
       "Shutter",
       "Shutter IR",
       "Shutter IR Video",
+      "Timelapse",
