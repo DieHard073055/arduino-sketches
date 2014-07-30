@@ -117,3 +117,4 @@ void Olympus::shutterNow()
       wait(488);
       high(600,_freq,_pin);
     }
+    else{
