@@ -209,3 +209,4 @@ void menu(){
      cls();
      c_0();
      prnt(" > ");
+     prnt(menu_items[selected]);
