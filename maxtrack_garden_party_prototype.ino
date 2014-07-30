@@ -119,3 +119,4 @@ void latchDataOut(){
   out(" ");
   
   digitalWrite(_LATCH, LOW);
+  shiftOut(_DATA, _CLCK, LSBFIRST, d);
