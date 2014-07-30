@@ -119,3 +119,4 @@ static long SerialNumbers[10];
 static int SerialNumbersLength = 0;
 static boolean FirstSerialChannelAfterCR = 1;
 
+static int SerialChannel = 0;
