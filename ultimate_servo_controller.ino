@@ -117,3 +117,4 @@ static char SerialIn;
 static int SerialCommand = 0; //0= none, 1 = '#' and so on...
 static long SerialNumbers[10];
 static int SerialNumbersLength = 0;
+static boolean FirstSerialChannelAfterCR = 1;
