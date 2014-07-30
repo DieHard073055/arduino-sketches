@@ -115,3 +115,4 @@ void clock(){
 void latchDataOut(){
           
   out("Data : ");
+  iout((d));
