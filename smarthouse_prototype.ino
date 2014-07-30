@@ -117,3 +117,4 @@ void loop(){
                 houseStats[5] = 2;
             break;
         }
+        updateHouse();
