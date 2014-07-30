@@ -116,3 +116,4 @@ void initialise7Segment(){
    digitalWrite(DIGIT3, LOW); 
 }
 
+
