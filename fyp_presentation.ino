@@ -118,3 +118,4 @@ void actuatorController(int ac, int ac_num, int value){
               value =1;
             }
             digitalWrite(CURTAIN_1, value);
+            //Serial.println("Motor 1 State Changed");
