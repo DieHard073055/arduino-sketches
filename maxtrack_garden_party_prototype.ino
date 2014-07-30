@@ -117,3 +117,4 @@ void latchDataOut(){
   out("Data : ");
   iout((d));
   out(" ");
+  
