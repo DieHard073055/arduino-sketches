@@ -118,3 +118,4 @@ void loop(){
    //5 - red goes down
    for (int i = 0; i < 255; i+=10){
         ledRed(255-i);
+        ledGreen(255);
