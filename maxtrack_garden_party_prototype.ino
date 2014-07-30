@@ -118,3 +118,4 @@ void latchDataOut(){
   iout((d));
   out(" ");
   
+  digitalWrite(_LATCH, LOW);
