@@ -206,3 +206,4 @@ void menu(){
    int array_size = sizeof(menu_items) / sizeof(String);
    
    while(1){
+     cls();
