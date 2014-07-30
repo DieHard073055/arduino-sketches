@@ -118,3 +118,4 @@ void camera(unsigned int mode){
     delayMicroseconds(MICROPULSE);
  }
 }
+void segementDisplay(int disNum){
