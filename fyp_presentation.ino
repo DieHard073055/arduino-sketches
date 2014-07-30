@@ -116,3 +116,4 @@ void actuatorController(int ac, int ac_num, int value){
             if (value == 255)
             {
               value =1;
+            }
