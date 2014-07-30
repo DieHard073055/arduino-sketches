@@ -118,3 +118,4 @@ void setBrightness(int level){
     }
 }
 
+void ledRed(int val){
