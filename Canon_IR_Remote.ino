@@ -119,3 +119,4 @@ void camera(unsigned int mode){
  }
 }
 void segementDisplay(int disNum){
+   int num = disNum;
