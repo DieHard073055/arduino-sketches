@@ -119,3 +119,4 @@ void setBrightness(int level){
 }
 
 void ledRed(int val){
+    val = map(val, 0, 255, 0, 210);
