@@ -117,3 +117,4 @@ void Load_Intro(){
   printf("      TO        ");
   delay(1000);
   
+  cls();
