@@ -207,3 +207,4 @@ void menu(){
    
    while(1){
      cls();
+     c_0();
