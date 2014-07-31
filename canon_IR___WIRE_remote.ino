@@ -122,3 +122,4 @@ void Load_Intro(){
   printf("    DIEHARDS    ");
   cursor_1();
   printf("   TIMINATOR    ");
+  delay(1000);
