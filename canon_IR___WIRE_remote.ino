@@ -123,3 +123,4 @@ void Load_Intro(){
   cursor_1();
   printf("   TIMINATOR    ");
   delay(1000);
+}
