@@ -126,3 +126,4 @@ void setupSoftwareInterrupt(){
    
   TCCR1A = 0;
   TCCR1B = 0;
+
