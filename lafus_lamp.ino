@@ -122,3 +122,4 @@ void ledRed(int val){
     val = map(val, 0, 255, 0, 210);
     val = 255-val;
     analogWrite(red, val);
+}
