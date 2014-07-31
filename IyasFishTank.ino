@@ -122,3 +122,4 @@ void loop(){
         ledBlue(255);
         delay(delayTime);
    }
+   blink();
