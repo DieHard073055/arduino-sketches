@@ -212,3 +212,4 @@ void menu(){
      prnt(menu_items[selected]);
      c_1();
      if(selected == (array_size-1)){
+      
