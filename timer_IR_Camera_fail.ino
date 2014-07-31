@@ -121,3 +121,4 @@ void initialise7Segment(){
 
 
 void setupSoftwareInterrupt(){
+  // initialize timer1 
