@@ -122,3 +122,4 @@ void actuatorController(int ac, int ac_num, int value){
           }
           else if(ac_num == 1){
             curtain_2.write(value);
+           // Serial.println("Motor 2 State Changed");
