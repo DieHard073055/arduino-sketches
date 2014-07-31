@@ -122,3 +122,4 @@ void latchDataOut(){
   shiftOut(_DATA, _CLCK, LSBFIRST, d);
   digitalWrite(_LATCH, HIGH);
 }
+
