@@ -210,3 +210,4 @@ void menu(){
      c_0();
      prnt(" > ");
      prnt(menu_items[selected]);
+     c_1();
