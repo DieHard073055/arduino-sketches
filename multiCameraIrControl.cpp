@@ -122,3 +122,4 @@ void Olympus::shutterNow()
       high(600,_freq,_pin);
     }
   };
+}
