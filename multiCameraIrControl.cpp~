@@ -123,3 +123,4 @@ void Olympus::shutterNow()
     }
   };
 }
+
