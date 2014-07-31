@@ -122,3 +122,4 @@ static boolean FirstSerialChannelAfterCR = 1;
 static int SerialChannel = 0;
 static long SerialPulseHD = 24000;
 static long SerialPulseOffsetHD[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
+static long SerialPulseOffsetTempHD = 0;
