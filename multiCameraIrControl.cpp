@@ -125,3 +125,4 @@ void Olympus::shutterNow()
 }
 
 void Olympus::zoomin(unsigned int pct)
+{
