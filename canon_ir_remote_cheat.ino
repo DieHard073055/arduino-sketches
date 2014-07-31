@@ -123,3 +123,4 @@ void setupOutputPins(){
 void updateDisplay(){
   if(!updating){
     updating = true;
+    digitalWrite(DIGIT3, LOW);
