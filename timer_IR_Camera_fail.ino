@@ -124,3 +124,4 @@ void setupSoftwareInterrupt(){
   // initialize timer1 
   cli();          // disable all interrupts
    
+  TCCR1A = 0;
