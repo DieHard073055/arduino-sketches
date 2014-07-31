@@ -120,3 +120,4 @@ void Load_Intro(){
   cls();
   cursor_0();
   printf("    DIEHARDS    ");
+  cursor_1();
