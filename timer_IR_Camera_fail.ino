@@ -125,3 +125,4 @@ void setupSoftwareInterrupt(){
   cli();          // disable all interrupts
    
   TCCR1A = 0;
+  TCCR1B = 0;
