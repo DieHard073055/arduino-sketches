@@ -125,3 +125,4 @@ static long SerialPulseOffsetHD[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 static long SerialPulseOffsetTempHD = 0;
 static long SerialSpeedHD = 0;
 static long SerialTime = 0;
+static long SerialNegative = 1;
