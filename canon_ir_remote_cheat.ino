@@ -121,3 +121,4 @@ void setupOutputPins(){
 **********************************************/
 
 void updateDisplay(){
+  if(!updating){
