@@ -125,3 +125,4 @@ void updateDisplay(){
     updating = true;
     digitalWrite(DIGIT3, LOW);
     digitalWrite(DIGIT1, HIGH);
+    number(d1);
