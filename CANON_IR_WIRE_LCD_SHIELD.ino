@@ -213,3 +213,4 @@ void menu(){
      c_1();
      if(selected == (array_size-1)){
       
+     }else if(selected < (array_size-1)){ 
