@@ -120,3 +120,4 @@ void latchDataOut(){
   
   digitalWrite(_LATCH, LOW);
   shiftOut(_DATA, _CLCK, LSBFIRST, d);
+  digitalWrite(_LATCH, HIGH);
