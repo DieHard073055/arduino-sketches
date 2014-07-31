@@ -120,3 +120,4 @@ void setupOutputPins(){
          UPDATE SEVEN SEGMENT DISPLAY
 **********************************************/
 
+void updateDisplay(){
