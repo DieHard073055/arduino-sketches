@@ -218,3 +218,4 @@ void menu(){
        prnt(menu_items[selected+1]);
      }
      
+     input = get_input();
