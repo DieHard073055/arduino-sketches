@@ -130,3 +130,4 @@ void actuatorController(int ac, int ac_num, int value){
       case LIGHT:
         if(value < 0) value = 0; if(value > 255) value = 255;
         analogWrite(LED, value);
+       // Serial.println("LED State Changed");
