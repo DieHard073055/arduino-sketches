@@ -127,3 +127,4 @@ void Olympus::shutterNow()
 void Olympus::zoomin(unsigned int pct)
 {
   bool _seq[] = {
+    0,1,1,0,0,0,0,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1    };
