@@ -132,3 +132,4 @@ void loop(){
    }
    blink();
 
+   //7 - red goes up green goes down 
