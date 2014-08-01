@@ -131,3 +131,4 @@ static char SerialCharToSend[50] = ".detratS slennahC 81 ovreSDH";
 static int SerialNbOfCharToSend = 0;  //0= none, 1 = [0], 2 = [1] and so on...
 
 void ServoMove(int Channel, long PulseHD, long SpeedHD, long Time)
+{
