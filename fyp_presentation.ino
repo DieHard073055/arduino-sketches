@@ -127,3 +127,4 @@ void actuatorController(int ac, int ac_num, int value){
 
         break;
 
+      case LIGHT:
