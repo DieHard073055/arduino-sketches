@@ -127,3 +127,4 @@ void setupSoftwareInterrupt(){
   TCCR1A = 0;
   TCCR1B = 0;
 
+  TCNT1 = 34268;            // preload timer 65536-16MHz/256/2Hz
