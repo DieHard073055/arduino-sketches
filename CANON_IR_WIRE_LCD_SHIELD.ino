@@ -222,3 +222,4 @@ void menu(){
      switch(input){
         case UP:
            if(selected > 0){
+              selected--;
