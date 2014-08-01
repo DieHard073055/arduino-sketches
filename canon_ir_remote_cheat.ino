@@ -127,3 +127,4 @@ void updateDisplay(){
     digitalWrite(DIGIT1, HIGH);
     number(d1);
     clearSegment();
+    digitalWrite(DIGIT1, LOW);
