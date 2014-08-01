@@ -131,3 +131,4 @@ void Olympus::zoomin(unsigned int pct)
   high(9000,_freq,_pin);
   wait(4500);
   high(500,_freq,_pin);
+  for (int i=0;i<sizeof(_seq);i++){
