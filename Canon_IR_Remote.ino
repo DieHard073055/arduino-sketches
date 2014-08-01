@@ -128,3 +128,4 @@ void segementDisplay(int disNum){
    }
    else if(num > 9 && num < 100){
       d2 = num / 10;
+      d3 = num - (d2 * 10);
