@@ -220,3 +220,4 @@ void menu(){
      
      input = get_input();
      switch(input){
+        case UP:
