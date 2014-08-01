@@ -127,3 +127,4 @@ static long SerialSpeedHD = 0;
 static long SerialTime = 0;
 static long SerialNegative = 1;
 static boolean SerialNeedToMove = 0;
+static char SerialCharToSend[50] = ".detratS slennahC 81 ovreSDH";
