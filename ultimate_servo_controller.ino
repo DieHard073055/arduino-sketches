@@ -135,3 +135,4 @@ void ServoMove(int Channel, long PulseHD, long SpeedHD, long Time)
 // Use ServoMove(int Channel, long PulseHD, long SpeedHD, long Time) to control servos.
 // One of th SpeedHD or Time can be set to 0 to only  use the other one for speed. If both are used,
 // the one that takes the longest time, will be used
+  ServoGroupMove(Channel, CheckRange(PulseHD), SpeedHD, Time);
