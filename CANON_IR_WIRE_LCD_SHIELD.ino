@@ -223,3 +223,4 @@ void menu(){
         case UP:
            if(selected > 0){
               selected--;
+           } 
