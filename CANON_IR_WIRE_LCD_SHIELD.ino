@@ -224,3 +224,4 @@ void menu(){
            if(selected > 0){
               selected--;
            } 
+           break;
