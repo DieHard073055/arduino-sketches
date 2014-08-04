@@ -134,3 +134,4 @@ void loop(){
 
     // delay(delayTime);
 
+    // s1.write(0);
