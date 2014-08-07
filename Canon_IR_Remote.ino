@@ -138,3 +138,4 @@ void segementDisplay(int disNum){
 }
 void number(int digit){
    switch(digit){
+      case 0:
