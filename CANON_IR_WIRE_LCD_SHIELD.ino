@@ -226,3 +226,4 @@ void menu(){
            } 
            break;
            
+        case DOWN:
