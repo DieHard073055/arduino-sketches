@@ -227,3 +227,4 @@ void menu(){
            break;
            
         case DOWN:
+            if(selected < (array_size -1)){
