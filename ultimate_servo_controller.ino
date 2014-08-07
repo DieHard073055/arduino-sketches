@@ -137,3 +137,4 @@ void ServoMove(int Channel, long PulseHD, long SpeedHD, long Time)
 // the one that takes the longest time, will be used
   ServoGroupMove(Channel, CheckRange(PulseHD), SpeedHD, Time);
   ServoGroupMoveActivate();
+}
