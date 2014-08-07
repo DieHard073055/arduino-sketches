@@ -136,3 +136,4 @@ void loop(){
    for (int i = 0; i < 255; i+=10){
         ledRed(i);
         ledGreen(255-i);
+        ledBlue(0);
