@@ -141,3 +141,4 @@ void ServoMove(int Channel, long PulseHD, long SpeedHD, long Time)
 
 void setup()
 {
+  ServoSetup();                       //Initiate timers and misc.
