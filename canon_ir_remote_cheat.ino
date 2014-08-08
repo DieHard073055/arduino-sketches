@@ -143,3 +143,4 @@ void updateDisplay(){
          INTI SEVEN SEGMENT DISPLAY
 **********************************************/
 void initialise7Segment(){
+   digitalWrite(seg1, HIGH);
