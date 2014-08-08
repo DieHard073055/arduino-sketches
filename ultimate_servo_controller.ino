@@ -143,3 +143,4 @@ void setup()
 {
   ServoSetup();                       //Initiate timers and misc.
 
+  #if HDServoMode == 18
