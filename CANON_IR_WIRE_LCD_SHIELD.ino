@@ -234,3 +234,4 @@ void menu(){
             
         case SELECT:
             /* Goto that function */
+            switch(selected){
