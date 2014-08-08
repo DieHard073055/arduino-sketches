@@ -140,3 +140,4 @@ void loop(){
         delay(delayTime);
    }
    blink();
+   //7 - blue goes up red goes down 
