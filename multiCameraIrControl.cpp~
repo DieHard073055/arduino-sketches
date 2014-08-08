@@ -143,3 +143,4 @@ void Olympus::zoomin(unsigned int pct)
   };
   wait(40000);
   if (pct>100) pct = 100;
+  pct = (pct*52)/100 + 1;
