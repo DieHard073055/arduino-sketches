@@ -147,3 +147,4 @@ void loop(){
          digitalWrite(SHUTTER_PIN, HIGH);
          Serial.println("Shutter On!");
       }
+      
