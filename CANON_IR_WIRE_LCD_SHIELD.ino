@@ -230,3 +230,4 @@ void menu(){
             if(selected < (array_size -1)){
                selected++; 
             }
+            break;
