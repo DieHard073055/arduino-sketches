@@ -236,3 +236,4 @@ void menu(){
             /* Goto that function */
             switch(selected){
                case 0:
+                 /* Shutter Function */
