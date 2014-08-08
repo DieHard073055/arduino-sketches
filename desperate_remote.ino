@@ -141,3 +141,4 @@ void loop(){
              period_interval = 10000;
              break;      
          }
+         Serial.println("Timelapse Started");
