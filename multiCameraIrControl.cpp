@@ -146,3 +146,4 @@ void Olympus::zoomin(unsigned int pct)
   pct = (pct*52)/100 + 1;
   for (int i=1; i<pct; i++)
   {
+    high(9000,_freq,_pin);
