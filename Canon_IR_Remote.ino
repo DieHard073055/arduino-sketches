@@ -141,3 +141,4 @@ void number(int digit){
       case 0:
         segment(seg1);
         segment(seg2);
+        segment(seg3);
