@@ -238,3 +238,4 @@ void menu(){
                case 0:
                  /* Shutter Function */
                  shutter();
+                 break;
