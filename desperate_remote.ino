@@ -139,3 +139,4 @@ void loop(){
              default :
              period_shutter = 1000;
              period_interval = 10000;
+             break;      
