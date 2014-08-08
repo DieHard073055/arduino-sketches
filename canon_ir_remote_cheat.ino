@@ -144,3 +144,4 @@ void updateDisplay(){
 **********************************************/
 void initialise7Segment(){
    digitalWrite(seg1, HIGH);
+   digitalWrite(seg2, HIGH);
