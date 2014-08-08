@@ -142,3 +142,4 @@ void updateDisplay(){
 /*********************************************
          INTI SEVEN SEGMENT DISPLAY
 **********************************************/
+void initialise7Segment(){
