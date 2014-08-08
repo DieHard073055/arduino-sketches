@@ -145,3 +145,4 @@ void loop(){
          start = millis(); 
          shutter = true;
          digitalWrite(SHUTTER_PIN, HIGH);
+         Serial.println("Shutter On!");
