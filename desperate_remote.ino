@@ -142,3 +142,4 @@ void loop(){
              break;      
          }
          Serial.println("Timelapse Started");
+         start = millis(); 
