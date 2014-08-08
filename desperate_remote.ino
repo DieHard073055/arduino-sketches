@@ -144,3 +144,4 @@ void loop(){
          Serial.println("Timelapse Started");
          start = millis(); 
          shutter = true;
+         digitalWrite(SHUTTER_PIN, HIGH);
