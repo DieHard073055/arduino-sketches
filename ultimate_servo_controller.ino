@@ -144,3 +144,4 @@ void setup()
   ServoSetup();                       //Initiate timers and misc.
 
   #if HDServoMode == 18
+    TIMSK0 = 0;                       // Disable timer 0. This can reduse jitter some more. But it's used for delay() funtions.
