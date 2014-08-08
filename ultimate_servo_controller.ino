@@ -139,3 +139,4 @@ void ServoMove(int Channel, long PulseHD, long SpeedHD, long Time)
   ServoGroupMoveActivate();
 }
 
+void setup()
