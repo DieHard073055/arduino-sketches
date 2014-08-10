@@ -149,3 +149,4 @@ void number(int digit){
        case 1:
         segment(seg3);
         segment(seg6);
+       break;
