@@ -241,3 +241,4 @@ void menu(){
                  break;
                  
                case 1:
+                 /* Shutter IR Function */
