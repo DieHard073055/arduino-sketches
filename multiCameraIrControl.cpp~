@@ -153,3 +153,4 @@ void Olympus::zoomin(unsigned int pct)
   }
 
 }
+
