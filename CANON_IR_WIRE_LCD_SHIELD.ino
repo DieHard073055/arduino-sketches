@@ -240,3 +240,4 @@ void menu(){
                  shutter();
                  break;
                  
+               case 1:
