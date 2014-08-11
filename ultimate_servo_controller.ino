@@ -152,3 +152,4 @@ void loop()
 {
   #if HDServoMode == 18               //Serial command interpreter is acive. 18-servos mode.
     CheckSerial();
+  #elif HDServoMode == 20             //Demo dance is active. 20-servos mode.
