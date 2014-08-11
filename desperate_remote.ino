@@ -153,3 +153,4 @@ void loop(){
       /*              TIMELAPSING              */
       /*****************************************/
       elapsed = millis() - start;
+      if(shutter){
