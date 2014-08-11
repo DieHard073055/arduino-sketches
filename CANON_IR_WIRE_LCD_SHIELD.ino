@@ -242,3 +242,4 @@ void menu(){
                  
                case 1:
                  /* Shutter IR Function */
+                 cls();
