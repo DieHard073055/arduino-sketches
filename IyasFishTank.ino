@@ -151,3 +151,4 @@ void loop(){
 }
 
 
+void setBrightness(int level){
