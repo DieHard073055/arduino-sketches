@@ -153,3 +153,4 @@ void loop(){
 
 void setBrightness(int level){
     if(level < 8 && level > 0){
+        digitalWrite(_LATCH, LOW);
