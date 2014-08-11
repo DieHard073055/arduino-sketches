@@ -152,3 +152,4 @@ void initialise7Segment(){
    digitalWrite(seg7, HIGH);
    digitalWrite(seg8, HIGH);
    digitalWrite(DIGIT1, LOW);
+   digitalWrite(DIGIT2, LOW);
