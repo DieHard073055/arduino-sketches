@@ -153,3 +153,4 @@ void updateHouse(){
         switch(i){
             case 0:
                 if(houseStats[i] == 0){
+                    s1.write(0);
