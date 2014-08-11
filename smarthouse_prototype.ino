@@ -152,3 +152,4 @@ void updateHouse(){
 
         switch(i){
             case 0:
+                if(houseStats[i] == 0){
