@@ -150,3 +150,4 @@ void setup()
 
 void loop()
 {
+  #if HDServoMode == 18               //Serial command interpreter is acive. 18-servos mode.
