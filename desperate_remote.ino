@@ -155,3 +155,4 @@ void loop(){
       elapsed = millis() - start;
       if(shutter){
         if(elapsed >= period_shutter){
+           //Stop the shutter;
