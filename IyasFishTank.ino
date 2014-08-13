@@ -156,3 +156,4 @@ void setBrightness(int level){
         digitalWrite(_LATCH, LOW);
         shiftOut(_DATA, _CLCK, LSBFIRST, brightnessLevel[level]);
         digitalWrite(_LATCH, HIGH);
+    }
