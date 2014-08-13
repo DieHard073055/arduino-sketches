@@ -245,3 +245,4 @@ void menu(){
                  cls();
                  c_0();
                  prnt("  IR SHUTTER !  ");
+                 ir(PICTURE);
