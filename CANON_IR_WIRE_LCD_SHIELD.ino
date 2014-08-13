@@ -246,3 +246,4 @@ void menu(){
                  c_0();
                  prnt("  IR SHUTTER !  ");
                  ir(PICTURE);
+                break;
