@@ -244,3 +244,4 @@ void menu(){
                  /* Shutter IR Function */
                  cls();
                  c_0();
+                 prnt("  IR SHUTTER !  ");
