@@ -156,3 +156,4 @@ void Olympus::zoomin(unsigned int pct)
 
 void Olympus::zoomout(unsigned int pct)
 {
+  bool _seq[] = 
