@@ -154,3 +154,4 @@ void loop()
     CheckSerial();
   #elif HDServoMode == 20             //Demo dance is active. 20-servos mode.
     DemoDance1();
+    DemoDance2();
