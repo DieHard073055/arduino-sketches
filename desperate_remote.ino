@@ -156,3 +156,4 @@ void loop(){
       if(shutter){
         if(elapsed >= period_shutter){
            //Stop the shutter;
+           //Start interval
