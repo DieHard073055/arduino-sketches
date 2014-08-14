@@ -159,3 +159,4 @@ void setBrightness(int level){
     }
 }
 
+void setLed(int val){
