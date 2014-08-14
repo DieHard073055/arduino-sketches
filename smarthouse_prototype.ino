@@ -157,3 +157,4 @@ void updateHouse(){
                 }else{
                     s1.write(180);
                 }
+            break;
