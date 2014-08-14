@@ -249,3 +249,4 @@ void menu(){
                 break;
                case 2:
                  /* Shutter IR2 Function */
+                 cls();
