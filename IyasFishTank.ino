@@ -158,3 +158,4 @@ void setBrightness(int level){
         digitalWrite(_LATCH, HIGH);
     }
 }
+
