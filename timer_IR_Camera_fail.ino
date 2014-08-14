@@ -159,3 +159,4 @@ ISR(TIMER1_OVF_vect)
 
 
 //**************************
+void camera(unsigned int mode){
