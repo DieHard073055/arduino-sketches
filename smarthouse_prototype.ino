@@ -159,3 +159,4 @@ void updateHouse(){
                 }
             break;
     
+            case 1:
