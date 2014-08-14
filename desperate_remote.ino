@@ -159,3 +159,4 @@ void loop(){
            //Start interval
             shutter = false;
             Serial.println("Shutter Off!");
+            interval = true;
