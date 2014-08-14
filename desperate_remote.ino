@@ -158,3 +158,4 @@ void loop(){
            //Stop the shutter;
            //Start interval
             shutter = false;
+            Serial.println("Shutter Off!");
