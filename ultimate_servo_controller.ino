@@ -159,3 +159,4 @@ void loop()
     DemoDance1();
     DemoDance4();
     DemoDance5();
+    DemoDance6();
