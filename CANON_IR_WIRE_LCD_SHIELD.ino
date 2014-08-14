@@ -248,3 +248,4 @@ void menu(){
                  ir(PICTURE);
                 break;
                case 2:
+                 /* Shutter IR2 Function */
