@@ -247,3 +247,4 @@ void menu(){
                  prnt("  IR SHUTTER !  ");
                  ir(PICTURE);
                 break;
+               case 2:
