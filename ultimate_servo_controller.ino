@@ -160,3 +160,4 @@ void loop()
     DemoDance4();
     DemoDance5();
     DemoDance6();
+  #endif
