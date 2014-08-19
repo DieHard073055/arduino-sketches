@@ -161,3 +161,4 @@ void setBrightness(int level){
 
 void setLed(int val){
     if(val < 8 && val > 0){
+        digitalWrite(_LATCH, LOW);
