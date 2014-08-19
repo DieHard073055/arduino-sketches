@@ -250,3 +250,4 @@ void menu(){
                case 2:
                  /* Shutter IR2 Function */
                  cls();
+                 c_0();
