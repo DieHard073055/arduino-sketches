@@ -160,3 +160,4 @@ void loop(){
             shutter = false;
             Serial.println("Shutter Off!");
             interval = true;
+            digitalWrite(SHUTTER_PIN, LOW);//Set shutter pin low
