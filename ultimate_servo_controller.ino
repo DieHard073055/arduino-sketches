@@ -168,3 +168,4 @@ void DemoDance6()
   long MinPulse = 8320;
   long MaxPulse = 35200;  
   int i = 0;
+  int i2 = 0;
