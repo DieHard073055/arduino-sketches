@@ -167,3 +167,4 @@ void initialise7Segment(){
 void setupSoftwareInterrupt(){
   // initialize timer1 
   cli();          // disable all interrupts
+   
