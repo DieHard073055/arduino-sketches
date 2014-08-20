@@ -255,3 +255,4 @@ void menu(){
                  ir(VIDEO);
                  break;
                case 3:
+                 /* Timelapse Function */
