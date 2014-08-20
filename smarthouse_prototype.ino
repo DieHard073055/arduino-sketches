@@ -168,3 +168,4 @@ void updateHouse(){
             break;
     
             case 2:
+                if(houseStats[i] == 0){
