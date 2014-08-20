@@ -165,3 +165,4 @@ void initialise7Segment(){
                INTERRUPT
 **********************************************/
 void setupSoftwareInterrupt(){
+  // initialize timer1 
