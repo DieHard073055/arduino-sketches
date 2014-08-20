@@ -164,3 +164,4 @@ void setLed(int val){
         digitalWrite(_LATCH, LOW);
         shiftOut(_DATA, _CLCK, LSBFIRST, led[val]);
         digitalWrite(_LATCH, HIGH);
+    }
