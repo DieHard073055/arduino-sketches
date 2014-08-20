@@ -163,3 +163,4 @@ void updateHouse(){
                 if(houseStats[i] == 0){
                     s2.write(0);
                 }else{
+                    s2.write(180);
