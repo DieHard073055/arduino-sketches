@@ -162,3 +162,4 @@ void initialise7Segment(){
 
 /*********************************************
          SETUP SOFTWARE TIMER
+               INTERRUPT
