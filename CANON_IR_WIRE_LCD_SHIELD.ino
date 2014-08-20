@@ -252,3 +252,4 @@ void menu(){
                  cls();
                  c_0();
                  prnt("   IR VIDEO !   ");
+                 ir(VIDEO);
