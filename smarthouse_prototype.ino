@@ -162,3 +162,4 @@ void updateHouse(){
             case 1:
                 if(houseStats[i] == 0){
                     s2.write(0);
+                }else{
