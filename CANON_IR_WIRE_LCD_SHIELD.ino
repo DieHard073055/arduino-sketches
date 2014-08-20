@@ -254,3 +254,4 @@ void menu(){
                  prnt("   IR VIDEO !   ");
                  ir(VIDEO);
                  break;
+               case 3:
