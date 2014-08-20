@@ -165,3 +165,4 @@ void updateHouse(){
                 }else{
                     s2.write(180);
                 }
+            break;
