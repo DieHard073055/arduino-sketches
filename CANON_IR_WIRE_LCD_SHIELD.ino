@@ -253,3 +253,4 @@ void menu(){
                  c_0();
                  prnt("   IR VIDEO !   ");
                  ir(VIDEO);
+                 break;
