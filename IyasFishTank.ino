@@ -166,3 +166,4 @@ void setLed(int val){
         digitalWrite(_LATCH, HIGH);
     }
 }
+void ledRed(int val){
