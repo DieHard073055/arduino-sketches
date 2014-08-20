@@ -166,3 +166,4 @@ void loop(){
       }
       if(interval){
         if(elapsed >= period_interval){
+           //Stop the interval;
