@@ -163,3 +163,4 @@ void loop(){
             digitalWrite(SHUTTER_PIN, LOW);//Set shutter pin low
             start = millis();
         }
+      }
