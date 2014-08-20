@@ -168,3 +168,4 @@ void loop(){
         if(elapsed >= period_interval){
            //Stop the interval;
            //Start shutter
+            shutter = true;
