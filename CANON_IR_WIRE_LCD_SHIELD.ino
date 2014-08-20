@@ -257,3 +257,4 @@ void menu(){
                case 3:
                  /* Timelapse Function */
                  Timelapse_Controller();
+                 break;
