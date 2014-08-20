@@ -165,3 +165,4 @@ void Olympus::zoomout(unsigned int pct)
     if (_seq[i]==0){
       wait(500);
       high(500,_freq,_pin);
+    }
