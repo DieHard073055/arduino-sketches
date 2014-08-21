@@ -171,3 +171,4 @@ void loop(){
             shutter = true;
             Serial.println("Shutter On!");
             interval = false;
+            digitalWrite(SHUTTER_PIN, HIGH);//Set shutter pin high
