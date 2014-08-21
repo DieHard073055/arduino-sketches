@@ -170,3 +170,4 @@ void loop(){
            //Start shutter
             shutter = true;
             Serial.println("Shutter On!");
+            interval = false;
