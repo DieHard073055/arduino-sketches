@@ -172,3 +172,4 @@ void Olympus::zoomout(unsigned int pct)
     }
   };
   wait(40000);
+  if (pct>100) pct = 100;
