@@ -170,3 +170,4 @@ void DemoDance6()
   int i = 0;
   int i2 = 0;
   for(i2 = 0; i2 < 5 ; i2++)           // All servos go to random position. Then go back to middle in same time.
+  {
