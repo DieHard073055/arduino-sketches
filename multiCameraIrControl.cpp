@@ -174,3 +174,4 @@ void Olympus::zoomout(unsigned int pct)
   wait(40000);
   if (pct>100) pct = 100;
   pct = (pct*70)/100 + 1;
+  for (int i=1; i<pct; i++)
