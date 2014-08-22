@@ -265,3 +265,4 @@ void menu(){
                  
                case 5:
                  /* Backlight Control Function */
+                 Backlight_Controller();
