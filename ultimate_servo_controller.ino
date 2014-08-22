@@ -175,3 +175,4 @@ void DemoDance6()
     {
       long a = random(MaxPulse-MinPulse)+MinPulse;        
       ServoMove(i, a, 0, 100);
+    }
