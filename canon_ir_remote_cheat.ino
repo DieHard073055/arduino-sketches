@@ -176,3 +176,4 @@ void setupSoftwareInterrupt(){
   TIMSK1 |= (1 << TOIE1);   // enable timer overflow interrupt
   
               // enable all interrupts
+  sei();
