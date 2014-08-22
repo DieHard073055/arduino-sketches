@@ -176,3 +176,4 @@ void Olympus::zoomout(unsigned int pct)
   pct = (pct*70)/100 + 1;
   for (int i=1; i<pct; i++)
   {
+    high(9000,_freq,_pin);
