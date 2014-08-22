@@ -174,3 +174,4 @@ void updateHouse(){
                     analogWrite(led1, 127);
                 }else{
                     digitalWrite(led1, LOW);
+                }
