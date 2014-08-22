@@ -173,3 +173,4 @@ void setupSoftwareInterrupt(){
 
   TCNT1 = 34268;            // preload timer 65536-16MHz/256/2Hz
   TCCR1B |= (1 << CS10) ;   //prescale at clck/8
+  TIMSK1 |= (1 << TOIE1);   // enable timer overflow interrupt
