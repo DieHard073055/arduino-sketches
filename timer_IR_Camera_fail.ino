@@ -179,3 +179,4 @@ void camera(unsigned int mode){
     delayMicroseconds(MICROPULSE/1000);
  }
 }
+
