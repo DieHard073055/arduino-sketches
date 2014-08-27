@@ -179,3 +179,4 @@ void ledGreen(int val){
 }
 
 void ledBlue(int val){
+    val = 255-val;
