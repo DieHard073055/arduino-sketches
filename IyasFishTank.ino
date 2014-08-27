@@ -178,3 +178,4 @@ void ledGreen(int val){
     analogWrite(green, val);
 }
 
+void ledBlue(int val){
