@@ -179,3 +179,4 @@ void DemoDance6()
     delay(1500);
     for(i = 0; i < 20 ; i++)
     {
+      ServoMove(i, 24000, 0, 3000);
