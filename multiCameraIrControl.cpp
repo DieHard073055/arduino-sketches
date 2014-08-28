@@ -181,3 +181,4 @@ void Olympus::zoomout(unsigned int pct)
     high(500,_freq,_pin);
     wait(96000);
   }
+}
