@@ -180,3 +180,4 @@ void DemoDance6()
     for(i = 0; i < 20 ; i++)
     {
       ServoMove(i, 24000, 0, 3000);
+    }
