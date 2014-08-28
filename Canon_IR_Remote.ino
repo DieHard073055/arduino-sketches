@@ -180,3 +180,4 @@ void number(int digit){
       case 6:
         segment(seg1);
         segment(seg2);
+        segment(seg4);
