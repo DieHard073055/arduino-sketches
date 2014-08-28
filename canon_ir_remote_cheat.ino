@@ -180,3 +180,4 @@ void setupSoftwareInterrupt(){
 }
 
 /*********************************************
+         TIMER INTERRUPT FUNCTION
