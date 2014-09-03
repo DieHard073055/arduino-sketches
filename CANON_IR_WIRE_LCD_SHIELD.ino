@@ -273,3 +273,4 @@ void menu(){
      }
      
      delay(REFRESH_RATE);
+   }
