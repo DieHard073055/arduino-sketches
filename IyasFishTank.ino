@@ -183,3 +183,4 @@ void ledBlue(int val){
     analogWrite(blue, val);
 }
 
+void blink(){
