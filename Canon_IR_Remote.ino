@@ -182,3 +182,4 @@ void number(int digit){
         segment(seg2);
         segment(seg4);
         segment(seg5);
+        segment(seg6);
