@@ -184,3 +184,4 @@ void ledBlue(int val){
 }
 
 void blink(){
+    digitalWrite(_BLINK_LED, HIGH);
