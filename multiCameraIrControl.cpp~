@@ -183,3 +183,4 @@ void Olympus::zoomout(unsigned int pct)
   }
 }
 
+Minolta::Minolta(int pin)
