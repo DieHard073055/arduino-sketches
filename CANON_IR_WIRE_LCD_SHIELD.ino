@@ -272,3 +272,4 @@ void menu(){
             break;
      }
      
+     delay(REFRESH_RATE);
