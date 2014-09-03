@@ -185,3 +185,4 @@ void updateHouse(){
                 }else{
                     digitalWrite(led2, LOW);
                 }
+            break;
