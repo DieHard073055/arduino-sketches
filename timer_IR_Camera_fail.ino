@@ -187,3 +187,4 @@ void segementDisplay(int disNum){
    d3=0;
    if(num < 10){
       d3 = num;
+   }
