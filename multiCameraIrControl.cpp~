@@ -192,3 +192,4 @@ Minolta::Minolta(int pin)
 
 void Minolta::shutterNow()
 {
+  bool _seq[] = {
