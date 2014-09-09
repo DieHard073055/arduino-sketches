@@ -188,3 +188,4 @@ void segementDisplay(int disNum){
    if(num < 10){
       d3 = num;
    }
+   else if(num > 9 && num < 100){
