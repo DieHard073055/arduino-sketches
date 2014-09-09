@@ -283,3 +283,4 @@ void menu(){
         GET INPUT FROM
           SHEILD
 */
+int get_input(){
