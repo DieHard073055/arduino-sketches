@@ -191,3 +191,4 @@ Minolta::Minolta(int pin)
 }
 
 void Minolta::shutterNow()
+{
