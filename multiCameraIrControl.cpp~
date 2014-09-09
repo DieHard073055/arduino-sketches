@@ -190,3 +190,4 @@ Minolta::Minolta(int pin)
   _freq = 38;
 }
 
+void Minolta::shutterNow()
