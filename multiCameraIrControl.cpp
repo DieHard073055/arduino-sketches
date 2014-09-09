@@ -189,3 +189,4 @@ Minolta::Minolta(int pin)
   _pin = pin;
   _freq = 38;
 }
+
