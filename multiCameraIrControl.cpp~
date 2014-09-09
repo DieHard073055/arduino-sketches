@@ -193,3 +193,4 @@ Minolta::Minolta(int pin)
 void Minolta::shutterNow()
 {
   bool _seq[] = {
+    0,0,1,0,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1    };
