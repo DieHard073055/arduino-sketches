@@ -191,3 +191,4 @@ void DemoDance5()
   long MaxPulse = 35200;  
   int i = 0;
   int i2 = 0;
+  i = 0;                                         // All servos moving randomly
