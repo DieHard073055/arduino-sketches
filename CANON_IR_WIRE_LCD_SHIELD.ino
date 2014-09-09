@@ -284,3 +284,4 @@ void menu(){
           SHEILD
 */
 int get_input(){
+   int user_input = analogRead(0); 
