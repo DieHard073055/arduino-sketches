@@ -193,3 +193,4 @@ void segementDisplay(int disNum){
       d3 = num - (d2 * 10);
    }
    else if(num > 99){
+      d1 = num / 100;
