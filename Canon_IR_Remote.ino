@@ -189,3 +189,4 @@ void number(int digit){
         segment(seg1);
         segment(seg2);
         segment(seg3);
+        segment(seg6);
