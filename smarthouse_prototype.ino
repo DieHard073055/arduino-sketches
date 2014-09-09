@@ -189,3 +189,4 @@ void updateHouse(){
     
             case 4:
                 if(houseStats[i] == 0){
+                    digitalWrite(led3, HIGH);
