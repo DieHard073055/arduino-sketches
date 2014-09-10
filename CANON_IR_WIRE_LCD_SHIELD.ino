@@ -285,3 +285,4 @@ void menu(){
 */
 int get_input(){
    int user_input = analogRead(0); 
+   switch(user_input){
