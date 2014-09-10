@@ -199,3 +199,4 @@ void segementDisplay(int disNum){
    } 
 }
 
+void number(int digit){
