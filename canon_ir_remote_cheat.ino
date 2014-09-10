@@ -200,3 +200,4 @@ ISR(TIMER1_OVF_vect)
 }
 
 /*********************************************
+         SEVEN SEGMENT CALCULATION
