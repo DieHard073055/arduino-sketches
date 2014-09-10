@@ -289,3 +289,4 @@ int get_input(){
        case 2000 ... 1000:
          return NONE;
          
+       case 0 ... 50:
