@@ -288,3 +288,4 @@ int get_input(){
    switch(user_input){
        case 2000 ... 1000:
          return NONE;
+         
