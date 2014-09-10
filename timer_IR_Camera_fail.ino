@@ -198,3 +198,4 @@ void segementDisplay(int disNum){
       d3 = (num - (d1 * 100)) - (d2 * 10) ;
    } 
 }
+
