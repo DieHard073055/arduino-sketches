@@ -290,3 +290,4 @@ int get_input(){
          return NONE;
          
        case 0 ... 50:
+         return RIGHT;
