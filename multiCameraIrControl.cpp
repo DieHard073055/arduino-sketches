@@ -198,3 +198,4 @@ void Minolta::shutterNow()
   wait(1890);
   for (int i=0;i<sizeof(_seq);i++){
     if (_seq[i]==0){
+      high(456,_freq,_pin);
