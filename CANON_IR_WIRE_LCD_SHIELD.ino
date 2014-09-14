@@ -291,3 +291,4 @@ int get_input(){
          
        case 0 ... 50:
          return RIGHT;
+       
