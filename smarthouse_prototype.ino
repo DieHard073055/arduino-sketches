@@ -203,3 +203,4 @@ void updateHouse(){
                 }else if(houseStats[i] == 1){
                     analogWrite(led4, 127);
                 }else{
+                    digitalWrite(led4, LOW);
