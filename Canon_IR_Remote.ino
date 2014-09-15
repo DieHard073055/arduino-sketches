@@ -205,3 +205,4 @@ void number(int digit){
         segment(seg2);
         segment(seg3);
         segment(seg4);
+        segment(seg6);
