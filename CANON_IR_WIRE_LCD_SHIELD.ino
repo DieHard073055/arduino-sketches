@@ -295,3 +295,4 @@ int get_input(){
        case 51 ... 250:
          return UP;
          
+       case 251 ... 450:
