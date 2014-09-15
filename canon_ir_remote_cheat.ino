@@ -204,3 +204,4 @@ ISR(TIMER1_OVF_vect)
 **********************************************/
 void segementDisplay(int disNum){
    int num = disNum;
+   d1=0;
