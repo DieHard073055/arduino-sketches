@@ -203,3 +203,4 @@ ISR(TIMER1_OVF_vect)
          SEVEN SEGMENT CALCULATION
 **********************************************/
 void segementDisplay(int disNum){
+   int num = disNum;
