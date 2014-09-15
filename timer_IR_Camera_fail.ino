@@ -203,3 +203,4 @@ void number(int digit){
    switch(digit){
       case 0:
         segment(seg1);
+        segment(seg2);
