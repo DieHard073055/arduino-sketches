@@ -202,3 +202,4 @@ void Minolta::shutterNow()
       wait(487);
     }
     else{
+      high(456,_freq,_pin);
