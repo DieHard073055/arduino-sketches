@@ -296,3 +296,4 @@ int get_input(){
          return UP;
          
        case 251 ... 450:
+         return DOWN;
