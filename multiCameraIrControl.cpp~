@@ -206,3 +206,4 @@ void Minolta::shutterNow()
       wait(1430);
     }
   };
+}
