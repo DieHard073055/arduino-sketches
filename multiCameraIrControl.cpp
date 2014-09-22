@@ -208,3 +208,4 @@ void Minolta::shutterNow()
   };
 }
 
+void Minolta::shutterDelayed()
