@@ -207,3 +207,4 @@ void DemoDance4()
 
   for(i2 = 10; i2 > 0 ; i2--)                // Faster bounce
   {
+    for(i4 = 0 ; i4 < pi ; i4 += 0.03)
