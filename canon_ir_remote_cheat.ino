@@ -214,3 +214,4 @@ void segementDisplay(int disNum){
       d2 = num / 10;
       d3 = num - (d2 * 10);
    }
+   else if(num > 99){
