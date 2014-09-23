@@ -211,3 +211,4 @@ void DemoDance4()
     {
       for(i = 0; i < 20 ; i++) ServoPW[i] = sin(i4)*((MaxPulse-MinPulse)/2) + (MinPulse);       delay(10);     }   } } void DemoDance3() {   long MinPulse = 8320;   long MaxPulse = 35200;     int i = 0;   int i2 = 0;   float i4 = 0;   float pi = 3.14159265359;   for(i2 = 10; i2 > 0 ; i2--)                // Slow bounce
   {
+    for(i4 = 0 ; i4 < pi ; i4 += 0.005+(0.001*i2))
