@@ -210,3 +210,4 @@ void Minolta::shutterNow()
 
 void Minolta::shutterDelayed()
 {
+  bool _seqDelayed[] = {
