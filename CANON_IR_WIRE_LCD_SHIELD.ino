@@ -300,3 +300,4 @@ int get_input(){
          
        case 451 ... 650:
           return LEFT;
+          
