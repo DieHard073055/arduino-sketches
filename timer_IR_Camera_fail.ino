@@ -216,3 +216,4 @@ void number(int digit){
       case 2:
         segment(seg2);
         segment(seg3);
+        segment(seg4);
