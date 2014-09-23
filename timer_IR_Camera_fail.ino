@@ -211,3 +211,4 @@ void number(int digit){
        break;
        case 1:
         segment(seg3);
+        segment(seg6);
