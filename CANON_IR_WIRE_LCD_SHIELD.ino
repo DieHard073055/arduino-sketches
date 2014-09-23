@@ -305,3 +305,4 @@ int get_input(){
            return SELECT;
          
        default:
+         return NONE;
