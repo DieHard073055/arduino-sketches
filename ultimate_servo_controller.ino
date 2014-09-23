@@ -214,3 +214,4 @@ void DemoDance4()
     for(i4 = 0 ; i4 < pi ; i4 += 0.005+(0.001*i2))
     {
       for(i = 0; i < 20 ; i++) ServoPW[i] = sin(i4)*(MaxPulse-MinPulse) + MinPulse;
+      delay(10);
