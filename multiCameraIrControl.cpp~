@@ -213,3 +213,4 @@ void Minolta::shutterDelayed()
   bool _seqDelayed[] = {
     0,0,1,0,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1    };
   high(3750,_freq,_pin);
+  wait(1890);
