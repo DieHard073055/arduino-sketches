@@ -302,3 +302,4 @@ int get_input(){
           return LEFT;
           
        case 651 ... 850:
+           return SELECT;
