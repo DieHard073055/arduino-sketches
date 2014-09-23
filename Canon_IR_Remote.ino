@@ -215,3 +215,4 @@ void segment(int num){
     digitalWrite(num, LOW);
 }
 void clearSegment(){
+  digitalWrite(seg1, HIGH);
