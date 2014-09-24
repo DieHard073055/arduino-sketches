@@ -219,3 +219,4 @@ void clearSegment(){
    digitalWrite(seg2, HIGH);
    digitalWrite(seg3, HIGH);
    digitalWrite(seg4, HIGH);
+   digitalWrite(seg5, HIGH);
