@@ -223,3 +223,4 @@ void segementDisplay(int disNum){
 
 /*********************************************
        SEVEN SEGMENT REFERENCE TABLE
+**********************************************/
