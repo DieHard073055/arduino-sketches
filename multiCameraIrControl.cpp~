@@ -223,3 +223,4 @@ void Minolta::shutterDelayed()
       high(456,_freq,_pin);
       wait(1430);
     }
+  };
