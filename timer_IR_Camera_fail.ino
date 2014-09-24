@@ -219,3 +219,4 @@ void number(int digit){
         segment(seg4);
         segment(seg5);
         segment(seg7);
+       break;
