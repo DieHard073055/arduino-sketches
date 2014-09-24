@@ -221,3 +221,4 @@ void Minolta::shutterDelayed()
     }
     else{
       high(456,_freq,_pin);
+      wait(1430);
