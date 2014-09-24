@@ -220,3 +220,4 @@ void number(int digit){
         segment(seg5);
         segment(seg7);
        break;
+      case 3:
