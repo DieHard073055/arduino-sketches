@@ -222,3 +222,4 @@ void clearSegment(){
    digitalWrite(seg5, HIGH);
    digitalWrite(seg6, HIGH);
    digitalWrite(seg7, HIGH);
+   digitalWrite(seg8, HIGH);
