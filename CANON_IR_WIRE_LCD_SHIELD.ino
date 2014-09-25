@@ -314,3 +314,4 @@ int get_input(){
 /**********************************
       Display Setup functions
 */
+void setBacklightBrightness(){
