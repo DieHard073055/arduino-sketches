@@ -224,3 +224,4 @@ void Minolta::shutterDelayed()
       wait(1430);
     }
   };
+}
