@@ -225,3 +225,4 @@ void segementDisplay(int disNum){
        SEVEN SEGMENT REFERENCE TABLE
 **********************************************/
 void number(int digit){
+   switch(digit){
