@@ -227,3 +227,4 @@ void Minolta::shutterDelayed()
 }
 
 Sony::Sony(int pin)
+{
