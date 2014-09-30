@@ -316,3 +316,4 @@ int get_input(){
 */
 void setBacklightBrightness(){
    analogWrite(BACKLIGHT_PIN, backlight_value); 
+}
