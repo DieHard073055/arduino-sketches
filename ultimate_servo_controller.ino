@@ -226,3 +226,4 @@ void DemoDance2()
   int i = 0;
   int i2 = 0;
 
+  for(i2 = 0; i2 < 10 ; i2++)              //Sweep servos, every other way, from fast to slow
