@@ -318,3 +318,4 @@ void setBacklightBrightness(){
    analogWrite(BACKLIGHT_PIN, backlight_value); 
 }
 void backlightSleep(){
+   analogWrite(BACKLIGHT_PIN, 0);   
