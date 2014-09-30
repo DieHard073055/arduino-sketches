@@ -228,3 +228,4 @@ void clearSegment(){
 //ISR TIMER
 /*
 ISR(TIMER1_OVF_vect){
+  if(!software_interrupt){
