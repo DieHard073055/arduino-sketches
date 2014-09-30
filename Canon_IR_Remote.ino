@@ -227,3 +227,4 @@ void clearSegment(){
 
 //ISR TIMER
 /*
+ISR(TIMER1_OVF_vect){
