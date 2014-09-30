@@ -315,3 +315,4 @@ int get_input(){
       Display Setup functions
 */
 void setBacklightBrightness(){
+   analogWrite(BACKLIGHT_PIN, backlight_value); 
