@@ -226,3 +226,4 @@ void clearSegment(){
 }
 
 //ISR TIMER
+/*
