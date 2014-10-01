@@ -321,3 +321,4 @@ void backlightSleep(){
    analogWrite(BACKLIGHT_PIN, 0);   
 }
 void cls(){
+   Display.clear(); 
