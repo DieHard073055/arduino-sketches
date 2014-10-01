@@ -230,3 +230,4 @@ void clearSegment(){
 ISR(TIMER1_OVF_vect){
   if(!software_interrupt){
     software_interrupt = true;
+    
