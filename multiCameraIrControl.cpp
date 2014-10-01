@@ -232,3 +232,4 @@ Sony::Sony(int pin)
   _pin = pin;
   _freq = 40;
 }
+
