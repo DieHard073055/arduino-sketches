@@ -235,3 +235,4 @@ Sony::Sony(int pin)
 
 void Sony::shutterNow()
 {
+  bool _seq[] = {
