@@ -323,3 +323,4 @@ void backlightSleep(){
 void cls(){
    Display.clear(); 
 }
+void c_0(){
