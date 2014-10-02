@@ -234,3 +234,4 @@ Sony::Sony(int pin)
 }
 
 void Sony::shutterNow()
+{
