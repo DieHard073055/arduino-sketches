@@ -233,3 +233,4 @@ void DemoDance2()
       ServoMove(i, MinPulse, 0, 1000+i2*100);
       ServoMove(i+1, MaxPulse, 0, 1000+i2*100);
     }
+    delay(1000+i2*100);  
