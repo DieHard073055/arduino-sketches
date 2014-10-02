@@ -325,3 +325,4 @@ void cls(){
 }
 void c_0(){
   Display.setCursor(0,0);
+}
