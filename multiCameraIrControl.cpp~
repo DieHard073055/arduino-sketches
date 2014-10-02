@@ -233,3 +233,4 @@ Sony::Sony(int pin)
   _freq = 40;
 }
 
+void Sony::shutterNow()
