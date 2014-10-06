@@ -327,3 +327,4 @@ void c_0(){
   Display.setCursor(0,0);
 }
 void c_1(){
+  Display.setCursor(0,1);
