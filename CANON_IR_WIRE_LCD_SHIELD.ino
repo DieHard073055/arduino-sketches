@@ -331,3 +331,4 @@ void c_1(){
 }
 void setupDisplay(){
    pinMode(BACKLIGHT_PIN, OUTPUT);
+   backlight_value = 50;
