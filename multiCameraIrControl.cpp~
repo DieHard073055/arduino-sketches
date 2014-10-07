@@ -242,3 +242,4 @@ void Sony::shutterNow()
     wait(650);
     for (int i=0;i<sizeof(_seq);i++){
       if (_seq[i]==0){
+        high(575,_freq,_pin);
