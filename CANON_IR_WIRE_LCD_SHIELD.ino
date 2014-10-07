@@ -333,3 +333,4 @@ void setupDisplay(){
    pinMode(BACKLIGHT_PIN, OUTPUT);
    backlight_value = 50;
    SBB();
+   
