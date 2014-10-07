@@ -240,3 +240,4 @@ void number(int digit){
        break;
       case 2:
         segment(seg2);
+        segment(seg3);
