@@ -246,3 +246,4 @@ void DemoDance2()
 void DemoDance1()
 {
   long MinPulse = 8320;
+  long MaxPulse = 35200;
