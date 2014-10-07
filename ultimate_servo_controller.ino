@@ -245,3 +245,4 @@ void DemoDance2()
 
 void DemoDance1()
 {
+  long MinPulse = 8320;
