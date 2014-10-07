@@ -336,3 +336,4 @@ void setupDisplay(){
    
    
    /*******************
+       CUSTOM CHARATERS
