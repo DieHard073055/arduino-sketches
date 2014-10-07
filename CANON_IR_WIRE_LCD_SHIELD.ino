@@ -330,3 +330,4 @@ void c_1(){
   Display.setCursor(0,1);
 }
 void setupDisplay(){
+   pinMode(BACKLIGHT_PIN, OUTPUT);
