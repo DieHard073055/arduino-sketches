@@ -344,3 +344,4 @@ void setupDisplay(){
    
    prnt("    WELCOME    ");
    c_1();
+   prnt("      TO        ");
