@@ -250,3 +250,4 @@ void Sony::shutterNow()
         wait(650);
       }
     }
+    wait(10000);
