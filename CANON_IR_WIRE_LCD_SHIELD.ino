@@ -343,3 +343,4 @@ void setupDisplay(){
    Display.begin(16, 2);
    
    prnt("    WELCOME    ");
+   c_1();
