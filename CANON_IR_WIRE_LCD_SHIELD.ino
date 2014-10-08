@@ -339,3 +339,4 @@ void setupDisplay(){
        CUSTOM CHARATERS
    */
    Display.createChar(0, lightBulb);
+   /*****************************/
