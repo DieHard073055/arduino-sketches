@@ -250,3 +250,4 @@ void number(int digit){
        break;
       case 7:
         segment(seg1);
+        segment(seg2);
