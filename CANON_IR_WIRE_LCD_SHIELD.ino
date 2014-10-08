@@ -341,3 +341,4 @@ void setupDisplay(){
    Display.createChar(0, lightBulb);
    /*****************************/
    Display.begin(16, 2);
+   
