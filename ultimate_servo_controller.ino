@@ -249,3 +249,4 @@ void DemoDance1()
   long MaxPulse = 35200;
   int i = 0;
   int i2 = 0;
+  int i3 = 16;
