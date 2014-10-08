@@ -252,3 +252,4 @@ void DemoDance1()
   int i3 = 16;
 
   for(i = 0; i < 100 ; i++)                // Wave move circular   {     ServoMove(i2, MinPulse, 0, 800);     ServoMove(i3, MaxPulse, 0, 800);     delay(200);     i2++;     i3++;     if(i2>19) i2=0;
+    if(i3>19) i3=0;
