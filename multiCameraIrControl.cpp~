@@ -249,3 +249,4 @@ void Sony::shutterNow()
         high(1175,_freq,_pin);
         wait(650);
       }
+    }
