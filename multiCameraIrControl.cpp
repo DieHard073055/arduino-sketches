@@ -254,3 +254,4 @@ void Sony::shutterNow()
   }
 }
 
+void Sony::shutterDelayed()
