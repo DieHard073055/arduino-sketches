@@ -346,3 +346,4 @@ void setupDisplay(){
    c_1();
    prnt("      TO        ");
    
+   delay(1000);
