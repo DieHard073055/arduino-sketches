@@ -257,3 +257,4 @@ void DemoDance1()
 }
 
 long CheckRange(long PulseHDValue)
+{
