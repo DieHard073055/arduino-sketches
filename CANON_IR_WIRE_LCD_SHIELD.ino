@@ -348,3 +348,4 @@ void setupDisplay(){
    
    delay(1000);
    
+   cls();
