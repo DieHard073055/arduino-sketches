@@ -258,3 +258,4 @@ void DemoDance1()
 
 long CheckRange(long PulseHDValue)
 {
+  if(PulseHDValue > 39680) return 39680;
