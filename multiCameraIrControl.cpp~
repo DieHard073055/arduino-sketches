@@ -256,3 +256,4 @@ void Sony::shutterNow()
 
 void Sony::shutterDelayed()
 {
+  bool _seqDelayed[] = {
