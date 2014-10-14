@@ -264,3 +264,4 @@ long CheckRange(long PulseHDValue)
   {
     SerialIn = Serial.read();
     if(SerialIn == '#') 
+    {
