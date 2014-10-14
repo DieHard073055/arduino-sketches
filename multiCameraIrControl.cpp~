@@ -265,3 +265,4 @@ void Sony::shutterDelayed()
       if (_seqDelayed[i]==0){
         high(575,_freq,_pin);
         wait(650);
+      }
