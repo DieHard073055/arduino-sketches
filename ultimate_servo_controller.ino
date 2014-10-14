@@ -263,3 +263,4 @@ long CheckRange(long PulseHDValue)
   else if(CheckChannel < 0) return 0;   else return CheckChannel; } void CheckSerial()     //Serial command interpreter. {   int i = 0;   if(Serial.available() > 0)
   {
     SerialIn = Serial.read();
+    if(SerialIn == '#') 
