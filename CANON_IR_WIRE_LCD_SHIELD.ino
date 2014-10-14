@@ -350,3 +350,4 @@ void setupDisplay(){
    
    cls();
    c_0();
+   prnt("    DIEHARDS    ");
