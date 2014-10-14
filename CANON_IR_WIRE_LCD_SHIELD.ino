@@ -352,3 +352,4 @@ void setupDisplay(){
    c_0();
    prnt("    DIEHARDS    ");
    c_1();
+   prnt("   TIMINATOR    ");
