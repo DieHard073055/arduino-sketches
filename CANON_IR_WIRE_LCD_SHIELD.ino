@@ -354,3 +354,4 @@ void setupDisplay(){
    c_1();
    prnt("   TIMINATOR    ");
    
+   delay(1000);
