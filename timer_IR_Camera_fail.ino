@@ -265,3 +265,4 @@ void number(int digit){
        break;
       case 9:
         segment(seg1);
+        segment(seg2);
