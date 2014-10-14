@@ -355,3 +355,4 @@ void setupDisplay(){
    prnt("   TIMINATOR    ");
    
    delay(1000);
+}
