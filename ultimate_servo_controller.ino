@@ -261,3 +261,4 @@ long CheckRange(long PulseHDValue)
   if(PulseHDValue > 39680) return 39680;
   else if(PulseHDValue < 8320) return 8320;   else return PulseHDValue; } long CheckChannelRange(long CheckChannel) {   if(CheckChannel >= HDServoMode) return (HDServoMode-1);
   else if(CheckChannel < 0) return 0;   else return CheckChannel; } void CheckSerial()     //Serial command interpreter. {   int i = 0;   if(Serial.available() > 0)
+  {
