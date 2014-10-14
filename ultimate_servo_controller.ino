@@ -259,3 +259,4 @@ void DemoDance1()
 long CheckRange(long PulseHDValue)
 {
   if(PulseHDValue > 39680) return 39680;
+  else if(PulseHDValue < 8320) return 8320;   else return PulseHDValue; } long CheckChannelRange(long CheckChannel) {   if(CheckChannel >= HDServoMode) return (HDServoMode-1);
