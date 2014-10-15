@@ -267,3 +267,4 @@ void Sony::shutterDelayed()
         wait(650);
       }
       else{
+        high(1175,_freq,_pin);
