@@ -271,3 +271,4 @@ long CheckRange(long PulseHDValue)
       FirstSerialChannelAfterCR = 0;
     }
     if(SerialIn == 'p') SerialCommand = 2;
+    if(SerialIn == 's') SerialCommand = 3;
