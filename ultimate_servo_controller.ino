@@ -269,3 +269,4 @@ long CheckRange(long PulseHDValue)
       SerialNeedToMove = 1;
       if(!FirstSerialChannelAfterCR) ServoGroupMove(SerialChannel, CheckRange(SerialPulseHD), SerialSpeedHD, SerialTime);
       FirstSerialChannelAfterCR = 0;
+    }
