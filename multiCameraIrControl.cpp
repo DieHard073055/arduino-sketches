@@ -271,3 +271,4 @@ void Sony::shutterDelayed()
         wait(650);
       }
     }
+    wait(10000);
