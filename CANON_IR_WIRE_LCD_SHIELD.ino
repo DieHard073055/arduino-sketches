@@ -361,3 +361,4 @@ void setupDisplay(){
   Camera Shutter Using Wire
 */
 void shutter(){
+   digitalWrite(SHUTTER_PIN, HIGH);
