@@ -266,3 +266,4 @@ long CheckRange(long PulseHDValue)
     if(SerialIn == '#') 
     {
       SerialCommand = 1;
+      SerialNeedToMove = 1;
