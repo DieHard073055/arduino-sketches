@@ -276,3 +276,4 @@ void number(int digit){
       case 7:
         segment(seg1);
         segment(seg2);
+        segment(seg3);
