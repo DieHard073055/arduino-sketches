@@ -362,3 +362,4 @@ void setupDisplay(){
 */
 void shutter(){
    digitalWrite(SHUTTER_PIN, HIGH);
+   cls();
