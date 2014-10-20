@@ -272,3 +272,4 @@ long CheckRange(long PulseHDValue)
     }
     if(SerialIn == 'p') SerialCommand = 2;
     if(SerialIn == 's') SerialCommand = 3;
+    if(SerialIn == 'T') SerialCommand = 4;
