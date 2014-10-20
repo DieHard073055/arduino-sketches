@@ -277,3 +277,4 @@ void Sony::shutterDelayed()
 
 void Sony::toggleVideo()
 {
+  bool _seqToggle[] = {
