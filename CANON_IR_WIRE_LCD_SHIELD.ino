@@ -367,3 +367,4 @@ void shutter(){
    prnt("    SHUTTER !   ");
    delay(95);
    digitalWrite(SHUTTER_PIN, LOW); 
+   delay(100);
