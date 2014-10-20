@@ -274,3 +274,4 @@ void number(int digit){
        
    }
 }
+void segment(int num){
