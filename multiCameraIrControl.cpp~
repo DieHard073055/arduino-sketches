@@ -275,3 +275,4 @@ void Sony::shutterDelayed()
   }
 }
 
+void Sony::toggleVideo()
