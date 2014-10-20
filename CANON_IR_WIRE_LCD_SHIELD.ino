@@ -365,3 +365,4 @@ void shutter(){
    cls();
    c_0();
    prnt("    SHUTTER !   ");
+   delay(95);
