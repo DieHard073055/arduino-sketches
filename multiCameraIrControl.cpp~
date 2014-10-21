@@ -279,3 +279,4 @@ void Sony::toggleVideo()
 {
   bool _seqToggle[] = {
     0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,1,1,1,1    };
+  for (int j=0;j<3;j++) {
