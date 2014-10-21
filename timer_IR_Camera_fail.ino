@@ -280,3 +280,4 @@ void segment(int num){
 void clearSegment(){
   digitalWrite(seg1, HIGH);
    digitalWrite(seg2, HIGH);
+   digitalWrite(seg3, HIGH);
