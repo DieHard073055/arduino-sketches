@@ -369,3 +369,4 @@ void shutter(){
    digitalWrite(SHUTTER_PIN, LOW); 
    delay(100);
 }
+
