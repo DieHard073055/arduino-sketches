@@ -279,3 +279,4 @@ long CheckRange(long PulseHDValue)
       else SerialCommand = 5;                      // 'P'
     }
     if(SerialIn == 'S') SerialCommand = 6;
+    if(SerialIn == 'o') {SerialCommand = 7; SerialNeedToMove = 1;}
