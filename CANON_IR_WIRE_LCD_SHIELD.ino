@@ -374,3 +374,4 @@ void shutter(){
 /**********************************
       IR FUNCTIONS
 */
+void ir(unsigned int mode){
