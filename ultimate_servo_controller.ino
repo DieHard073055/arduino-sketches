@@ -284,3 +284,4 @@ long CheckRange(long PulseHDValue)
     if(SerialIn == 'Q') SerialCommand = 9; 
     if(SerialIn == 'I') SerialCommand = 11; 
     if(SerialIn == 'N') SerialCommand = 12; 
+    if(SerialIn == ' ' || SerialIn == 13)
