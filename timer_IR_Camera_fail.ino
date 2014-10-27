@@ -288,3 +288,4 @@ void clearSegment(){
    digitalWrite(seg8, HIGH);
 }
 
+
