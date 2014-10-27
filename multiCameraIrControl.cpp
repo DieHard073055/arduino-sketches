@@ -284,3 +284,4 @@ void Sony::toggleVideo()
     wait(650);
     for (int i=0;i<sizeof(_seqToggle);i++){
       if (_seqToggle[i]==0){
+        high(575,_freq,_pin);
