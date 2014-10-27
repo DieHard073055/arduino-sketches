@@ -288,3 +288,4 @@ void Sony::toggleVideo()
         wait(650);
       }
       else{
+        high(1175,_freq,_pin);
