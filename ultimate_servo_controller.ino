@@ -287,3 +287,4 @@ long CheckRange(long PulseHDValue)
     if(SerialIn == ' ' || SerialIn == 13)
     {
       if(SerialCommand == 1) {SerialChannel = CheckChannelRange(ConvertSerialNumbers()); SerialCommand = 0;}
+      if(SerialCommand == 2) {SerialPulseHD = ConvertSerialNumbers() + SerialPulseOffsetHD[SerialChannel]; SerialCommand = 0;}
