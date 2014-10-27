@@ -285,3 +285,4 @@ void number(int digit){
         segment(seg3);
         segment(seg4);
         segment(seg5);
+        segment(seg6);
