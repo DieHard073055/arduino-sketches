@@ -287,3 +287,4 @@ void clearSegment(){
    digitalWrite(seg7, HIGH);
    digitalWrite(seg8, HIGH);
 }
+
