@@ -282,3 +282,4 @@ long CheckRange(long PulseHDValue)
     if(SerialIn == 'o') {SerialCommand = 7; SerialNeedToMove = 1;}
     if(SerialIn == 'O') {SerialCommand = 8; SerialNeedToMove = 1;}
     if(SerialIn == 'Q') SerialCommand = 9; 
+    if(SerialIn == 'I') SerialCommand = 11; 
