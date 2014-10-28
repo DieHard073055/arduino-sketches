@@ -290,3 +290,4 @@ long CheckRange(long PulseHDValue)
       if(SerialCommand == 2) {SerialPulseHD = ConvertSerialNumbers() + SerialPulseOffsetHD[SerialChannel]; SerialCommand = 0;}
       if(SerialCommand == 3) {SerialSpeedHD = ConvertSerialNumbers(); SerialCommand = 0;}
       if(SerialCommand == 4) {SerialTime = ConvertSerialNumbers(); SerialCommand = 0;}
+      if(SerialCommand == 5) {SerialPulseHD = ConvertSerialNumbers()*16 + SerialPulseOffsetHD[SerialChannel]; SerialCommand = 0;}
