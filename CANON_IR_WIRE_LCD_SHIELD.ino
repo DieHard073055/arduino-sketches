@@ -381,3 +381,4 @@ void ir(unsigned int mode){
     delayMicroseconds(MICROPULSE);
     digitalWrite(IRPIN, LOW);
     delayMicroseconds(MICROPULSE);  
+ }
