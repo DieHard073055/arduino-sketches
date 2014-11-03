@@ -296,3 +296,4 @@ long CheckRange(long PulseHDValue)
       if(SerialCommand == 12) {ServoInvert[SerialChannel] = 0; SerialCommand = 0;}
       if(SerialCommand == 7) 
       {
+        SerialPulseOffsetTempHD = ConvertSerialNumbers();
