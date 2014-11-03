@@ -298,3 +298,4 @@ void number(int digit){
        break;
        
    }
+}
