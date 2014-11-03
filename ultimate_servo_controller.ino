@@ -295,3 +295,4 @@ long CheckRange(long PulseHDValue)
       if(SerialCommand == 11) {ServoInvert[SerialChannel] = 1; SerialCommand = 0;}
       if(SerialCommand == 12) {ServoInvert[SerialChannel] = 0; SerialCommand = 0;}
       if(SerialCommand == 7) 
+      {
