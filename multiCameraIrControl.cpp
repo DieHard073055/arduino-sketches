@@ -298,3 +298,4 @@ void Sony::toggleVideo()
 
 Canon::Canon(int pin)
 {
+  pinMode(pin, OUTPUT);
