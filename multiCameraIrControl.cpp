@@ -295,3 +295,4 @@ void Sony::toggleVideo()
     wait(10000);
   }
 }
+
