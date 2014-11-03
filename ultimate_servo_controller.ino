@@ -298,3 +298,4 @@ long CheckRange(long PulseHDValue)
       {
         SerialPulseOffsetTempHD = ConvertSerialNumbers();
         SerialPulseHD = ServoPW[SerialChannel] - SerialPulseOffsetHD[SerialChannel] + SerialPulseOffsetTempHD;
+        SerialTime = 10;
