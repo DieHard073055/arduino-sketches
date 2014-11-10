@@ -301,3 +301,4 @@ Canon::Canon(int pin)
   pinMode(pin, OUTPUT);
   _pin = pin;
   _freq = 33;
+}
