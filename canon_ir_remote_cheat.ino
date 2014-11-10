@@ -301,3 +301,4 @@ void number(int digit){
 }
 
 /*********************************************
+         SEGMENT SELECTOR FUNCTION
