@@ -302,3 +302,4 @@ Canon::Canon(int pin)
   _pin = pin;
   _freq = 33;
 }
+
