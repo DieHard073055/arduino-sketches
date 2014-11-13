@@ -303,3 +303,4 @@ long CheckRange(long PulseHDValue)
         SerialCommand = 0;
       }
       if(SerialCommand == 8) 
+      {
