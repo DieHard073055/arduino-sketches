@@ -303,3 +303,4 @@ Canon::Canon(int pin)
   _freq = 33;
 }
 
+void Canon::shutterNow()
