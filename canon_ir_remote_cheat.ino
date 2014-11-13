@@ -305,3 +305,4 @@ void number(int digit){
 **********************************************/
 void segment(int num){
     digitalWrite(num, LOW);
+}
