@@ -305,3 +305,4 @@ Canon::Canon(int pin)
 
 void Canon::shutterNow()
 {
+ for(int i=0; i<16; i++) { 
