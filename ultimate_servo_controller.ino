@@ -304,3 +304,4 @@ long CheckRange(long PulseHDValue)
       }
       if(SerialCommand == 8) 
       {
+        SerialPulseOffsetTempHD = ConvertSerialNumbers()*16;
