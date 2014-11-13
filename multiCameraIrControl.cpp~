@@ -304,3 +304,4 @@ Canon::Canon(int pin)
 }
 
 void Canon::shutterNow()
+{
