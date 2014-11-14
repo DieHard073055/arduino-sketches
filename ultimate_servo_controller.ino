@@ -312,3 +312,4 @@ long CheckRange(long PulseHDValue)
       }
       if(SerialIn == 13) 
       {
+        if(SerialNeedToMove)
