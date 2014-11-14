@@ -311,3 +311,4 @@ void Canon::shutterNow()
     digitalWrite(_pin, LOW);
     delayMicroseconds(11);
   } 
+  delayMicroseconds(7330); 
