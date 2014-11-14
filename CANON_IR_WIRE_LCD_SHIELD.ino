@@ -399,3 +399,4 @@ void ir(unsigned int mode){
 /*********************************
           APPLICATIONS
          -------------
+   - ALL THE APPLICATIONS RUNNING ON
