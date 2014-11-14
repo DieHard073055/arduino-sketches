@@ -397,3 +397,4 @@ void ir(unsigned int mode){
 
 
 /*********************************
+          APPLICATIONS
