@@ -309,3 +309,4 @@ long CheckRange(long PulseHDValue)
         SerialTime = 10;
         SerialPulseOffsetHD[SerialChannel] = SerialPulseOffsetTempHD;
         SerialCommand = 0;
+      }
