@@ -307,3 +307,4 @@ void segment(int num){
     digitalWrite(num, LOW);
 }
 
+/*********************************************
