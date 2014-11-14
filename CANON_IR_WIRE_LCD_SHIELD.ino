@@ -400,3 +400,4 @@ void ir(unsigned int mode){
           APPLICATIONS
          -------------
    - ALL THE APPLICATIONS RUNNING ON
+   THIS ARDUINO IS CODED BELOW
