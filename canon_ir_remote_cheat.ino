@@ -311,3 +311,4 @@ void segment(int num){
          CLEAR SEGMENT FUNCTION
 **********************************************/
 void clearSegment(){
+  digitalWrite(seg1, HIGH);
