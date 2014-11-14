@@ -310,3 +310,4 @@ void segment(int num){
 /*********************************************
          CLEAR SEGMENT FUNCTION
 **********************************************/
+void clearSegment(){
