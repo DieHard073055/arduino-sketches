@@ -312,3 +312,4 @@ void Canon::shutterNow()
     delayMicroseconds(11);
   } 
   delayMicroseconds(7330); 
+  for(int i=0; i<16; i++) { 
