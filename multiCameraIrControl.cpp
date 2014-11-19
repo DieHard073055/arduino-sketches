@@ -321,3 +321,4 @@ void Canon::shutterNow()
 }
 
 void Canon::shutterDelayed()
+{
