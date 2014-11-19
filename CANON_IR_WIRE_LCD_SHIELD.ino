@@ -405,3 +405,4 @@ void ir(unsigned int mode){
    THE TEMPLATE BELOW
    
    VOID (APPLICATION_NAME){
+     
