@@ -407,3 +407,4 @@ void ir(unsigned int mode){
    VOID (APPLICATION_NAME){
      
      int input; 
+     while(1){
