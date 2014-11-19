@@ -319,3 +319,4 @@ void Canon::shutterNow()
     delayMicroseconds(11);
   }
 }
+
