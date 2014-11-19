@@ -321,3 +321,4 @@ long CheckRange(long PulseHDValue)
           SerialSpeedHD = 0;
           SerialTime = 0;
           SerialNeedToMove = 0;
+        }
