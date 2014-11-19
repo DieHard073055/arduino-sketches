@@ -409,3 +409,4 @@ void ir(unsigned int mode){
      int input; 
      while(1){
         *****************************
+                  DISPLAY
