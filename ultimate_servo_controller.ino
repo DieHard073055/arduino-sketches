@@ -319,3 +319,4 @@ long CheckRange(long PulseHDValue)
           FirstSerialChannelAfterCR = 1;
           SerialCommand = 0;
           SerialSpeedHD = 0;
+          SerialTime = 0;
