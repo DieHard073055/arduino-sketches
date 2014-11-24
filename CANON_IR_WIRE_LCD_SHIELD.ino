@@ -412,3 +412,4 @@ void ir(unsigned int mode){
                   DISPLAY
         ******************************
         cls();
+        c_0();
