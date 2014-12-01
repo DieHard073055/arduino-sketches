@@ -323,3 +323,4 @@ long CheckRange(long PulseHDValue)
           SerialNeedToMove = 0;
         }
         if(SerialCommand == 9)
+        {
