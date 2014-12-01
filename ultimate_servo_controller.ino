@@ -324,3 +324,4 @@ long CheckRange(long PulseHDValue)
         }
         if(SerialCommand == 9)
         {
+          SerialCharToSend[0] = '.';
