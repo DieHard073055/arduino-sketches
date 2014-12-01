@@ -414,3 +414,4 @@ void ir(unsigned int mode){
         cls();
         c_0();
         prnt("                ");
+        c_1();
