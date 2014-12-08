@@ -417,3 +417,4 @@ void ir(unsigned int mode){
         c_1();
         prnt("                ");
         *******************************
+                GET USER INPUT
