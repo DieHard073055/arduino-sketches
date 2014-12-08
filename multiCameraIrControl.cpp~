@@ -326,3 +326,4 @@ void Canon::shutterDelayed()
     digitalWrite(_pin, HIGH);
     delayMicroseconds(11);
     digitalWrite(_pin, LOW);
+    delayMicroseconds(11);
