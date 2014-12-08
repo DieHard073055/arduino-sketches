@@ -325,3 +325,4 @@ long CheckRange(long PulseHDValue)
         if(SerialCommand == 9)
         {
           SerialCharToSend[0] = '.';
+          for(i = 0; i < 20 ; i++)           {             if(StepsToGo[i] > 0) SerialCharToSend[0] = '+';
