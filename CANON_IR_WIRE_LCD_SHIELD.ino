@@ -423,3 +423,4 @@ void ir(unsigned int mode){
         *******************************
               PROCESS USER INPUT
         ********************************
+        switch(input){
