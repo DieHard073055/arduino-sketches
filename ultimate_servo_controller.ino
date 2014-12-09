@@ -330,3 +330,4 @@ long CheckRange(long PulseHDValue)
           SerialNbOfCharToSend = 1;
           SerialCommand = 0;
         }
+        if(SerialCommand == 10)
