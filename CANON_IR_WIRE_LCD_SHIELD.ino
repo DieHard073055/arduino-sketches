@@ -421,3 +421,4 @@ void ir(unsigned int mode){
         *******************************
         input = get_input();
         *******************************
+              PROCESS USER INPUT
