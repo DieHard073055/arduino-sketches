@@ -420,3 +420,4 @@ void ir(unsigned int mode){
                 GET USER INPUT
         *******************************
         input = get_input();
+        *******************************
