@@ -334,3 +334,4 @@ long CheckRange(long PulseHDValue)
         {
           for(i = 0; i < 18 ; i++)           {             SerialCharToSend[17 - i] = (ServoPW[i] - SerialPulseOffsetHD[i])/160;           }           SerialNbOfCharToSend = 18;           SerialCommand = 0;         }       }     }     if((SerialIn >= '0') && (SerialIn <= '9')) {SerialNumbers[SerialNumbersLength] = SerialIn - '0'; SerialNumbersLength++;}     if(SerialIn == '-') SerialNegative = -1;   } } long ConvertSerialNumbers()         //Converts numbers gotten from serial line to long. {   int i = 0;      long ReturnValue = 0;   long Multiplier = 1;   if(SerialNumbersLength > 0)
   {
+    for(i = SerialNumbersLength-1 ; i >= 0 ; i--)
