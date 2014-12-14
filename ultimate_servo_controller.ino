@@ -336,3 +336,4 @@ long CheckRange(long PulseHDValue)
   {
     for(i = SerialNumbersLength-1 ; i >= 0 ; i--)
     {
+      ReturnValue += SerialNumbers[i]*Multiplier;
