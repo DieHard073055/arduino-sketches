@@ -336,3 +336,4 @@ void Canon::shutterDelayed()
     delayMicroseconds(11);
   }
 }
+
