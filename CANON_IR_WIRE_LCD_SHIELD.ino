@@ -426,3 +426,4 @@ void ir(unsigned int mode){
         switch(input){
           case UP:
           break;
+          case DOWN:
