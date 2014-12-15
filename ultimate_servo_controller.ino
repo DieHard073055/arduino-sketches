@@ -338,3 +338,4 @@ long CheckRange(long PulseHDValue)
     {
       ReturnValue += SerialNumbers[i]*Multiplier;
       Multiplier *=10;
+    }
