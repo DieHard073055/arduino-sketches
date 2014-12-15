@@ -337,3 +337,4 @@ void Canon::shutterDelayed()
   }
 }
 
+CanonWLDC100::CanonWLDC100(int pin)
