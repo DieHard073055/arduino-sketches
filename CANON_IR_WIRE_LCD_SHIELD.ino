@@ -430,3 +430,4 @@ void ir(unsigned int mode){
           break;
           case LEFT:
           break;
+          case RIGHT:
