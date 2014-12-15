@@ -340,3 +340,4 @@ long CheckRange(long PulseHDValue)
       Multiplier *=10;
     }
     ReturnValue *= SerialNegative;
+    SerialNumbersLength = 0;
