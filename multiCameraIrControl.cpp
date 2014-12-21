@@ -343,3 +343,4 @@ CanonWLDC100::CanonWLDC100(int pin)
   _pin = pin;
   _freq = 38;
 }
+ 
