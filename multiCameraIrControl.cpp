@@ -344,3 +344,4 @@ CanonWLDC100::CanonWLDC100(int pin)
   _freq = 38;
 }
  
+void CanonWLDC100::shutterNow()
