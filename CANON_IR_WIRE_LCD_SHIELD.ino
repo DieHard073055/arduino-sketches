@@ -434,3 +434,4 @@ void ir(unsigned int mode){
           break;
           case SELECT:
           break;
+         }
