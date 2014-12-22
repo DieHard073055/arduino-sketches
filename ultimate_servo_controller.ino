@@ -344,3 +344,4 @@ long CheckRange(long PulseHDValue)
     SerialNegative = 1;
     return ReturnValue;
   }
+  else return 0;
