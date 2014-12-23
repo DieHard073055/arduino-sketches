@@ -351,3 +351,4 @@ void CanonWLDC100::shutterNow()
   wait(4379);
  
   for (int i=0;i<sizeof(_seq);i++){
+    if (_seq[i]==0){
