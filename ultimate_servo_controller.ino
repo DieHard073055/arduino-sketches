@@ -346,3 +346,4 @@ long CheckRange(long PulseHDValue)
   }
   else return 0;
 }
+
