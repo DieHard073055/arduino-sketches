@@ -345,3 +345,4 @@ CanonWLDC100::CanonWLDC100(int pin)
 }
  
 void CanonWLDC100::shutterNow()
+{
