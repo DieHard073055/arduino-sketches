@@ -438,3 +438,4 @@ void ir(unsigned int mode){
          *********************************
              REFRESH RATE DELAY
          *********************************
+        delay(REFRESH_RATE);
