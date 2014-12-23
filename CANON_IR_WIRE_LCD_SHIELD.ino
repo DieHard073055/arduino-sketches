@@ -436,3 +436,4 @@ void ir(unsigned int mode){
           break;
          }
          *********************************
+             REFRESH RATE DELAY
