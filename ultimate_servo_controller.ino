@@ -345,3 +345,4 @@ long CheckRange(long PulseHDValue)
     return ReturnValue;
   }
   else return 0;
+}
