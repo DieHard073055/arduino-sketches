@@ -351,3 +351,4 @@ void CanonWLDC100::shutterNow()
   };
   high(9042,_freq,_pin);
   wait(4379);
+ 
