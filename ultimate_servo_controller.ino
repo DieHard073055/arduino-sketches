@@ -350,3 +350,4 @@ long CheckRange(long PulseHDValue)
 void ServoGroupMove(int Channel, long PulseHD, long SpeedHD, long Time)    //ServoMove used by serial command interpreter
 {
   long StepsToGoSpeed=0;
+  long StepsToGoTime=0;
