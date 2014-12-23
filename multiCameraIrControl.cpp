@@ -346,3 +346,4 @@ CanonWLDC100::CanonWLDC100(int pin)
  
 void CanonWLDC100::shutterNow()
 {
+  bool _seq[] = {0,1,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1};
