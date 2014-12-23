@@ -350,3 +350,4 @@ void CanonWLDC100::shutterNow()
   high(9042,_freq,_pin);
   wait(4379);
  
+  for (int i=0;i<sizeof(_seq);i++){
