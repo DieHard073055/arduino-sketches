@@ -347,3 +347,4 @@ long CheckRange(long PulseHDValue)
   else return 0;
 }
 
+void ServoGroupMove(int Channel, long PulseHD, long SpeedHD, long Time)    //ServoMove used by serial command interpreter
