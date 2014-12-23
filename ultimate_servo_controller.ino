@@ -352,3 +352,4 @@ void ServoGroupMove(int Channel, long PulseHD, long SpeedHD, long Time)    //Ser
   long StepsToGoSpeed=0;
   long StepsToGoTime=0;
 
+  ServoGroupChannel[ServoGroupNbOfChannels] = Channel;
