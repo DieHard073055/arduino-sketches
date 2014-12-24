@@ -354,3 +354,4 @@ void ServoGroupMove(int Channel, long PulseHD, long SpeedHD, long Time)    //Ser
 
   ServoGroupChannel[ServoGroupNbOfChannels] = Channel;
   if(SpeedHD < 1) SpeedHD = 3200000;   StepsToGoSpeed = abs((PulseHD - ServoPW[Channel]) / (SpeedHD / 50));   StepsToGoTime = Time / 20;   if(StepsToGoSpeed > ServoGroupStepsToGo) ServoGroupStepsToGo = StepsToGoSpeed;
+  if(StepsToGoTime > ServoGroupStepsToGo) ServoGroupStepsToGo = StepsToGoTime;
