@@ -446,3 +446,4 @@ void ir(unsigned int mode){
 /**********************************
          TIMELAPSE - CONTROLLER
 */
+void Timelapse_Controller(){
