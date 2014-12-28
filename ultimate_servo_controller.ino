@@ -357,3 +357,4 @@ void ServoGroupMove(int Channel, long PulseHD, long SpeedHD, long Time)    //Ser
   if(StepsToGoTime > ServoGroupStepsToGo) ServoGroupStepsToGo = StepsToGoTime;
   ServoGroupChannel[ServoGroupNbOfChannels] = Channel;
   ServoGroupServoLastPos[ServoGroupNbOfChannels] = PulseHD;
+  ServoGroupNbOfChannels++;
