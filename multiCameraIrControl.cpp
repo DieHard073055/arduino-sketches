@@ -358,3 +358,4 @@ void CanonWLDC100::shutterNow()
     else{
       high(612,_freq,_pin);
       wait(1621);
+    }
