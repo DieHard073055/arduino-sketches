@@ -363,3 +363,4 @@ void ServoGroupMove(int Channel, long PulseHD, long SpeedHD, long Time)    //Ser
 void ServoGroupMoveActivate()                       //ServoMove used by serial command interpreter
 {
   int ServoCount = 0;
+
