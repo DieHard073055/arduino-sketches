@@ -450,3 +450,4 @@ void Timelapse_Controller(){
    /*
        setting
        0 = EXPOSURE
+       1 = INTERVAL
