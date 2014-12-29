@@ -360,3 +360,4 @@ void ServoGroupMove(int Channel, long PulseHD, long SpeedHD, long Time)    //Ser
   ServoGroupNbOfChannels++;
 }
 
+void ServoGroupMoveActivate()                       //ServoMove used by serial command interpreter
