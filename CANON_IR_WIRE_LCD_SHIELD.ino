@@ -453,3 +453,4 @@ void Timelapse_Controller(){
        1 = INTERVAL
        2 = SHOTS
   */
+   int mode = 0;
