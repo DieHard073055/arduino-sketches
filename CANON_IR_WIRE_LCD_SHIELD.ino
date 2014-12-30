@@ -455,3 +455,4 @@ void Timelapse_Controller(){
   */
    int mode = 0;
    int setting = 0;
+   int input;
