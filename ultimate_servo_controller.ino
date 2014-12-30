@@ -365,3 +365,4 @@ void ServoGroupMoveActivate()                       //ServoMove used by serial c
   int ServoCount = 0;
 
   for(ServoCount = 0 ; ServoCount < ServoGroupNbOfChannels ; ServoCount++)
+  {
