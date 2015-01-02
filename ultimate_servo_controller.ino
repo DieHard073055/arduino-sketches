@@ -368,3 +368,4 @@ void ServoGroupMoveActivate()                       //ServoMove used by serial c
   {
     ServoStepsHD[ServoGroupChannel[ServoCount]] = (ServoGroupServoLastPos[ServoCount] - ServoPW[ServoGroupChannel[ServoCount]]) / ServoGroupStepsToGo;
     StepsToGo[ServoGroupChannel[ServoCount]] =ServoGroupStepsToGo;
+    ServoLastPos[ServoGroupChannel[ServoCount]] = ServoGroupServoLastPos[ServoCount];
