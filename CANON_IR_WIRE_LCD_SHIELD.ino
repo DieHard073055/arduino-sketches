@@ -457,3 +457,4 @@ void Timelapse_Controller(){
    int setting = 0;
    int input;
    int increment_value = 1;
+   boolean paused = false;
