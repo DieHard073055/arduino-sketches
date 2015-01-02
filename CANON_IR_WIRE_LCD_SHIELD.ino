@@ -458,3 +458,4 @@ void Timelapse_Controller(){
    int input;
    int increment_value = 1;
    boolean paused = false;
+   String display_settings[] = {
