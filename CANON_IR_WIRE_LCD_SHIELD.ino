@@ -459,3 +459,4 @@ void Timelapse_Controller(){
    int increment_value = 1;
    boolean paused = false;
    String display_settings[] = {
+      "Exposure : ",
