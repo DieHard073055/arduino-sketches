@@ -460,3 +460,4 @@ void Timelapse_Controller(){
    boolean paused = false;
    String display_settings[] = {
       "Exposure : ",
+      "INTERVAL : ",
