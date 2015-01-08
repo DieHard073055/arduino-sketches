@@ -370,3 +370,4 @@ void ServoGroupMoveActivate()                       //ServoMove used by serial c
     StepsToGo[ServoGroupChannel[ServoCount]] =ServoGroupStepsToGo;
     ServoLastPos[ServoGroupChannel[ServoCount]] = ServoGroupServoLastPos[ServoCount];
   }
+  ServoGroupNbOfChannels = 0;
