@@ -377,3 +377,4 @@ void ServoGroupMoveActivate()                       //ServoMove used by serial c
 void RealTime50Hz() //Move servos every 20ms to the desired position.
 {
   if(SerialNbOfCharToSend) {SerialNbOfCharToSend--; Serial.print(SerialCharToSend[SerialNbOfCharToSend]);}
+  for(ChannelCount = 0; ChannelCount < 20; ChannelCount++)   {     if(StepsToGo[ChannelCount] > 0)
