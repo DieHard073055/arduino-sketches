@@ -462,3 +462,4 @@ void Timelapse_Controller(){
       "Exposure : ",
       "INTERVAL : ",
       "SHOTS : ",
+      "START"
