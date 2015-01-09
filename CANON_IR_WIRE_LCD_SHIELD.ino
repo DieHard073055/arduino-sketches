@@ -461,3 +461,4 @@ void Timelapse_Controller(){
    String display_settings[] = {
       "Exposure : ",
       "INTERVAL : ",
+      "SHOTS : ",
