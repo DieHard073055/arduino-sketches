@@ -464,3 +464,4 @@ void Timelapse_Controller(){
       "SHOTS : ",
       "START"
    };
+   unsigned long settings_value[] = {
