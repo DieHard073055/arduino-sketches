@@ -463,3 +463,4 @@ void Timelapse_Controller(){
       "INTERVAL : ",
       "SHOTS : ",
       "START"
+   };
