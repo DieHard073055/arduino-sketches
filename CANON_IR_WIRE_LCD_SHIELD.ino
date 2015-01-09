@@ -466,3 +466,4 @@ void Timelapse_Controller(){
    };
    unsigned long settings_value[] = {
         0, //Exposure Value
+        1000, //Interval Value
