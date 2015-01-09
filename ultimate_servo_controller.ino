@@ -375,3 +375,4 @@ void ServoGroupMoveActivate()                       //ServoMove used by serial c
 }
 
 void RealTime50Hz() //Move servos every 20ms to the desired position.
+{
