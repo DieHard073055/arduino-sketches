@@ -468,3 +468,4 @@ void Timelapse_Controller(){
         0, //Exposure Value
         1000, //Interval Value
         0  //Shot count
+   }; 
