@@ -465,3 +465,4 @@ void Timelapse_Controller(){
       "START"
    };
    unsigned long settings_value[] = {
+        0, //Exposure Value
