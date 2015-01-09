@@ -373,3 +373,4 @@ void ServoGroupMoveActivate()                       //ServoMove used by serial c
   ServoGroupNbOfChannels = 0;
   ServoGroupStepsToGo = 0;
 }
+
