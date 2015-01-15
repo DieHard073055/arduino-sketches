@@ -471,3 +471,4 @@ void Timelapse_Controller(){
    }; 
    /* 
        TIMELAPSE MODE VARIABLES
+   */
