@@ -470,3 +470,4 @@ void Timelapse_Controller(){
         0  //Shot count
    }; 
    /* 
+       TIMELAPSE MODE VARIABLES
