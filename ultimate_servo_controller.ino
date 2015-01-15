@@ -380,3 +380,4 @@ void RealTime50Hz() //Move servos every 20ms to the desired position.
   for(ChannelCount = 0; ChannelCount < 20; ChannelCount++)   {     if(StepsToGo[ChannelCount] > 0)
     {
       ServoPW[ChannelCount] += ServoStepsHD[ChannelCount];
+      StepsToGo[ChannelCount] --;
