@@ -473,3 +473,4 @@ void Timelapse_Controller(){
        TIMELAPSE MODE VARIABLES
    */
    unsigned long start = 0;
+   
