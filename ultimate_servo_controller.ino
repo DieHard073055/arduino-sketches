@@ -384,3 +384,4 @@ void RealTime50Hz() //Move servos every 20ms to the desired position.
     }
     else if(StepsToGo[ChannelCount] == 0)
     {
+      ServoPW[ChannelCount] = ServoLastPos[ChannelCount];
