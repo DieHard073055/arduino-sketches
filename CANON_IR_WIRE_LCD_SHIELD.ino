@@ -474,3 +474,4 @@ void Timelapse_Controller(){
    */
    unsigned long start = 0;
    
+unsigned long elapsed = 0, pause_t = 0;
