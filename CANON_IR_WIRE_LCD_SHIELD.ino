@@ -477,3 +477,4 @@ void Timelapse_Controller(){
 unsigned long elapsed = 0, pause_t = 0;
    unsigned long shots=0;
    boolean interval = false;
+   boolean shutter = false;
