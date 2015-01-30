@@ -483,3 +483,4 @@ unsigned long elapsed = 0, pause_t = 0;
        SLEEP VARIABLES
    */
    unsigned long sleep_start = 0;
+   unsigned long sleep_elapsed = 0;
