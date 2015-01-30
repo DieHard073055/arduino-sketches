@@ -394,3 +394,4 @@ ISR(TIMER1_COMPA_vect) // Interrupt routine for timer 1 compare A. Used for timi
 { 
   *OutPort1A &= ~OutBit1A;                //Pulse A finished. Set to low
 }
+
