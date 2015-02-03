@@ -402,3 +402,4 @@ ISR(TIMER1_COMPB_vect) // Interrupt routine for timer 1 compare A. Used for timi
 
 ISR(TIMER2_COMPA_vect) // Interrupt routine for timer 2 compare A. Used for timing 50Hz for each servo.
 { 
+  *OutPortNext1A |= OutBitNext1A;         // Start new pulse on next servo. Write pin HIGH
