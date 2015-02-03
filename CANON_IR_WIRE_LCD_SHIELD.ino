@@ -493,3 +493,4 @@ unsigned long elapsed = 0, pause_t = 0;
       ******************************/
       if(mode == 0){
         /* TIMELAPSE SETTING MODE */
+        cls();
