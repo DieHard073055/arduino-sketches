@@ -404,3 +404,4 @@ ISR(TIMER2_COMPA_vect) // Interrupt routine for timer 2 compare A. Used for timi
 { 
   *OutPortNext1A |= OutBitNext1A;         // Start new pulse on next servo. Write pin HIGH
   *OutPortNext1B |= OutBitNext1B;         // Start new pulse on next servo. Write pin HIGH
+}
