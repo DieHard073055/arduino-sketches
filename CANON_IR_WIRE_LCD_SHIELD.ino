@@ -499,3 +499,4 @@ unsigned long elapsed = 0, pause_t = 0;
         c_1();
         if(setting == 3){
           prnt("TIMELAPSE");
+        }
