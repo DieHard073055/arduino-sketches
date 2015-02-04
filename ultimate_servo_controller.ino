@@ -412,3 +412,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
   TCNT1 = 0;                                         // Restart counter for timer1
   TCNT2 = 0;                                         // Restart counter for timer2
   sei();
+  *OutPort1A &= ~OutBit1A;                           // Set pulse low to if not done already
