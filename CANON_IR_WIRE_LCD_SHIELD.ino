@@ -496,3 +496,4 @@ unsigned long elapsed = 0, pause_t = 0;
         cls();
         c_0();
         prnt(display_settings[setting]);
+        c_1();
