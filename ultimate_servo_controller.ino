@@ -410,3 +410,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
 { 
   TIFR1 = 255;                                       // Clear  pending interrupts
   TCNT1 = 0;                                         // Restart counter for timer1
+  TCNT2 = 0;                                         // Restart counter for timer2
