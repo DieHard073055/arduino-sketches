@@ -504,3 +504,4 @@ unsigned long elapsed = 0, pause_t = 0;
           prnt(settings_value[setting]);
         }       
         if(setting == 1 || setting == 0)
+        prnt(" milisec");
