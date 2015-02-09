@@ -417,3 +417,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
   OutPort1A = OutPortTable[Timer2Toggle];            // Temp port for COMP1A
   OutBit1A = OutBitTable[Timer2Toggle];              // Temp bitmask for COMP1A
   OutPort1B = OutPortTable[Timer2Toggle+10];         // Temp port for COMP1B
+  OutBit1B = OutBitTable[Timer2Toggle+10];           // Temp bitmask for COMP1B
