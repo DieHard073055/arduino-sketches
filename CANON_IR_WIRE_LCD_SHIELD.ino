@@ -507,3 +507,4 @@ unsigned long elapsed = 0, pause_t = 0;
         prnt(" milisec");
       }else{
         /* 
+          TIMELAPSE MODE DISPLAY CODE
