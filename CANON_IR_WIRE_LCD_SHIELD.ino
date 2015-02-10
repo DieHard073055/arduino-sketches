@@ -510,3 +510,4 @@ unsigned long elapsed = 0, pause_t = 0;
           TIMELAPSE MODE DISPLAY CODE
          */
         cls();
+        c_0();
