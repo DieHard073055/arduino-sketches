@@ -513,3 +513,4 @@ unsigned long elapsed = 0, pause_t = 0;
         c_0();
         if(paused){
           prnt("Paused ");
+        }else{
