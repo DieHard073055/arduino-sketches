@@ -423,3 +423,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
   if(ServoInvert[Timer2Toggle+10]) OCR1B = 48000 - ServoPW[Timer2Toggle+10]-7970;            // Set timer1 count for pulse width.
   else OCR1B = ServoPW[Timer2Toggle+10]-7965;
   Timer2Toggle++;                                    // Next servo in line.
+  if(Timer2Toggle==10)
