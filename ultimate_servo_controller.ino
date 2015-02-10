@@ -418,3 +418,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
   OutBit1A = OutBitTable[Timer2Toggle];              // Temp bitmask for COMP1A
   OutPort1B = OutPortTable[Timer2Toggle+10];         // Temp port for COMP1B
   OutBit1B = OutBitTable[Timer2Toggle+10];           // Temp bitmask for COMP1B
+  if(ServoInvert[Timer2Toggle]) OCR1A = 48000 - ServoPW[Timer2Toggle] - 7985;                // Set timer1 count for pulse width.
