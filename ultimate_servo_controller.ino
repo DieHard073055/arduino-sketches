@@ -424,3 +424,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
   else OCR1B = ServoPW[Timer2Toggle+10]-7965;
   Timer2Toggle++;                                    // Next servo in line.
   if(Timer2Toggle==10)
+  { 
