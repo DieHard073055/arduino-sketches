@@ -516,3 +516,4 @@ unsigned long elapsed = 0, pause_t = 0;
         }else{
           if(shutter)
             prnt("Shutter : ");
+          else if(interval)
