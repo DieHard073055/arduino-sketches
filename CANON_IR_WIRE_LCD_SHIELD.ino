@@ -515,3 +515,4 @@ unsigned long elapsed = 0, pause_t = 0;
           prnt("Paused ");
         }else{
           if(shutter)
+            prnt("Shutter : ");
