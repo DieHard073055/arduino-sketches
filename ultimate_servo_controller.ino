@@ -428,3 +428,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
     Timer2Toggle = 0;                                // If next servo is grater than 9, start on 0 again.
     RealTime50Hz();                                  // Do servo management
   }
+  OutPortNext1A = OutPortTable[Timer2Toggle];        // Next Temp port for COMP1A
