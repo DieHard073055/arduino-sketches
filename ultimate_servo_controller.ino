@@ -434,3 +434,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
   OutBitNext1B = OutBitTable[Timer2Toggle+10];       // Next Temp bitmask for COMP1B
 }
 
+void ServoSetup()
