@@ -429,3 +429,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
     RealTime50Hz();                                  // Do servo management
   }
   OutPortNext1A = OutPortTable[Timer2Toggle];        // Next Temp port for COMP1A
+  OutBitNext1A = OutBitTable[Timer2Toggle];          // Next Temp bitmask for COMP1A
