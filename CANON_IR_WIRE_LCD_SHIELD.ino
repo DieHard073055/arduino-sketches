@@ -518,3 +518,4 @@ unsigned long elapsed = 0, pause_t = 0;
             prnt("Shutter : ");
           else if(interval)
             prnt("Interval : ");
+        }
