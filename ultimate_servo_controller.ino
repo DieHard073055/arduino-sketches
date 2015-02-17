@@ -444,3 +444,4 @@ void ServoSetup()
   TIMSK1 = 6;                     // Enable the output compare A and B interrupt 
   // Timer 2 setup(8 bit):
   TCCR2A = 0;                     // Normal counting mode 
+  TCCR2B = 6;                     // Set prescaler to 256
