@@ -436,3 +436,4 @@ ISR(TIMER2_COMPB_vect) // Interrupt routine for timer 2 compare A. Used for timi
 
 void ServoSetup()
 {
+  // Timer 1 setup(16 bit):
