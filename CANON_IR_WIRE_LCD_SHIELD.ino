@@ -532,3 +532,4 @@ unsigned long elapsed = 0, pause_t = 0;
       *******************************/
       input = get_input();
       if(input != NONE){
+         sleep_start = millis(); 
