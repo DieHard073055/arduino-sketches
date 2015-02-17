@@ -441,3 +441,4 @@ void ServoSetup()
   TCCR1B = 1;                     // Set prescaler to 1 
   TCNT1 = 0;                      // Clear timer count 
   TIFR1 = 255;                    // Clear  pending interrupts
+  TIMSK1 = 6;                     // Enable the output compare A and B interrupt 
