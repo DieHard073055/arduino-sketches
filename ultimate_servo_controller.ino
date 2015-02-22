@@ -445,3 +445,4 @@ void ServoSetup()
   // Timer 2 setup(8 bit):
   TCCR2A = 0;                     // Normal counting mode 
   TCCR2B = 6;                     // Set prescaler to 256
+  TCNT2 = 0;                      // Clear timer count 
