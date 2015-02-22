@@ -535,3 +535,4 @@ unsigned long elapsed = 0, pause_t = 0;
          sleep_start = millis(); 
       }else{SBB();sleeping=false;}
       /*******************************
+            PROCESS USER INPUT
