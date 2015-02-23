@@ -537,3 +537,4 @@ unsigned long elapsed = 0, pause_t = 0;
       /*******************************
             PROCESS USER INPUT
       ********************************/
+      switch(input){
