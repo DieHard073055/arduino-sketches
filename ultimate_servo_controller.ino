@@ -446,3 +446,4 @@ void ServoSetup()
   TCCR2A = 0;                     // Normal counting mode 
   TCCR2B = 6;                     // Set prescaler to 256
   TCNT2 = 0;                      // Clear timer count 
+  TIFR2 = 255;                    // Clear pending interrupts
