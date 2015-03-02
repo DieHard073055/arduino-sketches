@@ -448,3 +448,4 @@ void ServoSetup()
   TCNT2 = 0;                      // Clear timer count 
   TIFR2 = 255;                    // Clear pending interrupts
   TIMSK2 = 6;                     // Enable the output compare A and B interrupt 
+  OCR2A = 93;                     // Set counter A for about 500us before counter B below;
