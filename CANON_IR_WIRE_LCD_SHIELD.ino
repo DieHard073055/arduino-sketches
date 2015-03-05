@@ -540,3 +540,4 @@ unsigned long elapsed = 0, pause_t = 0;
       switch(input){
         case UP:
           if(!sleeping){
+            if(mode == 0 && setting != 3){
