@@ -541,3 +541,4 @@ unsigned long elapsed = 0, pause_t = 0;
         case UP:
           if(!sleeping){
             if(mode == 0 && setting != 3){
+               settings_value[setting]+=increment_value; 
