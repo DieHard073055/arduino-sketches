@@ -452,3 +452,4 @@ void ServoSetup()
   OCR2B = 124;                    // Set counter B for about 2000us (20ms/10, where 20ms is 50Hz);
 
   #if HDServoMode == 18
+    for(iCount=2;iCount<14;iCount++) pinMode(iCount, OUTPUT);    // Set all pins used to output:
