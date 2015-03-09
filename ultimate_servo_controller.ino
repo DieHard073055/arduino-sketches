@@ -453,3 +453,4 @@ void ServoSetup()
 
   #if HDServoMode == 18
     for(iCount=2;iCount<14;iCount++) pinMode(iCount, OUTPUT);    // Set all pins used to output:
+    OutPortTable[18] = &PORTC;    // In 18 channel mode set channel 18 and 19 to a dummy pin that does not exist.
