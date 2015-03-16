@@ -552,3 +552,4 @@ unsigned long elapsed = 0, pause_t = 0;
                if(settings_value[setting] > (0+increment_value)){
                  settings_value[setting]-=increment_value; 
                  if(settings_value[setting] < 0) settings_value[setting] = 0;
+               }
