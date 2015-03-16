@@ -457,3 +457,4 @@ void ServoSetup()
     OutPortTable[19] = &PORTC;
     OutBitTable[18] = 128;
     OutBitTable[19] = 128;
+    Serial.begin(SerialInterfaceSpeed);  
