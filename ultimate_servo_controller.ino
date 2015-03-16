@@ -459,3 +459,4 @@ void ServoSetup()
     OutBitTable[19] = 128;
     Serial.begin(SerialInterfaceSpeed);  
     SerialNbOfCharToSend = 28;
+  #elif HDServoMode == 20
