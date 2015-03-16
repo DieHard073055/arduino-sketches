@@ -458,3 +458,4 @@ void ServoSetup()
     OutBitTable[18] = 128;
     OutBitTable[19] = 128;
     Serial.begin(SerialInterfaceSpeed);  
+    SerialNbOfCharToSend = 28;
