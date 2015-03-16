@@ -460,3 +460,4 @@ void ServoSetup()
     Serial.begin(SerialInterfaceSpeed);  
     SerialNbOfCharToSend = 28;
   #elif HDServoMode == 20
+    for(iCount=0;iCount<14;iCount++) pinMode(iCount, OUTPUT);    // Set all pins used to output:
