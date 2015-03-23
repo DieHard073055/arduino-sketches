@@ -561,3 +561,4 @@ unsigned long elapsed = 0, pause_t = 0;
           return;
         break;
         case RIGHT:
+          if(!sleeping){
