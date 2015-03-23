@@ -560,3 +560,4 @@ unsigned long elapsed = 0, pause_t = 0;
           if(!sleeping)
           return;
         break;
+        case RIGHT:
