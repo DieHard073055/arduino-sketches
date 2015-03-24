@@ -568,3 +568,4 @@ unsigned long elapsed = 0, pause_t = 0;
                 }else{
                   setting =0;
                 }
+            }else{
