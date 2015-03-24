@@ -565,3 +565,4 @@ unsigned long elapsed = 0, pause_t = 0;
             if(mode == 0){
                 if(setting < 3){
                    setting++; 
+                }else{
