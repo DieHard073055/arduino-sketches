@@ -576,3 +576,4 @@ unsigned long elapsed = 0, pause_t = 0;
                 pause_t = millis();
               }else{
                 start += (millis() - pause_t); 
+              }
