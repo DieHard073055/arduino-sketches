@@ -578,3 +578,4 @@ unsigned long elapsed = 0, pause_t = 0;
                 start += (millis() - pause_t); 
               }
               paused = !paused;
+            }
