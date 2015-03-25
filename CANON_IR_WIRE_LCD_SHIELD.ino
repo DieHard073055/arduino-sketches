@@ -573,3 +573,4 @@ unsigned long elapsed = 0, pause_t = 0;
                     TIMELAPSE MODE INPUT CONTROL CODE
               */
               if(!paused){
+                pause_t = millis();
