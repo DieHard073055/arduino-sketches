@@ -587,3 +587,4 @@ unsigned long elapsed = 0, pause_t = 0;
                if(setting != 3){
                  if(increment_value < 10000){
                    increment_value *= 10;
+                 }else{
