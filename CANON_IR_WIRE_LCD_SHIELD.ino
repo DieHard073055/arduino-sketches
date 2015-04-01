@@ -590,3 +590,4 @@ unsigned long elapsed = 0, pause_t = 0;
                  }else{
                     increment_value = 1; 
                  }
+               }else{
