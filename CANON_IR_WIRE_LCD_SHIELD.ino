@@ -593,3 +593,4 @@ unsigned long elapsed = 0, pause_t = 0;
                }else{
                 /* SELECTING START TIMELAPSE */ 
                 mode = 1;
+                start = millis();
