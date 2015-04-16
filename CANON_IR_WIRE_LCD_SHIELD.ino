@@ -596,3 +596,4 @@ unsigned long elapsed = 0, pause_t = 0;
                 start = millis();
                 shutter = true;
                 digitalWrite(SHUTTER_PIN, HIGH);
+               }
