@@ -597,3 +597,4 @@ unsigned long elapsed = 0, pause_t = 0;
                 shutter = true;
                 digitalWrite(SHUTTER_PIN, HIGH);
                }
+            }else{
