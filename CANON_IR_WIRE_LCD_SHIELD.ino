@@ -598,3 +598,4 @@ unsigned long elapsed = 0, pause_t = 0;
                 digitalWrite(SHUTTER_PIN, HIGH);
                }
             }else{
+              /* In Timelapse mode */
