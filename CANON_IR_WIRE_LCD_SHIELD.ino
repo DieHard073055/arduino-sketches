@@ -609,3 +609,4 @@ unsigned long elapsed = 0, pause_t = 0;
                TIMELAPSE CONTROL CODE
        */
        if(mode == 1){
+          if(!paused){
